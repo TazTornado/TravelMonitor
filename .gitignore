@@ -53,4 +53,5 @@ dkms.conf
 
 
 # Other files explicitly listed
+/input_dir/
 /input_dir/*
