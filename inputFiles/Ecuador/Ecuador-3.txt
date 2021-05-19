@@ -1,0 +1,34 @@
+5789 Ardys Payley Ecuador 8 Epstein-Barr NO
+8064 Celisse Coogan Ecuador 31 Rotavirus YES 23-03-1950
+5484 Shannan Garrelts Ecuador 1 Norovirus NO
+8572 Wakefield Pedri Ecuador 79 Hepatitis-B YES 17-04-1942
+7246 Violante Jirusek Ecuador 35 SARS-CoV-1 NO
+9887 Ring Allsebrook Ecuador 29 Mumps NO
+2562 Averill Gottschalk Ecuador 120 Rubella YES 17-04-1976
+2217 Woodman Cavil Ecuador 73 Cytomegalovirus YES 09-09-1972
+7418 Ajay Alton Ecuador 108 Rabies YES 04-02-1999
+5290 Fax Avory Ecuador 75 Influenza NO
+8691 Hervey Zanetti Ecuador 89 Epstein-Barr YES 14-05-1948
+2382 Ashbey Cowtherd Ecuador 64 Coxsackie-B YES 15-08-1927
+4166 Trstram Ervine Ecuador 68 Mumps NO
+9765 Piggy Fenlon Ecuador 17 HPV YES 24-08-1977
+2174 Ainslee Reichelt Ecuador 59 HPV NO
+2082 Mark Hackly Ecuador 6 Rabies NO
+4060 Kerri Balbeck Ecuador 57 Adenovirus YES 19-05-1989
+8073 Kristel Grigorian Ecuador 120 Polio YES 18-06-1994
+9892 Gregor Sherer Ecuador 8 Adenovirus NO
+4642 Trefor Overell Ecuador 115 Influenza YES 21-08-2009
+7693 Vaughn Tourle Ecuador 33 Megavirus NO
+4470 Vivi Brimilcombe Ecuador 56 Cytomegalovirus YES 26-04-2020
+6627 Miller Leavens Ecuador 99 Megavirus YES 21-02-1989
+3652 Briny Janjic Ecuador 47 Coxsackie-B YES 05-04-1922
+6932 Myrtie Eyden Ecuador 27 Coxsackie-B YES 02-02-1910
+7717 Giorgio Grunnell Ecuador 26 HTLV-1 YES 01-02-1951
+2407 Lian Reubens Ecuador 117 Megavirus NO
+5154 Romonda Flott Ecuador 113 Adenovirus NO
+2431 Felisha Grierson Ecuador 23 SARS-CoV-1 NO
+0132 Meyer Saint Ecuador 37 Polio NO
+2072 Vladimir Vasilischev Ecuador 37 Hepatitis-B YES 05-12-1979
+1036 Marion Rhyme Ecuador 4 Varicella NO
+2225 Christie Hazeman Ecuador 13 Epstein-Barr YES 04-04-1975
+3352 Baron Harmson Ecuador 120 Hepatitis-B NO

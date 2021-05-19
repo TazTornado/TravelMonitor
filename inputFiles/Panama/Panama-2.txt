@@ -1,0 +1,32 @@
+7270 Lennard Barkworth Panama 58 Adenovirus NO
+7204 Othelia Crowcombe Panama 3 Herpes NO 08-06-1908
+0999 Liam Pilsworth Panama 11 Herpes YES 15-09-2012
+4197 Georgeta DeRuggero Panama 72 HPV YES 13-09-1920
+0954 Allie Krauss Panama 92 Coxsackie-B NO
+4065 Ash Doodson Panama 80 Coxsackie-B NO
+5218 Finley Paddon Panama 49 HTLV-1 YES 30-12-1914
+3123 Shermy Petrina Panama 44 Mumps YES 03-02-2013
+5487 Idalia Colliford Panama 99 SARS-CoV-1 NO
+9716 Yolande Brockie Panama 98 Varicella NO 10-07-1973
+2194 Idalina O'Hengerty Panama 51 Rubella NO
+7100 Miller Rops Panama 30 Polio NO 22-03-2020
+5288 Timoteo Drewry Panama 80 Rabies YES 11-05-1951
+6317 Milzie Robens Panama 46 HTLV-1 NO
+7289 Sonny Raitie Panama 94 HTLV-1 NO 16-08-1900
+6615 Harmon Wellesley Panama 88 HTLV-1 YES 10-06-2016
+6148 Giulia Mackrell Panama 108 COVID-19 YES 30-06-1978
+2237 Halsey Huncoot Panama 16 Mumps NO
+1370 Cortie Robyns Panama 63 Rubella NO
+9256 Leonid Palombi Panama 96 Megavirus YES 09-07-1936
+4287 Shermy Dunley Panama 108 Polio NO
+4619 Otha Alves Panama 91 Rabies YES 11-03-2014
+5823 Coleen Luckwell Panama 15 Polio NO 16-03-1974
+4230 Corny Lebourn Panama 64 Mumps YES 10-05-1905
+0904 Shelden Eakins Panama 12 HPV NO
+3979 Isidora Ingledew Panama 116 Rabies YES 03-12-2012
+9456 Joline Eckery Panama 9 HPV NO
+7630 Dorelia Smithen Panama 20 COVID-19 NO
+9562 Alvy Capes Panama 24 Influenza NO 27-10-1933
+7280 Shawn Spoward Panama 76 Epstein-Barr YES 28-05-2000
+5773 Talya Berryman Panama 32 Hepatitis-B NO
+6203 Bendix Navein Panama 25 Rabies NO

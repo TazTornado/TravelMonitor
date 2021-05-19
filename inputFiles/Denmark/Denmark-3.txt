@@ -1,0 +1,32 @@
+3447 Keelby Pitkin Denmark 2 Polio YES 30-08-1935
+4454 Allie Orum Denmark 58 Mumps YES 15-02-1941
+3715 Thorndike Piatkow Denmark 86 HPV YES 05-08-1958
+5908 Jakie Nolleau Denmark 103 HPV YES 22-11-2015
+5675 Bethina Audus Denmark 42 Herpes NO
+5417 Joleen Plewes Denmark 11 Rotavirus YES 20-04-1994
+2748 Rasla Milmore Denmark 82 Hepatitis-B YES 30-08-1966
+6772 Del Witsey Denmark 45 Varicella YES 22-03-1944
+3143 Felipa Jery Denmark 83 SARS-CoV-1 NO
+9208 Culley Nelmes Denmark 18 Hepatitis-B YES 07-06-1950
+5022 Chariot Anlay Denmark 48 Herpes YES 30-06-1900
+8696 Lacy Duchatel Denmark 5 Rotavirus YES 08-02-2017
+0028 Antone Gibb Denmark 112 Polio YES 06-07-1940
+1565 Jaime Plewes Denmark 102 HIV YES 26-02-1962
+0188 Orsola Okker Denmark 61 HPV YES 27-11-1998
+0026 Lorene Rops Denmark 73 Rubella NO
+9975 Julius Fronsek Denmark 105 Megavirus YES 06-06-2000
+5427 Trumann Cadwell Denmark 6 Adenovirus NO 06-06-1935
+4198 Far Iacovo Denmark 7 Epstein-Barr YES 01-03-1970
+9251 Nellie Benois Denmark 57 Rabies YES 04-09-1947
+0659 Thelma Trusslove Denmark 19 Mumps YES 25-04-1935
+3174 Cyril Scadden Denmark 88 Megavirus YES 21-11-2001
+9229 Shelby Overell Denmark 5 Herpes NO
+7212 Daisey Palombi Denmark 26 Cytomegalovirus YES 15-03-1948
+6086 Malvina Terzi Denmark 74 Rabies YES 25-05-1988
+4768 Forster Ennor Denmark 110 Norovirus NO
+9212 Romonda Martynikhin Denmark 15 Norovirus NO
+3245 Vale Robyns Denmark 81 Herpes YES 17-06-1928
+5468 Tandi Endecott Denmark 116 Rubella YES 02-01-2003
+3107 Betti Drewry Denmark 34 Epstein-Barr YES 12-11-1991
+3297 Shawn Craigie Denmark 18 Influenza NO
+7668 Dallis Navein Denmark 47 Hepatitis-B NO

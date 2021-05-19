@@ -1,0 +1,36 @@
+4540 Violante Olivi Monaco 37 Influenza YES 30-08-1902
+7390 Ashbey Pilsworth Monaco 33 SARS-CoV-1 NO
+0391 Meyer Claffey Monaco 112 Adenovirus YES 16-12-1961
+2621 Gerhard Navein Monaco 75 Cytomegalovirus YES 25-08-1968
+4525 Mordy Stanbra Monaco 32 Herpes NO
+9573 Galvin Loram Monaco 17 Rubella NO 01-09-1945
+5590 Truman Mogenot Monaco 95 Megavirus NO
+8855 Sheelagh Narducci Monaco 19 SARS-CoV-1 NO
+7030 Luce Jaycock Monaco 69 Coxsackie-B NO
+5798 Gwenni Noorwood Monaco 78 HIV YES 22-06-1983
+4196 Madlen Robens Monaco 3 Mumps YES 21-10-1988
+9121 Marlin Golthorpp Monaco 53 Cytomegalovirus YES 19-03-1977
+3736 Willie Callam Monaco 50 Rotavirus YES 06-03-1907
+7141 Gannon Gerkens Monaco 52 Varicella NO
+9003 Ulric Slade Monaco 57 Cytomegalovirus YES 02-10-1929
+1173 Yolanthe Earthfield Monaco 87 Rotavirus YES 28-08-2000
+6822 Theodosia Such Monaco 114 Norovirus YES 25-10-1996
+0790 Doralia Lomond Monaco 57 Influenza YES 29-12-1967
+5464 Lorrayne Lode Monaco 51 Mumps NO 11-11-1922
+2643 Piggy Kettley Monaco 84 Polio YES 27-12-1920
+1219 Joscelin Herity Monaco 82 HTLV-1 YES 05-01-1924
+8486 Antonietta Dowrey Monaco 103 Coxsackie-B YES 25-12-1930
+4489 Caleb Hazeman Monaco 118 SARS-CoV-1 NO
+1885 Cari Giggs Monaco 49 Rubella NO
+4652 Julius Standen Monaco 94 HIV YES 26-09-1906
+1323 Drona Chasemore Monaco 48 Adenovirus YES 02-09-1915
+4030 Wakefield Dominichetti Monaco 90 Norovirus NO
+3210 Briny Barthrop Monaco 30 Influenza YES 24-09-2001
+2769 Honor Wink Monaco 17 HTLV-1 YES 02-07-1948
+6128 Eydie Hethron Monaco 29 Megavirus YES 21-09-1942
+3553 Mikael Halliday Monaco 102 Polio NO
+1844 Rollo Reichelt Monaco 16 Hepatitis-B YES 13-03-1940
+3151 Davina Tippetts Monaco 102 Mumps NO
+0923 Lanie Nattrass Monaco 8 HPV YES 04-09-2013
+4902 Daphna Cavie Monaco 111 Cytomegalovirus YES 27-10-1973
+9268 Yolande Heinzel Monaco 10 Megavirus NO 01-08-1975

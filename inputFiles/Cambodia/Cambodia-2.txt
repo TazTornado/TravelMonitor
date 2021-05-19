@@ -1,0 +1,32 @@
+9145 Del Sadd Cambodia 55 COVID-19 NO
+0617 Kayla Kenny Cambodia 99 SARS-CoV-1 YES 07-01-1995
+5038 Pip Posnett Cambodia 1 Rotavirus YES 08-02-1952
+7267 Nikolos Collum Cambodia 32 Hepatitis-B YES 22-05-1946
+8953 Henka Gerkens Cambodia 16 Norovirus NO
+3339 Judy Pinnere Cambodia 99 SARS-CoV-1 YES 21-11-1978
+1600 Valli Ennor Cambodia 77 HIV NO
+3308 Julius Ewebank Cambodia 77 Hepatitis-B NO
+5832 Meredeth Comazzo Cambodia 9 Norovirus YES 26-11-2010
+5552 Blane Leere Cambodia 70 Rotavirus YES 06-02-1945
+8831 Keene Petrillo Cambodia 76 Polio NO 02-12-2006
+4314 Oriana Mabson Cambodia 87 Rabies YES 17-11-2000
+1023 Reube Grinter Cambodia 89 Epstein-Barr YES 25-07-1998
+2472 Margalit Scadden Cambodia 3 Norovirus YES 12-03-1950
+2620 Egan DeCourcey Cambodia 110 Cytomegalovirus NO
+2610 Yoshiko Schroeder Cambodia 33 Megavirus YES 27-11-1955
+1620 Timoteo Kinchley Cambodia 35 Rabies YES 08-07-1985
+9427 Eden Morl Cambodia 7 HTLV-1 NO
+2353 Claudia Iskow Cambodia 13 SARS-CoV-1 YES 21-04-1912
+0582 Wrennie Austing Cambodia 103 Polio NO 25-04-1971
+8642 Murielle Mathiasen Cambodia 79 Megavirus NO
+1278 Charil Doodson Cambodia 112 Rotavirus YES 05-01-1970
+2012 Ramsay Chafney Cambodia 93 Rubella NO
+0024 Kerri Aronovitz Cambodia 92 Norovirus YES 13-10-1923
+8715 Baron Geering Cambodia 93 Coxsackie-B YES 29-07-1905
+3160 Gertrude Amer Cambodia 49 SARS-CoV-1 NO 27-06-1987
+4780 Philly Abley Cambodia 112 Mumps YES 06-05-1988
+3269 Gertrude Ingledew Cambodia 63 Megavirus NO
+7686 Jimmy Brittan Cambodia 60 Polio YES 25-08-1936
+6490 Brannon Robyns Cambodia 8 HPV NO
+4957 Ainsley Kensington Cambodia 64 Rabies YES 07-10-1968
+6251 Xylia Lumley Cambodia 4 Cytomegalovirus NO

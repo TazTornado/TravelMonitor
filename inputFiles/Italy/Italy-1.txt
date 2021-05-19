@@ -1,0 +1,35 @@
+4986 Rodrique Madgin Italy 88 HPV NO
+0879 Eden Persence Italy 61 HIV NO
+8279 Britni Hartopp Italy 33 HTLV-1 YES 18-10-2001
+0678 Ashleigh Baine Italy 116 Coxsackie-B NO
+7259 Jami Canham Italy 6 Rubella YES 25-03-1982
+3595 Calvin Parnby Italy 61 Norovirus YES 19-05-1915
+9024 Anatola Toten Italy 90 HIV NO
+2480 Nicoline Addenbrooke Italy 71 COVID-19 YES 11-02-1995
+8866 Calvin Hedditch Italy 52 HTLV-1 NO
+9425 Meyer Killford Italy 119 Coxsackie-B YES 28-11-1938
+1409 Leslie Elintune Italy 17 Megavirus NO
+4184 Caleb Saunter Italy 65 Varicella NO
+1429 Waiter Crebo Italy 80 Cytomegalovirus NO
+9306 Georgeanne Tibbotts Italy 120 Cytomegalovirus YES 14-12-1991
+9795 Diego Tynan Italy 82 Varicella YES 15-02-1956
+7479 Leeann Paddon Italy 110 Norovirus NO
+7345 Son Greatbach Italy 33 Polio YES 19-06-1990
+3497 Eldon Coopey Italy 85 Polio NO
+2280 Valentine O'Dowgaine Italy 109 Rotavirus NO
+5960 Maegan Hutt Italy 37 Rubella YES 16-05-1932
+2392 Gwenni Prium Italy 88 Influenza YES 24-02-2021
+1976 Sebastiano Haire Italy 79 Norovirus YES 15-11-2003
+6588 Rhiamon Cron Italy 19 Mumps NO
+1895 Alejandra Fenlon Italy 93 Herpes NO
+2855 Giovanni Goroni Italy 65 Rabies NO
+2519 Palmer Huncoot Italy 55 Coxsackie-B NO
+5910 Delbert Mawd Italy 24 Mumps YES 15-11-1954
+2290 Mercy Gumn Italy 105 Norovirus NO 21-01-1902
+9504 Bathsheba Martinovic Italy 37 HIV NO
+6623 Maryellen Eilert Italy 28 Polio YES 05-03-1985
+5233 Marion Neilson Italy 113 Influenza YES 04-04-1952
+8664 Rancell Hynam Italy 89 Mumps NO
+3432 Charmian Sonier Italy 51 Adenovirus YES 21-11-2003
+2991 Fitz Pimlott Italy 90 Influenza YES 26-11-1914
+8749 Leann Follet Italy 46 Epstein-Barr NO

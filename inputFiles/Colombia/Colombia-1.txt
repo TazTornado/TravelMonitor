@@ -1,0 +1,31 @@
+0815 Sean Rosencrantz Colombia 78 Cytomegalovirus NO
+6488 Renate Cadwell Colombia 114 Hepatitis-B NO
+5360 Ibrahim Andrzej Colombia 35 Norovirus YES 20-04-2017
+2246 Jorrie Habercham Colombia 105 Rotavirus NO
+0930 Davy Eckery Colombia 71 COVID-19 YES 18-07-1927
+4288 Jacquelynn Smithen Colombia 24 Adenovirus YES 22-11-1968
+7440 Jacky Sybe Colombia 44 COVID-19 YES 28-03-2016
+5890 Rudy Gowenlock Colombia 81 Mumps YES 23-10-1975
+1378 Venita Balbeck Colombia 31 Polio YES 07-10-1941
+6813 Henrietta Cattlow Colombia 21 Rabies YES 25-06-1950
+8020 Cacilie Giacopazzi Colombia 5 SARS-CoV-1 YES 03-11-1988
+0646 Lucie Thaller Colombia 64 Rabies NO
+2922 Shannan Marchenko Colombia 76 Rubella YES 11-01-2017
+4125 Holden Bulgen Colombia 48 Varicella YES 14-10-1962
+6474 Graham Ruppel Colombia 94 Adenovirus YES 01-02-1965
+6848 Madelaine Peeke-Vout Colombia 96 Rubella NO 14-04-1981
+2937 Milzie DeRuggero Colombia 79 Varicella YES 17-11-1969
+6123 Maren Leacy Colombia 81 Rotavirus YES 10-08-2017
+1482 Zackariah Skiplorne Colombia 41 Rabies YES 12-03-1969
+0171 Lemar Marcussen Colombia 49 Hepatitis-B NO
+6795 Reube Hazeman Colombia 105 COVID-19 YES 04-09-1940
+0622 Yettie Iskow Colombia 23 HIV NO
+9816 Melli Allnatt Colombia 77 Rabies YES 14-01-1958
+8513 Joelie Pristnor Colombia 76 HPV NO
+4438 Nadine Critchley Colombia 84 HPV NO
+5732 Corly Rosencrantz Colombia 45 Varicella YES 05-01-1929
+2526 Xylia Stych Colombia 17 Rubella YES 04-01-1929
+4364 Karisa Sherer Colombia 57 Cytomegalovirus YES 22-04-1988
+1961 Judy Weekley Colombia 11 Epstein-Barr YES 09-05-2018
+0851 Efren Gateley Colombia 3 SARS-CoV-1 NO
+7105 Daisey Deware Colombia 117 Influenza YES 24-05-1942

@@ -1,0 +1,40 @@
+7972 Rolfe Winwood Jordan 86 Influenza NO
+9682 Gloriane Gyer Jordan 57 SARS-CoV-1 YES 28-12-1934
+0581 Gracia Revel Jordan 36 Rotavirus NO
+3354 Danyette Moquin Jordan 87 SARS-CoV-1 YES 12-11-1980
+9706 Alfredo Gauche Jordan 19 Rubella NO
+3373 Merci Tincknell Jordan 21 Mumps NO
+8792 Jimmy Nolin Jordan 75 Megavirus YES 04-01-1989
+9698 Sean Tuson Jordan 8 HTLV-1 NO
+8861 Florette Renehan Jordan 56 Rotavirus YES 27-06-1987
+2828 Vaughn Cinavas Jordan 55 HTLV-1 NO
+7712 Horst Fearnsides Jordan 29 Epstein-Barr YES 12-04-2018
+9779 Christie Lawlance Jordan 103 Varicella YES 13-10-1913
+3058 Jonie Stanbro Jordan 13 Norovirus YES 10-08-2008
+4432 Dur Dicty Jordan 27 Varicella NO
+6757 Felicio Grimsdyke Jordan 48 Epstein-Barr YES 18-10-1946
+4077 Homer Carver Jordan 96 Influenza YES 29-10-2001
+7133 Thain Comazzo Jordan 46 SARS-CoV-1 NO
+7747 Malina Guntrip Jordan 86 Varicella NO
+3685 Balduin Arnet Jordan 104 Epstein-Barr YES 29-12-2008
+2850 Valli Mollison Jordan 64 Polio NO
+6947 Kimmie Cammack Jordan 16 COVID-19 YES 11-09-1934
+4456 Joscelin Whitters Jordan 42 SARS-CoV-1 YES 04-12-1979
+4076 Caleb Martynikhin Jordan 107 Norovirus NO
+9405 Meredeth Raitie Jordan 92 COVID-19 YES 07-12-1973
+6151 Dyna Rops Jordan 33 HIV YES 24-08-1996
+9109 Morna Paddefield Jordan 11 Coxsackie-B YES 20-12-2012
+6838 Cherlyn Grunnell Jordan 90 Megavirus YES 07-12-2018
+6608 Bear Normanvill Jordan 42 Cytomegalovirus NO
+2027 Bertina Lanfranchi Jordan 33 Varicella YES 01-10-1927
+7898 Juliet Vowden Jordan 28 HTLV-1 NO
+9069 Janenna Rickarsey Jordan 110 HIV YES 08-01-1995
+6094 Mack Whinray Jordan 6 Norovirus YES 19-03-1922
+2970 Olvan Antoniazzi Jordan 113 HIV NO
+1394 Diego Wickenden Jordan 48 Rabies YES 08-10-2017
+9266 Rorie Geelan Jordan 70 Influenza NO
+7861 Madelaine Salliss Jordan 101 Polio NO
+5939 Waiter Haines Jordan 49 Rubella NO
+1622 Barnie Goroni Jordan 64 HPV NO
+1070 Karola Plewes Jordan 115 Hepatitis-B NO
+0567 Lorettalorna Shipp Jordan 54 Rabies NO

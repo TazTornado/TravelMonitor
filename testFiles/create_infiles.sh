@@ -36,6 +36,39 @@ else
 	exit 1
 fi
 
-for subdir in $(ls $inputDir); do
-	echo $subdir
+
+declare -A write_next		# holds which file to write in next, for each country
+
+while IFS= read -r line; do
+	record=($line)
+	country=${record[3]}
+	subdirs=($(ls $inputDir))
+
+	if [[ ! "${subdirs[@]}" =~ "$country" ]]; then		# first time reading this country
+		mkdir "$inputDir/$country"						# create country directory
+		write_next[$country]=0		
+
+		for(( i = 1; i <= $numFilesPerDirectory; i++ )){		# create all 'numFiles' empty files
+			touch "$inputDir/$country/$country-$i.txt"
+		}
+	fi
+
+	fileIndex=${write_next[$country]}
+	((fileIndex++))
+
+	echo ${record[@]} >> "$inputDir/$country/$country-$fileIndex.txt"	# write record in the right file
+	
+	((fileIndex++))
+	write_next[$country]=$fileIndex
+	write_next[$country]=$((${write_next[$country]} % $numFilesPerDirectory))	# fix index for next file
+
+done < $inputFile
+
+for directory in $(ls $inputDir); do
+	for file in $(ls "$inputDir/$directory"); do
+		if [[ ! -s "$inputDir/$directory/$file" ]]; then
+			echo Deleting "$inputDir/$directory/$file"...
+			rm "$inputDir/$directory/$file"							# remove all empty files
+		fi
+	done
 done

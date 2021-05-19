@@ -1,0 +1,34 @@
+8240 Ainslee Simionescu France 114 Epstein-Barr NO
+0085 Benton Hawson France 58 Polio YES 08-03-1984
+3927 Gearalt Burrage France 109 Norovirus YES 17-05-1948
+0422 Talya Statersfield France 10 HTLV-1 YES 27-10-2010
+9188 Cissiee Rummings France 50 SARS-CoV-1 NO
+2330 Xylia Sturgis France 118 Rabies NO
+8085 Jami Gibb France 115 Adenovirus YES 13-03-1981
+7356 Cord Sadd France 26 Mumps YES 16-12-1996
+1136 Porter Harbard France 60 Varicella YES 05-04-1913
+8781 Debra Jirka France 10 Varicella YES 04-03-1995
+7316 Loren McKeating France 23 Polio NO
+4682 Shermy Benion France 118 Rotavirus YES 23-12-2016
+0086 Shaine Burrus France 70 Adenovirus NO
+6931 Ulric Garrelts France 34 Norovirus YES 19-08-2006
+8061 Alanah Berndtssen France 86 Polio NO
+6595 Griselda Drewry France 1 Hepatitis-B YES 06-09-2004
+9150 Cynthea Threadgould France 38 Influenza YES 04-06-1934
+2762 Siegfried Greave France 77 Norovirus NO
+4788 Eydie McKintosh France 65 Rubella NO 29-04-1990
+7788 Kristel Oakwell France 103 Norovirus YES 16-03-1937
+2511 Karisa Aust France 85 Norovirus YES 23-08-1954
+5949 Barbabas Gyer France 71 Varicella YES 26-03-1903
+9217 Vilhelmina Parnby France 27 Varicella NO
+4765 Thaxter Orable France 64 Influenza NO
+0653 Georgeta Sanches France 45 Rabies NO
+8993 Garrett Tillett France 61 SARS-CoV-1 YES 18-12-1978
+1500 Ainslee Herrieven France 110 Mumps YES 04-01-1916
+7843 Dell Swigger France 38 HPV NO
+2022 Nariko Tollady France 93 Mumps YES 19-09-1948
+7730 Honor Methley France 21 Norovirus NO
+2743 Gerhard Feighry France 57 Coxsackie-B NO
+6208 Teri Headley France 119 SARS-CoV-1 NO
+8108 Homer Ciardo France 54 Norovirus NO 04-06-1939
+1354 Gretta Magnar France 22 Adenovirus YES 28-11-1989

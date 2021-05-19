@@ -1,0 +1,28 @@
+4634 Karisa Allan Slovenia 88 Rubella NO
+7499 Rhiamon Tourle Slovenia 45 Norovirus YES 15-01-2005
+7544 Zita Twidle Slovenia 86 Rabies YES 26-10-1976
+8716 Nannie Goroni Slovenia 91 Varicella YES 29-04-1929
+7722 Jeanna Aingell Slovenia 56 Epstein-Barr NO
+1680 Kort Masey Slovenia 61 Norovirus NO
+5575 Shay Brookbank Slovenia 70 Influenza YES 26-02-1932
+8478 Lyle Gartan Slovenia 79 Herpes NO
+7612 Blane Wellesley Slovenia 80 HPV NO
+8340 Alice Trenbay Slovenia 39 COVID-19 YES 22-11-1921
+3706 Natividad Diack Slovenia 34 COVID-19 NO
+9126 Nathan Antoniazzi Slovenia 80 Epstein-Barr YES 29-01-1904
+5523 Leeann D'Oyly Slovenia 81 Cytomegalovirus NO 21-09-1916
+7234 Faina Louys Slovenia 70 Rotavirus NO
+0886 Orsola Trowle Slovenia 6 HTLV-1 NO
+8331 Lacie Bugby Slovenia 16 Megavirus YES 25-04-2002
+8799 Lise Alves Slovenia 20 Hepatitis-B YES 19-06-1902
+2960 Gifford Addionisio Slovenia 19 Mumps YES 23-07-2012
+5962 Bink Cowey Slovenia 48 COVID-19 NO
+3106 Florette Tiffany Slovenia 65 COVID-19 YES 19-08-2006
+9243 Othelia Drinnan Slovenia 58 Polio NO 24-12-2020
+7695 Douglas Goulthorp Slovenia 99 SARS-CoV-1 YES 15-01-1996
+7351 Cari Hazeman Slovenia 19 Cytomegalovirus NO
+4107 Meir Adamo Slovenia 115 Rotavirus YES 19-07-1980
+6884 Nicoline Trehearn Slovenia 114 Rabies NO
+9170 Bord Eborall Slovenia 76 Megavirus YES 27-12-1917
+7875 Rodrique Farloe Slovenia 73 Adenovirus YES 24-04-1920
+6482 Cynthea Reichelt Slovenia 3 COVID-19 YES 30-06-1946

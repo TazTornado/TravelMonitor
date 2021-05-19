@@ -1,0 +1,40 @@
+0971 Bernie Hudghton Sudan 60 SARS-CoV-1 NO
+1275 Giovanni Aggus Sudan 5 Rabies NO
+1175 Meris Coopey Sudan 24 COVID-19 YES 26-05-2011
+8044 Keenan Hachard Sudan 108 Influenza NO
+2285 Ingamar Redwood Sudan 81 Megavirus YES 22-11-1907
+6255 Nonna DeRuggero Sudan 101 Rotavirus YES 07-06-2006
+8830 Shannah Grinter Sudan 39 Rubella NO
+0553 Daria Hartopp Sudan 61 Polio YES 27-09-1925
+6226 Vaughn Presshaugh Sudan 62 Mumps YES 20-09-1990
+2019 Rudolfo Prujean Sudan 5 HPV YES 20-03-1949
+4731 Mercy Demko Sudan 113 Norovirus NO
+3594 Trixie Cavie Sudan 72 COVID-19 YES 14-02-2004
+9462 Edi Drinnan Sudan 31 Coxsackie-B YES 22-12-2015
+6282 Golda Beneyto Sudan 100 HIV YES 05-07-1973
+1524 Humfrid Menauteau Sudan 51 HTLV-1 NO
+4150 Baron Iskow Sudan 113 HPV YES 13-07-1929
+3562 Rudy Nolleau Sudan 64 Adenovirus YES 30-02-1989
+7883 Thorndike Pomery Sudan 28 Rotavirus YES 09-01-2020
+4113 Yoshiko Inde Sudan 24 Herpes NO 28-08-1971
+7093 Carter Roja Sudan 100 Herpes YES 14-08-2009
+8836 Finley Hill Sudan 101 Cytomegalovirus NO
+0168 Ephrem Allsebrook Sudan 56 Herpes YES 11-03-1928
+4175 Elysee Mutimer Sudan 51 Herpes YES 03-12-1930
+4783 Homer Gosz Sudan 74 Coxsackie-B YES 14-04-1901
+2317 Georgie Tourle Sudan 28 Influenza YES 29-05-1985
+5097 Cord McKay Sudan 65 Influenza YES 30-10-1974
+8873 Gracia Antoniazzi Sudan 67 HIV NO
+2617 Rona Eborall Sudan 106 Influenza NO
+1300 Tanney Cowtherd Sudan 30 Influenza YES 15-01-1969
+2534 Marcel Blaskett Sudan 13 Norovirus NO
+0141 Gregorio Nolleau Sudan 34 Epstein-Barr YES 10-08-1962
+8800 Robbin Flori Sudan 40 SARS-CoV-1 YES 14-07-1973
+3523 Davina Acey Sudan 118 Mumps YES 23-06-1987
+3762 Emmalyn Albrecht Sudan 7 Megavirus NO
+0951 Sid Scadden Sudan 1 Hepatitis-B NO
+0439 Marshall Gyer Sudan 4 Coxsackie-B NO
+0852 Ainslee Huard Sudan 63 Adenovirus NO
+5702 Brandtr Prujean Sudan 75 Mumps NO 27-07-1906
+8857 Tanney Nestor Sudan 18 Influenza NO
+2216 Clovis Cotillard Sudan 99 Herpes NO

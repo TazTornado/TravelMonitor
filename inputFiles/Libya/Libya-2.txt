@@ -1,0 +1,36 @@
+3763 Timoteo Cammack Libya 42 COVID-19 NO
+1814 Forester Fletham Libya 118 Influenza NO
+3596 Leyla Windsor Libya 101 Adenovirus NO
+3318 Xylia Spilling Libya 7 Norovirus NO
+9291 Meg Witsey Libya 54 Adenovirus YES 29-03-1923
+9155 Daria Fenby Libya 45 Megavirus NO
+4085 Jennica Saunter Libya 69 Hepatitis-B YES 18-02-1983
+2080 Gretta Snowsill Libya 32 Polio YES 05-02-1962
+2490 Melisa McGennis Libya 7 COVID-19 YES 13-09-1948
+4566 Maisey Fredy Libya 23 Rabies NO
+5071 Giulia Thick Libya 65 Herpes NO
+5457 Nanon Garrelts Libya 14 Cytomegalovirus NO
+3474 Chelsie Shipp Libya 8 Polio NO
+8251 Mariana Fache Libya 14 Adenovirus NO
+3949 Karlyn Danihelka Libya 19 Polio YES 07-06-2020
+2042 Philly McGowing Libya 34 HPV NO
+0215 Isadora Truesdale Libya 44 SARS-CoV-1 YES 14-10-1900
+0549 Celisse Chiechio Libya 4 Varicella NO
+2760 Halsey Errigo Libya 99 Herpes YES 24-09-1920
+6277 Bernie Acey Libya 31 Adenovirus YES 25-07-1993
+6053 Nathan Dicty Libya 87 SARS-CoV-1 YES 27-09-1940
+3431 Chariot McGuiney Libya 65 Herpes YES 25-08-1997
+3550 Alejandra Dwelly Libya 8 Rabies NO 28-03-1917
+9925 Gregorio Clout Libya 6 SARS-CoV-1 NO
+1043 Berkeley Neilson Libya 119 Rotavirus YES 30-09-2015
+9886 Elmer Kenyam Libya 66 Influenza YES 25-03-1969
+8549 Osborne McGennis Libya 10 SARS-CoV-1 NO
+1462 Morna Bennett Libya 34 Epstein-Barr NO
+8981 Claudine Brendish Libya 50 Rotavirus YES 22-05-1960
+0689 Yolanthe Galliard Libya 80 Epstein-Barr YES 09-03-1985
+8714 Fitz Latham Libya 36 COVID-19 YES 05-07-1970
+4487 Shanon Purkess Libya 80 Herpes NO
+0984 Thain Windybank Libya 75 Adenovirus NO
+9168 Jasmin Smaleman Libya 66 Rabies NO
+9436 Biron Leirmonth Libya 74 Herpes NO
+2684 Tildi Herrema Libya 67 Mumps YES 07-04-2012

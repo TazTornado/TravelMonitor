@@ -1,0 +1,30 @@
+7604 Gertrude Muzzall Paraguay 9 Cytomegalovirus NO
+7242 Culley MacCarrick Paraguay 6 Megavirus NO
+8681 Terry Boleyn Paraguay 78 Influenza NO
+0673 Yoshi Sendley Paraguay 120 Coxsackie-B NO
+8591 Kristel Ciardo Paraguay 77 COVID-19 YES 25-08-1985
+3183 Jasmin Tincknell Paraguay 31 Rubella NO
+0351 Jaymie Reubens Paraguay 111 Rotavirus NO
+7543 Burke Pol Paraguay 91 COVID-19 NO
+5503 Debra Jindrich Paraguay 108 Cytomegalovirus YES 23-01-1937
+6101 Rey Nolleau Paraguay 52 Epstein-Barr NO
+5657 Northrop Mottinelli Paraguay 63 Adenovirus NO
+7886 Carilyn Enriques Paraguay 118 Coxsackie-B NO
+9867 Karisa Truesdale Paraguay 60 Influenza YES 11-10-1938
+7474 Leeann Gosker Paraguay 73 Cytomegalovirus NO
+9996 Der Flott Paraguay 101 HIV YES 03-12-1947
+9344 Coleman Kisbee Paraguay 104 Coxsackie-B YES 12-12-1927
+1256 Becka Girdlestone Paraguay 45 Norovirus NO
+0112 Ulric Meneux Paraguay 99 Epstein-Barr NO
+0734 Vickie Althorp Paraguay 43 COVID-19 YES 10-11-1925
+3281 Shaylynn Shilliday Paraguay 33 HTLV-1 YES 06-09-2005
+9875 Craggy Lomond Paraguay 32 Megavirus YES 25-08-1949
+6618 Darice Bickley Paraguay 55 Epstein-Barr NO
+4729 Casi Eckery Paraguay 109 Adenovirus NO
+9265 Viole Icom Paraguay 94 SARS-CoV-1 NO
+7703 Bear Fishbie Paraguay 46 HIV NO
+8732 Paulita Boleyn Paraguay 36 Cytomegalovirus NO
+6650 Sherman Ballantine Paraguay 22 Varicella YES 09-11-2002
+5391 Miller Tarbatt Paraguay 34 HTLV-1 YES 05-07-1927
+9894 Elizabet Crombleholme Paraguay 45 Herpes NO
+6107 Garrett Doodson Paraguay 20 COVID-19 NO 30-07-1976

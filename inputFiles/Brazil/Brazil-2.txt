@@ -1,0 +1,33 @@
+9397 Ursulina Djuricic Brazil 4 Hepatitis-B NO
+0583 Nicolais Salthouse Brazil 102 Rubella NO
+8722 Bartel Habercham Brazil 49 Cytomegalovirus NO
+4698 Darice Habercham Brazil 49 Rubella NO
+4575 Jimmy Hinkes Brazil 67 SARS-CoV-1 NO 29-01-2019
+7473 Carce Kennewell Brazil 109 HIV NO
+0929 Gus Krause Brazil 113 HIV YES 19-09-1903
+3383 Daisey Sheaber Brazil 84 Varicella YES 22-07-2002
+0330 Arlen Heady Brazil 57 Rubella NO
+4512 Shanta Sutty Brazil 48 Epstein-Barr NO
+8014 Corny Ferrillio Brazil 21 Adenovirus YES 16-08-2017
+3040 Grier McCague Brazil 60 Herpes YES 30-09-1920
+4942 Cord Overell Brazil 72 Herpes YES 22-03-1913
+9885 Livvie Gauche Brazil 113 Rubella YES 28-12-1992
+0941 Beverly McCotter Brazil 89 Coxsackie-B NO
+2791 Reagan Morsley Brazil 37 Megavirus NO
+2440 Pattie Stoffers Brazil 12 HIV YES 09-12-1972
+1172 Willie Scranedge Brazil 76 Rotavirus YES 24-08-1946
+0936 Darci Georgins Brazil 60 Norovirus NO
+4293 Philly Whitters Brazil 31 Rubella NO
+7945 Helge Ephgrave Brazil 79 Coxsackie-B NO
+6793 Gabbi McKeating Brazil 61 Epstein-Barr NO
+1813 Egon Wibberley Brazil 35 HIV YES 24-04-2020
+7391 Augie Huncoot Brazil 115 Adenovirus YES 01-04-1921
+1209 Daryl Dadds Brazil 116 Epstein-Barr YES 15-09-1946
+9414 Ibby Padula Brazil 35 Cytomegalovirus NO 17-02-1906
+5703 Melli Latham Brazil 24 Rotavirus NO
+0185 Ange Mawd Brazil 39 Herpes YES 08-10-1967
+2976 Shay Gasking Brazil 68 HTLV-1 NO
+3862 Nevins Cadigan Brazil 120 Herpes NO
+0229 Alvin Fenby Brazil 85 Norovirus YES 04-03-1937
+0317 Theodor Lincey Brazil 28 SARS-CoV-1 NO
+0486 Caleb Alton Brazil 99 Epstein-Barr YES 30-07-1946

@@ -1,0 +1,30 @@
+1681 Lise Crebo Colombia 61 Varicella NO
+6401 Gael Boydle Colombia 10 Rubella YES 13-05-1938
+5865 Marcelle Rhyme Colombia 106 Polio YES 24-12-1996
+3333 Maisey Ciardo Colombia 56 HIV YES 30-01-1998
+2578 Amelia Tiery Colombia 115 Rubella YES 12-06-1908
+7101 Debra Reubens Colombia 13 Mumps NO
+1033 Ajay Hill Colombia 9 Mumps YES 17-04-2017
+7835 Lowe Garrelts Colombia 81 Mumps NO 24-10-1998
+0661 Melva Leggon Colombia 98 Cytomegalovirus NO
+0580 Trefor Roake Colombia 92 HIV YES 03-05-1958
+2448 Jennica Leirmonth Colombia 84 Mumps NO 10-06-1941
+3551 Gannon Rapson Colombia 69 Mumps NO
+2470 Bernie Gauche Colombia 55 HIV YES 06-09-1915
+0543 Lacie Plewes Colombia 67 Cytomegalovirus YES 18-12-1907
+5444 Sebastiano Lyddiatt Colombia 45 Polio NO
+1527 Lucia Hawke Colombia 93 HIV NO
+3746 Katleen Yoseloff Colombia 13 Polio YES 13-05-1963
+1607 Cyrill Slade Colombia 8 Norovirus YES 01-08-1915
+0917 Palm Pilsworth Colombia 29 COVID-19 NO
+6009 Sianna Youthed Colombia 76 Mumps NO
+7181 Ugo Gunny Colombia 92 HIV NO 04-06-1985
+0130 Biron Fredy Colombia 26 Varicella YES 26-01-1973
+9299 Sidonnie Mallaby Colombia 14 Adenovirus YES 18-03-1944
+7635 Cherry Seacroft Colombia 78 Norovirus YES 02-01-1968
+3533 Ricki Verlinde Colombia 52 HPV YES 15-03-2007
+8657 Ester Iddins Colombia 41 Rubella YES 11-04-1910
+0325 Sandra Cawthorn Colombia 4 HPV YES 09-02-2010
+2146 Nancee Hirjak Colombia 15 SARS-CoV-1 NO
+8796 Carver Acey Colombia 65 Adenovirus NO
+2405 Pattie Windle Colombia 14 Varicella YES 05-07-2017

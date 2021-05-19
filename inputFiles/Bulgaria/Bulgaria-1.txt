@@ -1,0 +1,31 @@
+9729 Vladimir Godthaab Bulgaria 47 Influenza NO
+6779 Dulcie Housin Bulgaria 50 Herpes YES 18-02-1949
+6188 Rosella Giottini Bulgaria 54 Cytomegalovirus YES 09-12-2003
+3559 Nicko Tollady Bulgaria 9 Adenovirus NO
+5025 Isacco Geldeford Bulgaria 4 Rubella NO
+7349 Heindrick Brecknall Bulgaria 47 Cytomegalovirus NO
+7161 Mariana Look Bulgaria 24 HTLV-1 NO
+8899 Roderigo Blaszczak Bulgaria 61 Norovirus NO
+2516 Loren Kennewell Bulgaria 46 COVID-19 YES 17-03-1991
+1748 Hetty Dumblton Bulgaria 118 Varicella NO
+1570 Thelma Noble Bulgaria 44 Polio YES 19-04-1928
+3116 Elysee Gantzman Bulgaria 57 Cytomegalovirus YES 10-06-1959
+4523 Malissia Tincknell Bulgaria 77 COVID-19 NO
+5802 Culver Fittes Bulgaria 13 Polio YES 08-02-1937
+9458 Thain Deal Bulgaria 59 Adenovirus NO
+8662 Joscelin Herrieven Bulgaria 66 HIV NO 24-03-1913
+0711 Kyla McGrill Bulgaria 4 Megavirus NO
+0335 Nappie Tryme Bulgaria 89 COVID-19 YES 05-04-1956
+1626 Fulvia Icom Bulgaria 10 COVID-19 NO 21-02-1911
+9914 Rochette Vasilischev Bulgaria 106 Epstein-Barr NO
+9723 Murielle Vila Bulgaria 4 Adenovirus YES 03-04-1904
+8165 Meir Alves Bulgaria 29 Megavirus NO
+5699 Carey Bubear Bulgaria 5 Adenovirus NO
+3355 Romonda Claffey Bulgaria 43 Norovirus YES 24-09-1977
+7785 Daisey Gumn Bulgaria 100 Epstein-Barr NO
+3745 Nert Sinton Bulgaria 12 Epstein-Barr NO
+1019 Bryna Ferrillio Bulgaria 52 Polio NO
+6674 Augie Katzmann Bulgaria 88 Coxsackie-B YES 13-10-2011
+7206 Abba Scadden Bulgaria 108 COVID-19 NO
+7457 Job Bolter Bulgaria 30 Influenza NO 04-05-1986
+0297 Ali Bedbrough Bulgaria 32 HPV NO

@@ -1,0 +1,38 @@
+6851 Ruggiero Callam Vanuatu 33 Polio NO
+4759 Angelico Fellgatt Vanuatu 37 Herpes YES 10-04-1945
+0613 Rona Arlet Vanuatu 81 Rubella YES 08-08-1995
+7315 Roderigo Stather Vanuatu 7 HIV YES 28-09-1912
+4070 Kurt Burrus Vanuatu 9 Rabies YES 06-01-2000
+5514 Brande Gilbart Vanuatu 103 SARS-CoV-1 YES 05-02-1940
+3445 Georg Crummay Vanuatu 92 Cytomegalovirus NO
+1545 Griselda Habercham Vanuatu 71 Rubella YES 16-06-1973
+9865 JoAnn Twidle Vanuatu 68 Varicella YES 28-08-1952
+7989 Thorndike Coltart Vanuatu 57 HIV NO 12-02-1971
+1521 Lynett Paddon Vanuatu 1 Epstein-Barr NO
+6753 Yoshiko Toten Vanuatu 15 Influenza NO
+5239 Packston Hebard Vanuatu 5 Rotavirus YES 06-09-1935
+4815 Alecia Whisson Vanuatu 5 Herpes YES 29-05-2014
+4898 Heidie Shelborne Vanuatu 85 Influenza YES 09-09-1960
+0228 Nancee Kirsch Vanuatu 93 SARS-CoV-1 YES 21-12-1990
+7170 Rubina Rigg Vanuatu 6 Rotavirus YES 03-07-1927
+9564 Rosy Veale Vanuatu 21 HTLV-1 YES 19-12-1980
+5494 Niki Windsor Vanuatu 47 Adenovirus YES 16-12-2019
+8961 Reynold Jennens Vanuatu 83 Coxsackie-B YES 18-12-1930
+0269 Cinda Lope Vanuatu 69 Rubella YES 28-06-1973
+5654 Maryellen Crunkhurn Vanuatu 58 Coxsackie-B YES 19-10-1957
+4557 Chilton Tarbatt Vanuatu 94 Norovirus NO 11-09-1902
+2865 Shelby Paddon Vanuatu 44 Megavirus NO
+9690 Meredeth Sember Vanuatu 68 Rabies NO
+4939 Kimmy Lilleycrop Vanuatu 52 Epstein-Barr NO
+8210 Myrna Ellsbury Vanuatu 72 Epstein-Barr NO
+5825 Coleman Danihelka Vanuatu 45 Hepatitis-B YES 10-08-1965
+2591 Delilah Giovannilli Vanuatu 24 HTLV-1 NO
+3988 Bertina Haberfield Vanuatu 119 Varicella YES 01-05-1929
+7336 Cynthea Knoton Vanuatu 96 Norovirus YES 18-02-2017
+4880 Bertrand Mebius Vanuatu 54 Polio YES 15-09-1946
+3831 Paulita Ianelli Vanuatu 119 Herpes NO
+1472 Arabela Goulthorp Vanuatu 65 Varicella NO
+9789 Elladine Wraighte Vanuatu 62 Coxsackie-B YES 17-05-1950
+6354 Reinhold Kays Vanuatu 66 Coxsackie-B YES 06-04-1925
+1584 Maisey Abley Vanuatu 39 Polio NO
+3137 Jeremiah Webster Vanuatu 64 Rubella NO

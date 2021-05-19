@@ -1,0 +1,37 @@
+1910 Shaylynn Casterton Philippines 67 Adenovirus NO
+2969 Winona Woolward Philippines 87 HTLV-1 NO
+7028 Lorrayne Vila Philippines 56 SARS-CoV-1 YES 18-11-2006
+4164 Celisse McKeating Philippines 45 Herpes YES 17-11-1944
+9116 Sonny Coytes Philippines 87 HIV YES 24-03-2009
+9364 Euell Goldthorp Philippines 17 Epstein-Barr NO
+9631 Jacquelynn Coogan Philippines 20 Varicella YES 10-03-1901
+6420 Queenie Romera Philippines 36 Adenovirus YES 09-10-1924
+4975 Lennard Icom Philippines 118 Cytomegalovirus NO
+9010 Carilyn Dunley Philippines 113 Adenovirus YES 15-01-2021
+7877 Yule Navein Philippines 39 Epstein-Barr YES 17-06-1944
+1154 Sid Sumsion Philippines 41 Hepatitis-B NO
+5047 Nessa Stoltz Philippines 21 Mumps NO
+7311 Valentijn Larose Philippines 10 Cytomegalovirus YES 16-11-1980
+0210 Jerrine Comazzo Philippines 37 Polio NO
+1927 Elysee Margach Philippines 48 Herpes YES 08-01-1982
+3444 Woodie Fronks Philippines 23 HTLV-1 NO
+3012 Shanon Goldthorp Philippines 105 Rotavirus NO 08-12-1990
+2040 Georgeanne Senyard Philippines 54 HIV NO
+9460 JoAnn Woolward Philippines 27 COVID-19 NO
+3662 Mercy Mullaly Philippines 4 Rabies YES 07-12-2010
+7632 Eba Veque Philippines 73 Rotavirus YES 22-08-1908
+3785 Ninette Smallpiece Philippines 76 Rubella YES 02-08-2012
+1593 Corny Eckery Philippines 76 Hepatitis-B NO
+9282 Jory Gunny Philippines 6 Rabies NO
+6543 Kerry Aggus Philippines 62 Herpes YES 21-08-1991
+3561 Palm Leng Philippines 13 HIV YES 05-11-1946
+2911 Waverley Manske Philippines 43 Coxsackie-B NO
+8614 Maegan Endecott Philippines 103 HIV YES 12-11-1928
+2581 Yolanthe Cowey Philippines 9 Rabies YES 16-06-1977
+6786 Shay Juanico Philippines 14 Rubella YES 26-02-1973
+9628 Mikael Nuzzti Philippines 93 HTLV-1 NO
+7517 Malinda Lyddiatt Philippines 95 Mumps NO
+3767 Yoshiko Newborn Philippines 31 Varicella YES 19-11-2015
+7756 Karol Mizen Philippines 72 COVID-19 YES 08-11-1993
+3461 Orsola Stoltz Philippines 44 HPV NO
+9515 Dimitri Uttley Philippines 87 Norovirus NO

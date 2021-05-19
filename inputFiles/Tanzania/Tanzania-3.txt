@@ -1,0 +1,30 @@
+0007 Honor Lanfranchi Tanzania 23 Rotavirus YES 06-04-2005
+3617 Anni Eakins Tanzania 41 Rubella NO
+7982 Lorena Dunley Tanzania 14 Varicella YES 08-07-1984
+2258 Raimund Spinola Tanzania 61 Varicella YES 17-04-2004
+5643 Meyer Mabson Tanzania 11 SARS-CoV-1 NO
+2278 Kipp Fairey Tanzania 95 Mumps YES 03-01-2015
+5608 Sauveur Roja Tanzania 102 COVID-19 NO
+7634 Curran Webster Tanzania 95 Norovirus YES 07-02-1911
+6350 Averill Pomery Tanzania 112 Rabies YES 16-08-2005
+2909 Irma LeBatteur Tanzania 40 Rubella NO
+9567 Marion Searles Tanzania 8 HTLV-1 NO
+1399 Rayner Deam Tanzania 46 Coxsackie-B NO
+4358 Hillery Haire Tanzania 12 Mumps YES 25-08-2013
+1678 Burg Mottinelli Tanzania 59 COVID-19 NO
+1038 Richy Saunders Tanzania 39 Rabies YES 17-08-1934
+7276 Celisse Kensington Tanzania 29 Rabies NO
+7964 Evangelina Mance Tanzania 32 Cytomegalovirus YES 20-01-2015
+0246 Sean Yashaev Tanzania 38 SARS-CoV-1 YES 29-10-1941
+3061 Lorinda Boleyn Tanzania 63 Herpes YES 05-07-1904
+2946 Gregor Cawthorn Tanzania 26 Cytomegalovirus NO
+7463 Waylon Ewebank Tanzania 21 COVID-19 YES 11-02-1991
+5466 Remus Meneux Tanzania 86 Rubella YES 24-01-2015
+2895 Mina Wickenden Tanzania 51 Epstein-Barr YES 18-02-1962
+3241 Nataline Armstead Tanzania 105 Mumps YES 16-01-1932
+2561 Nickie Ferrillio Tanzania 87 Herpes NO
+7187 Shelby Petkov Tanzania 77 Epstein-Barr NO
+6025 Dollie Matzeitis Tanzania 78 Coxsackie-B YES 24-12-1932
+7254 Quinton Mollison Tanzania 31 Influenza YES 25-01-1998
+8787 Thelma Greiser Tanzania 85 Cytomegalovirus YES 08-08-1950
+6647 Kessia Jamieson Tanzania 20 Megavirus YES 01-09-2002

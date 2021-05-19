@@ -1,0 +1,33 @@
+1436 Rorie Blackey Mexico 96 Epstein-Barr NO
+7966 Job Jamieson Mexico 88 Norovirus NO
+8442 Brandtr Purkess Mexico 75 HTLV-1 YES 12-04-1980
+5784 Eleanore VonSalzberg Mexico 6 Hepatitis-B YES 01-02-2017
+7070 Didi Gottschalk Mexico 95 Hepatitis-B NO
+8940 Bent Wixey Mexico 104 Megavirus YES 22-05-1996
+5647 Diarmid Eakins Mexico 51 Hepatitis-B YES 12-09-1936
+1684 Sonnie Lenham Mexico 74 Norovirus YES 12-01-1944
+4138 Brit Pilsworth Mexico 108 Mumps YES 25-06-1993
+4984 Lind Neilson Mexico 58 Coxsackie-B YES 01-12-1916
+3452 Lenna Grevile Mexico 98 Influenza NO
+4154 Queenie Coopey Mexico 4 COVID-19 YES 20-09-2009
+5469 Moreen Breckon Mexico 14 COVID-19 YES 02-02-1943
+4643 Jimmy Youthed Mexico 75 Hepatitis-B YES 14-04-1920
+1228 Coleen Cosens Mexico 32 HPV YES 13-07-1974
+3629 Shantee Drayson Mexico 76 Rotavirus NO
+2215 Gregor Creek Mexico 116 Rubella YES 27-03-1949
+3657 Jami Kenrack Mexico 18 Adenovirus YES 02-02-2021
+5870 Adda Kettley Mexico 42 HPV YES 12-01-1993
+6312 Hunt Such Mexico 1 HPV NO
+1560 Ainsley Leirmonth Mexico 53 Polio NO
+9561 Dell Creek Mexico 18 Megavirus NO
+7867 Madeline Cotillard Mexico 89 HTLV-1 YES 19-08-2019
+1238 Nicolai Arnet Mexico 7 Polio YES 14-05-1942
+4841 Claudine McKintosh Mexico 78 Rabies YES 17-11-1989
+2994 Claudine Keirl Mexico 107 HPV NO
+3410 Jock Saunter Mexico 61 Varicella YES 04-04-1950
+1837 Tallulah Kays Mexico 92 Cytomegalovirus YES 29-02-1967
+3850 Margalit Posnett Mexico 92 Rabies NO
+1556 Cord Barthrop Mexico 113 Cytomegalovirus YES 04-09-1900
+6489 Moreen Redwood Mexico 72 Cytomegalovirus YES 08-05-1913
+7097 Angel Geering Mexico 68 Norovirus YES 07-12-2019
+5363 Hunt Syncke Mexico 81 SARS-CoV-1 NO

@@ -1,0 +1,30 @@
+4966 Lebbie Allan Russia 92 Polio NO
+9499 Amelia Gillian Russia 59 HTLV-1 NO
+3582 Sabrina Margach Russia 29 Rubella YES 25-11-1952
+2659 Moreen MacAdam Russia 24 HPV NO
+8076 Cynthea Clipston Russia 113 Herpes YES 16-06-1974
+7980 Julee Salliss Russia 82 Coxsackie-B YES 05-08-2019
+9125 Quinton Swainger Russia 21 Megavirus YES 21-09-1958
+9260 Horst Jirusek Russia 22 Coxsackie-B NO
+6613 Jaime Tipper Russia 35 Rotavirus YES 17-04-1975
+8317 Mariana Dumbrall Russia 88 Hepatitis-B YES 25-10-1936
+9783 Tish Tack Russia 62 HTLV-1 NO
+2702 Carline Tollady Russia 62 Norovirus NO
+6899 Malinda Fearnsides Russia 78 Influenza YES 27-04-1964
+2717 Gerrard Renehan Russia 53 SARS-CoV-1 YES 17-04-2007
+7373 Danita Jeayes Russia 68 HTLV-1 YES 24-04-1991
+9224 Palmer Spadelli Russia 90 Rubella NO
+7488 Juliet Hallgate Russia 112 Coxsackie-B NO
+1284 Dallis Tryme Russia 27 Hepatitis-B NO
+4144 Merralee Deignan Russia 47 Epstein-Barr YES 27-05-2016
+5054 Raimund Wichard Russia 111 HPV NO
+8405 Tildie Keune Russia 67 COVID-19 NO
+0724 Mordy Flori Russia 97 HPV YES 05-05-1975
+2652 Cynthea Grangier Russia 78 Epstein-Barr YES 02-06-2000
+4165 Angel Dowrey Russia 93 Epstein-Barr YES 20-09-2020
+1404 Boot Digger Russia 97 Adenovirus YES 07-03-1923
+9534 Leodora Croome Russia 15 HTLV-1 YES 06-05-1981
+8250 Briney Ephgrave Russia 16 Megavirus NO
+5170 Ainsley Scadden Russia 120 Megavirus NO
+0238 Madlen Bony Russia 17 Rubella NO
+3537 Sauveur Hoodlass Russia 70 HPV YES 09-10-1980

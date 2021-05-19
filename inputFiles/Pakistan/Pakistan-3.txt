@@ -1,0 +1,36 @@
+6451 Omar Fleetham Pakistan 47 COVID-19 NO
+3217 Sue Wabersinke Pakistan 113 HPV NO
+4737 Brandice Toby Pakistan 94 Cytomegalovirus YES 13-10-1919
+1456 Nona Megarrell Pakistan 76 Megavirus NO
+1401 Averill O'Hengerty Pakistan 81 Rabies YES 29-01-1907
+7625 Alexander Brigge Pakistan 71 Influenza YES 11-08-1911
+0743 Palmer Noorwood Pakistan 85 Rubella NO
+6039 Tadd Janjic Pakistan 114 SARS-CoV-1 NO
+7564 Devi Lomond Pakistan 19 HTLV-1 NO
+2324 Florance Ervine Pakistan 42 Coxsackie-B NO
+1230 Jaclyn Earthfield Pakistan 61 HTLV-1 NO 27-03-2009
+3867 Betti Harbard Pakistan 59 Herpes YES 10-06-2018
+1821 Viki Hartopp Pakistan 43 Varicella NO
+7136 Joleen Kirsch Pakistan 59 HIV YES 26-09-1923
+1625 Cathrine Peasegod Pakistan 23 Adenovirus YES 18-02-1988
+7231 Diarmid LeBrum Pakistan 23 Herpes NO
+8450 Palmer Sumsion Pakistan 119 Rabies YES 02-11-2008
+8431 Esra Burbage Pakistan 23 Epstein-Barr NO
+6506 Brit Weippert Pakistan 105 SARS-CoV-1 YES 06-06-1940
+8753 Mora Boldra Pakistan 54 Polio NO
+0032 Dur Nestor Pakistan 12 COVID-19 YES 06-06-1950
+5446 Johnny Haggerty Pakistan 18 Adenovirus YES 09-12-1934
+3791 Orly Seavers Pakistan 23 Varicella YES 21-09-2005
+4517 Rooney Slowey Pakistan 23 HIV NO
+4899 Evie Almack Pakistan 77 Megavirus NO
+0157 Daryl Union Pakistan 113 Hepatitis-B YES 11-11-1973
+6810 Elvin Paridge Pakistan 18 Hepatitis-B YES 14-04-1953
+0655 Coleman Salthouse Pakistan 113 HTLV-1 YES 23-05-1910
+5090 Honor Housden Pakistan 49 Cytomegalovirus YES 03-12-1992
+2284 Elizabet Nolleau Pakistan 48 Megavirus YES 12-07-1904
+4189 Nicoline Windybank Pakistan 27 Polio NO 18-12-2008
+3579 Trixie Lomond Pakistan 78 Cytomegalovirus YES 18-07-1903
+7151 Evie Leirmonth Pakistan 5 Coxsackie-B NO
+8706 Lucie Guppey Pakistan 88 Megavirus YES 19-05-2004
+4607 Robbi Annott Pakistan 51 Epstein-Barr YES 15-08-1942
+8427 Derward Bosward Pakistan 22 HIV YES 21-12-1909

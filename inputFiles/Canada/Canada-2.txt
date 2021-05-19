@@ -1,0 +1,30 @@
+0164 Norri Kettley Canada 46 Coxsackie-B NO
+4553 Yettie Spinola Canada 2 Coxsackie-B NO
+6307 Candy Hammell Canada 120 Norovirus YES 21-06-1902
+4415 Alleen Mizen Canada 99 Rabies YES 15-10-1956
+4548 Kerry Craigie Canada 96 Mumps YES 15-01-1953
+1116 Beverly Haddleton Canada 24 HPV NO
+6955 Duncan Brotherhood Canada 20 Norovirus NO
+9623 Reagan Wickenden Canada 18 Rubella NO
+6005 Sonja Keerl Canada 32 Influenza NO
+7832 Chilton Alves Canada 100 Influenza NO
+9873 Orsola Ary Canada 110 HIV NO
+1240 Dorelia Golthorpp Canada 115 HIV YES 20-01-2018
+6533 Bobine Whisson Canada 27 Influenza NO
+8034 Meg Whisson Canada 66 Norovirus NO
+4824 Halsey Crumby Canada 114 Norovirus YES 09-09-1907
+3003 Hagen Senyard Canada 17 SARS-CoV-1 NO
+5601 Bogart Delaney Canada 49 Herpes NO
+6288 Cord Greenly Canada 13 SARS-CoV-1 NO
+2307 Doralia Demageard Canada 31 COVID-19 NO
+9387 Kimbell Hulburd Canada 69 HTLV-1 NO 05-04-1925
+4259 Reagan Devers Canada 55 Varicella YES 22-10-1935
+8009 Lock Kincla Canada 84 Coxsackie-B NO
+7570 Beryle Pelfer Canada 55 Rotavirus NO
+1122 Thelma Stanbra Canada 87 Coxsackie-B NO
+4612 Emmalyn Howlin Canada 93 HPV YES 23-01-1972
+4594 Catlee Coogan Canada 60 Herpes NO
+2394 Nelly Stych Canada 119 Megavirus YES 08-08-2009
+1977 Darby Stayt Canada 33 Coxsackie-B YES 20-07-2012
+6300 Nicolais Luxford Canada 20 Influenza YES 08-04-1996
+6507 Elmer Petrovykh Canada 16 Polio NO

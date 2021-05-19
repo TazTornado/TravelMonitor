@@ -1,0 +1,31 @@
+4863 Aggi Milmore Paraguay 66 Rotavirus NO
+5109 Nellie Beachamp Paraguay 95 Megavirus NO
+3543 Ashely Littlefield Paraguay 56 Rubella NO
+4891 Willie Cadwell Paraguay 75 Adenovirus NO
+5369 Jessamine Veall Paraguay 106 SARS-CoV-1 NO
+0096 Eba Paddefield Paraguay 98 Influenza YES 13-11-1942
+5321 Starr McQueen Paraguay 13 Coxsackie-B NO
+1093 Arlen Gantzman Paraguay 55 Coxsackie-B YES 29-02-1916
+2536 Ibby Robyns Paraguay 119 Rubella YES 21-11-2013
+6806 Fidelia Beeching Paraguay 44 Norovirus NO
+8189 Giuseppe Keynes Paraguay 88 Coxsackie-B YES 05-10-1919
+6074 Shawn Almack Paraguay 117 Mumps YES 15-08-2006
+9244 Dur Mattiato Paraguay 87 Coxsackie-B YES 24-12-2002
+0565 Lauryn Arlet Paraguay 82 Adenovirus YES 13-04-1922
+1148 Stormi Geldeford Paraguay 18 HIV YES 06-05-1927
+2884 Rhiamon Leavens Paraguay 62 Rabies NO
+3727 Darci Steers Paraguay 40 Norovirus YES 28-04-1918
+2655 Reinhold Earthfield Paraguay 80 Influenza NO
+7809 Alejandrina Phizacklea Paraguay 62 Norovirus YES 20-10-1983
+4335 Aeriel Fritter Paraguay 33 HTLV-1 YES 12-12-1942
+3064 Patin Gowenlock Paraguay 40 Cytomegalovirus YES 29-12-1972
+4171 Keene Jeffrey Paraguay 29 Epstein-Barr NO
+5221 Saraann Giovannilli Paraguay 76 Rabies NO
+3558 Giorgio Bothram Paraguay 97 Coxsackie-B NO
+6219 Rolfe Luxford Paraguay 33 SARS-CoV-1 NO
+1095 Chanda Meneux Paraguay 99 HIV NO
+0849 Felicio Sinton Paraguay 33 Norovirus YES 24-08-2010
+9056 Lenette Rigg Paraguay 65 Herpes YES 11-08-1980
+3483 Didi Crumby Paraguay 99 Polio YES 30-10-1957
+6554 Moshe Brimilcombe Paraguay 89 Megavirus YES 12-11-1939
+3608 Celestina Robens Paraguay 18 Influenza YES 19-11-1945

@@ -1,0 +1,36 @@
+0675 Amelia Giovannilli Ethiopia 70 Influenza NO
+6811 Reggis Ebbutt Ethiopia 114 Megavirus YES 21-07-2018
+0294 Mariana Delaney Ethiopia 67 Mumps NO
+1930 Jami Girke Ethiopia 51 Polio YES 23-07-1919
+4661 Honor Upchurch Ethiopia 20 HPV YES 03-01-1994
+0292 Catlee Seacroft Ethiopia 3 COVID-19 NO
+9174 Paulita Ostrich Ethiopia 108 Varicella YES 14-01-1955
+7160 Bendix Offer Ethiopia 104 Coxsackie-B NO
+1664 Sheffy Isakson Ethiopia 98 Epstein-Barr YES 25-11-1995
+6030 Benedetta Neilson Ethiopia 118 Hepatitis-B YES 11-07-2013
+8048 Melisa Deal Ethiopia 22 HPV NO
+2619 Quinton Deware Ethiopia 60 Coxsackie-B NO
+1942 Magda Smithen Ethiopia 105 HTLV-1 YES 16-01-2021
+7743 Karisa Lilleycrop Ethiopia 94 Herpes NO 02-11-2016
+9532 Kipp Presshaugh Ethiopia 36 Hepatitis-B YES 19-07-1980
+9053 Orsola Padula Ethiopia 37 Megavirus YES 19-05-2014
+3864 Cherry Slowey Ethiopia 96 Adenovirus NO
+5365 Lovell Geldeford Ethiopia 84 COVID-19 YES 21-12-1956
+7758 Phil Fenby Ethiopia 107 HPV YES 14-07-1926
+5393 Amara Brookes Ethiopia 12 HPV NO 15-12-1944
+2417 Rodrique Dakhov Ethiopia 92 COVID-19 YES 16-04-1972
+7653 Bobine Kinforth Ethiopia 42 Mumps YES 27-09-1975
+5730 Eleanore McCaster Ethiopia 45 Mumps NO
+9428 Karol Rhyme Ethiopia 61 Epstein-Barr NO
+6546 Fax Muzzall Ethiopia 3 Rotavirus NO
+5298 Shaylynn McQueen Ethiopia 88 Rotavirus NO 20-07-1998
+9839 Lennard Chiechio Ethiopia 118 Epstein-Barr YES 22-09-1933
+1163 Nadine Bodycombe Ethiopia 115 Influenza YES 25-10-1927
+1149 Alecia Counsell Ethiopia 26 Polio YES 14-06-1981
+9235 Valli Skiplorne Ethiopia 17 Megavirus NO
+0419 Bunnie DeFrancesco Ethiopia 10 HPV NO
+4952 Nonna Brigge Ethiopia 45 Herpes YES 22-11-2007
+3694 Jerrine Canham Ethiopia 59 Varicella NO
+6510 Eadith Syncke Ethiopia 17 SARS-CoV-1 NO
+6624 Shermy Petrovykh Ethiopia 109 Norovirus NO
+2790 Edi Holdey Ethiopia 105 Megavirus YES 21-09-1986

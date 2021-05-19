@@ -1,0 +1,31 @@
+0485 Burg Armstead Japan 20 Hepatitis-B YES 18-09-2000
+5332 Waiter Goroni Japan 92 Influenza YES 26-09-1936
+5633 Didi Menguy Japan 50 Norovirus NO
+2768 Ashely Pristnor Japan 96 Megavirus YES 12-03-2016
+3386 Katlin Chasemore Japan 60 Mumps YES 17-04-1926
+5447 Palmer Brightwell Japan 10 Megavirus YES 25-02-1929
+4872 Rona Nestor Japan 102 HIV NO
+3197 Derward Keynes Japan 20 Norovirus NO
+4485 Zackariah Girodias Japan 110 Rotavirus YES 03-10-1917
+1392 Farra Reichelt Japan 96 Norovirus YES 28-11-1943
+5904 Karissa Marchenko Japan 66 HTLV-1 NO
+8122 Kermie Greatbanks Japan 10 Norovirus YES 15-12-1996
+4490 Chariot Girke Japan 105 Adenovirus YES 27-07-1970
+3214 Briny Headley Japan 31 SARS-CoV-1 YES 21-03-1996
+4585 Valentijn Rapson Japan 112 Cytomegalovirus YES 04-09-1941
+3085 Tonie Spoward Japan 118 Rubella NO
+9096 Nicoline Dewett Japan 39 Rubella NO
+6227 Augie Skelding Japan 72 Mumps YES 23-11-2008
+8516 Myriam Noble Japan 53 Megavirus NO
+4012 Nathan Kleeman Japan 111 Rabies YES 18-06-1977
+5347 Romonda Rosencrantz Japan 16 Polio YES 21-09-1944
+6759 Chilton Cattlow Japan 54 HTLV-1 NO
+7439 Jackie Diack Japan 15 HIV YES 10-06-1963
+5074 Kenyon Flori Japan 109 Norovirus YES 30-05-2000
+9918 Dalis Hasling Japan 108 HTLV-1 YES 13-03-1946
+2248 Evangeline Seeler Japan 5 Epstein-Barr NO
+5609 Valaria Elintune Japan 86 Epstein-Barr NO 30-07-1908
+0722 Heindrick Scargle Japan 83 Varicella YES 03-12-2009
+5224 Sophie Ethersey Japan 70 COVID-19 NO
+1334 Aloisia Clemow Japan 73 Cytomegalovirus NO
+0517 Fulvia Gillian Japan 84 HIV NO 10-04-1933

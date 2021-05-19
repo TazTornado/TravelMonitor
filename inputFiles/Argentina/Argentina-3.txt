@@ -1,0 +1,36 @@
+5231 Lemar Cowlishaw Argentina 36 Mumps YES 22-12-1915
+4742 Georgie Cains Argentina 70 Cytomegalovirus YES 13-03-1907
+3149 Margarette Scadden Argentina 114 HIV NO
+4307 Stillman Spinola Argentina 59 Megavirus NO
+2651 Packston Kensington Argentina 23 Varicella NO
+9457 Osborne Wraighte Argentina 89 Rotavirus NO
+6010 Shelden Regan Argentina 42 COVID-19 NO
+5206 Robin McQueen Argentina 83 Polio YES 21-04-1919
+7393 Ainsley Plewes Argentina 62 Adenovirus NO
+4689 Tammi Aust Argentina 84 Adenovirus YES 02-10-1941
+8557 Gerhard Brightwell Argentina 41 Hepatitis-B YES 29-07-1964
+3081 Jaclyn Crombleholme Argentina 82 Rotavirus YES 23-08-1931
+0082 Hunt Housden Argentina 59 Rabies NO
+4241 Horst Herrieven Argentina 13 Rubella NO
+5500 Beryle Stayt Argentina 73 Influenza NO
+5454 Jacky Hazeman Argentina 69 Norovirus YES 06-05-2009
+1058 Robbi Kinforth Argentina 35 Norovirus NO
+4209 Kimble Allsepp Argentina 60 Herpes NO 11-03-1909
+4665 Elie Colly Argentina 33 COVID-19 NO 21-09-1926
+3873 Brnaby Krause Argentina 53 Varicella YES 22-02-1928
+3129 Kayla Stoffers Argentina 6 Rotavirus YES 19-11-1977
+4535 Trumann Drydale Argentina 113 Epstein-Barr NO
+7911 Nanny Constantinou Argentina 8 Rotavirus NO
+0435 Shay Casterton Argentina 103 Adenovirus YES 13-02-1969
+5183 Milzie Noble Argentina 114 Rotavirus NO 21-09-1993
+1903 Reggis Alves Argentina 100 SARS-CoV-1 YES 02-01-1900
+0538 Teri Upchurch Argentina 2 Varicella YES 25-01-1905
+9205 Tore Weekley Argentina 85 Rabies YES 10-07-2010
+8649 Romonda Skudder Argentina 80 Polio YES 10-06-1929
+5822 Graham Leng Argentina 119 HIV NO
+2335 Viole Burbage Argentina 117 Epstein-Barr NO 30-07-1939
+4552 Alberik Chattelaine Argentina 111 Polio YES 22-11-1910
+7520 Baron Tiffany Argentina 43 Norovirus NO 02-03-1996
+9328 Adda McKintosh Argentina 31 Norovirus YES 01-02-1942
+0326 Georgeanne Regan Argentina 67 Rotavirus NO
+2653 Norbert Fludder Argentina 25 Norovirus YES 30-09-1949

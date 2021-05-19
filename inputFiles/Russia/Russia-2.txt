@@ -1,0 +1,30 @@
+8978 Florette McGuiney Russia 40 Polio YES 29-07-1959
+3645 Jasmin Ciardo Russia 19 Polio YES 13-10-1920
+0144 Anna-diana Housin Russia 79 Influenza YES 19-06-2014
+4111 Natalee Bogace Russia 25 Rotavirus YES 01-01-1972
+7932 Jeanna Toby Russia 24 Rubella YES 19-07-1952
+9130 Bail Abrams Russia 74 Hepatitis-B YES 12-12-1934
+8822 Eleanore Pitkin Russia 50 Coxsackie-B YES 13-05-1944
+2849 Che Holtom Russia 1 HTLV-1 YES 18-10-2010
+8782 Darice Scadden Russia 70 Megavirus NO
+4187 Starr Payley Russia 105 SARS-CoV-1 YES 07-10-1959
+9550 Phoebe Headley Russia 40 Polio NO
+0817 Emmalyn Icom Russia 53 Norovirus NO
+3775 Giustina Ewbanke Russia 15 HPV NO
+7193 Carlita Romera Russia 88 Megavirus YES 02-06-1904
+6261 Ulrick Chiechio Russia 81 Influenza NO
+4925 Kristoffer Bosward Russia 43 Norovirus YES 25-02-2003
+1113 Golda Plewes Russia 19 HPV YES 05-12-1929
+8810 Madlen Pol Russia 105 SARS-CoV-1 NO
+6269 Xylia Rawlins Russia 75 Mumps YES 05-02-1966
+5968 Nels Bubear Russia 116 Mumps YES 12-12-2009
+7869 Fawne Fleetham Russia 65 Coxsackie-B NO
+0979 Dolly Nolin Russia 105 HIV YES 11-08-2016
+3023 Palmer Brownsey Russia 58 Herpes NO
+0428 Midge Brittan Russia 10 Coxsackie-B YES 20-04-1951
+7458 Myrna Alison Russia 13 Varicella NO
+4334 Bertrando Methley Russia 2 Hepatitis-B YES 13-03-1976
+4126 Porter Allsepp Russia 1 SARS-CoV-1 YES 20-11-1938
+2673 Nonna Stoffers Russia 87 Mumps YES 23-11-1932
+2601 Rollo Fritter Russia 3 SARS-CoV-1 NO
+7755 Jock Rikkard Russia 60 SARS-CoV-1 YES 03-12-1992

@@ -1,0 +1,32 @@
+1847 Brit Milmore Malawi 66 Polio YES 10-01-1901
+4391 Son Grierson Malawi 18 Herpes YES 15-04-1993
+0692 Philomena Pol Malawi 116 Coxsackie-B YES 18-04-2020
+6840 Jessie Tibbotts Malawi 114 Epstein-Barr YES 08-06-1992
+9234 Giorgio Such Malawi 59 HTLV-1 NO
+2827 Ainslee Petrina Malawi 29 Rubella YES 30-01-1983
+2993 Horatio Yashaev Malawi 97 COVID-19 YES 24-03-1957
+1480 Perla Hulburd Malawi 23 Herpes NO
+4368 Dollie Cinavas Malawi 73 Rubella YES 11-11-1932
+5361 Finlay Threadgould Malawi 32 Rubella YES 21-03-1910
+4411 Georgie Barkworth Malawi 71 Varicella YES 13-01-1919
+5295 Daphna Coytes Malawi 89 Mumps YES 13-12-1908
+9811 Faith Rhyme Malawi 42 COVID-19 YES 30-05-2013
+4001 Marshal Vasilischev Malawi 10 Herpes NO
+5920 Danita O'Dowling Malawi 47 Rubella NO 04-09-1929
+5691 Ken Boldra Malawi 42 HIV NO
+2141 Lamont Wabersinke Malawi 31 Adenovirus YES 26-04-2007
+0787 Marilyn Kern Malawi 38 Adenovirus NO 21-04-1940
+8437 Maisey Lincey Malawi 109 Hepatitis-B NO
+3946 Fitz Holtom Malawi 87 Hepatitis-B YES 07-02-2012
+5087 Malinda Cassar Malawi 73 Cytomegalovirus YES 16-10-1968
+0041 Cyrill Coytes Malawi 71 Varicella YES 14-02-1952
+3118 Glenna Elies Malawi 9 Adenovirus NO
+8585 Hyman Marquess Malawi 8 Influenza NO
+7657 Duke Crumbleholme Malawi 69 Coxsackie-B NO
+5947 Galvin Spollen Malawi 60 Varicella YES 17-04-1998
+6963 Caleb Okker Malawi 90 Influenza NO
+6286 Shae Alforde Malawi 117 Adenovirus NO
+2736 Ulrick Rushe Malawi 111 Megavirus NO
+4893 Tadd Clipston Malawi 38 HPV YES 22-09-1991
+6122 Waverley Portch Malawi 112 Rabies NO
+4978 Lebbie Kornacki Malawi 19 Hepatitis-B YES 11-09-1985

@@ -1,0 +1,36 @@
+8128 Moshe Sendley Albania 2 Mumps NO
+9901 Isabeau Flott Albania 105 SARS-CoV-1 NO
+1330 Guenna Ingledew Albania 70 Mumps YES 05-07-1915
+2142 Sheilah Methley Albania 3 Adenovirus NO
+8001 Fallon Fletham Albania 24 Cytomegalovirus YES 23-08-1929
+8543 Karisa Nash Albania 67 SARS-CoV-1 NO
+3546 Tadio Hirjak Albania 31 Norovirus NO
+6855 Ali Earie Albania 8 Cytomegalovirus NO
+7590 Geoffry LeBatteur Albania 83 Rabies NO
+5793 Robin Collum Albania 119 Hepatitis-B NO
+1170 Ainslee Thebe Albania 47 Adenovirus NO
+5786 Britni Nolleau Albania 39 Herpes YES 29-11-1910
+7456 Rodrique Sinton Albania 50 Hepatitis-B YES 19-03-1996
+7959 Harmon Alforde Albania 54 Influenza NO
+5212 Douglas Cocking Albania 120 Hepatitis-B YES 28-04-1967
+8397 Elladine Jenoure Albania 91 SARS-CoV-1 NO
+7651 Yettie Pitkin Albania 33 COVID-19 NO
+6834 Yoshiko Audus Albania 6 HIV NO
+9649 Paulie Lebourn Albania 104 Coxsackie-B NO
+9110 Rudy Brigge Albania 42 HPV YES 21-06-1977
+6935 Thorndike Greatbatch Albania 73 Mumps NO
+7622 Isadora Lebourn Albania 55 Coxsackie-B YES 09-07-1993
+0252 Culley Quinsee Albania 102 SARS-CoV-1 YES 04-01-2005
+6587 Charil Whaites Albania 90 Polio NO
+0685 Cathrine Dicty Albania 74 Norovirus YES 26-02-1902
+0390 Bret Gallamore Albania 98 Coxsackie-B NO
+7034 Perrine Krause Albania 84 Mumps YES 23-11-1910
+6306 Melva Rhyme Albania 94 Rotavirus YES 10-10-1982
+6635 Briny Willcott Albania 1 Polio YES 05-12-2015
+8011 Nellie Ewbanke Albania 1 Influenza NO
+2627 Clovis Windsor Albania 15 HTLV-1 NO
+0773 Judy Phillis Albania 69 Rabies YES 15-07-1916
+4204 Catlee Duffy Albania 59 Hepatitis-B YES 04-04-2006
+9891 Kriste Ewell Albania 52 Mumps NO
+9379 Rasla Annand Albania 102 HTLV-1 NO
+6981 Tova Dolder Albania 38 Herpes YES 22-04-2010

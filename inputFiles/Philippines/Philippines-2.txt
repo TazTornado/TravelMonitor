@@ -1,0 +1,36 @@
+1668 Francisco O'Rowane Philippines 79 COVID-19 NO
+6492 Carr Vyse Philippines 46 Polio YES 10-02-1910
+6962 Fax Meth Philippines 115 Cytomegalovirus YES 10-07-1937
+8175 Amara Harmson Philippines 70 Polio YES 25-02-1964
+4587 Dennet Bugby Philippines 6 Adenovirus YES 14-07-2021
+9792 Perla Harmson Philippines 106 Mumps NO
+5092 Karisa Mollison Philippines 104 Epstein-Barr YES 23-02-1924
+2738 Finlay Abercromby Philippines 50 Adenovirus NO
+1259 Torrance Amer Philippines 120 Polio YES 10-09-1920
+4257 Guendolen Espadas Philippines 19 Mumps YES 28-11-1955
+8783 Rene Milmore Philippines 74 HPV NO
+9421 Cosette Coulthart Philippines 81 Coxsackie-B NO
+1770 Ethyl Mizen Philippines 28 Influenza YES 29-06-1949
+9931 Latashia Beeching Philippines 104 HIV NO
+3723 Phil Pedri Philippines 111 HIV YES 28-08-1963
+8354 Beverly Magnar Philippines 18 Norovirus NO
+0013 Merci Bedboro Philippines 7 Varicella YES 30-09-1940
+1266 Shelby Sheaber Philippines 72 Coxsackie-B YES 15-03-1906
+2869 Sherill Iskow Philippines 11 Epstein-Barr YES 08-07-1950
+1491 Ced Salliss Philippines 24 Rubella YES 07-12-2016
+7483 Elizabet Clowsley Philippines 34 COVID-19 NO
+8448 Mick Wolfinger Philippines 12 Rubella YES 15-05-1929
+4531 Renate Overell Philippines 62 Cytomegalovirus NO
+7308 Cthrine Geelan Philippines 15 Adenovirus NO
+7581 May Stockford Philippines 27 HIV NO
+1735 Bailey MacCague Philippines 86 HPV YES 10-12-1927
+5390 Bret Capes Philippines 52 HIV YES 08-04-1983
+9999 Eadith Brunt Philippines 13 Rabies NO
+5969 Culley Morl Philippines 12 HTLV-1 YES 08-12-1987
+6233 Blane Lawden Philippines 4 Epstein-Barr NO
+2313 Daisey Pristnor Philippines 86 Hepatitis-B NO
+0942 Archibold Aronovitz Philippines 102 HIV YES 10-07-1929
+9106 Brannon Haberfield Philippines 21 Epstein-Barr YES 08-03-2017
+0223 Lion Gallegos Philippines 104 Polio NO
+3638 Maegan Goldthorp Philippines 17 Varicella YES 11-11-1940
+6679 Brit Girodias Philippines 97 Rubella NO

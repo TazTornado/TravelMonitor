@@ -1,0 +1,30 @@
+3854 Melisa Raitie Azerbaijan 72 Mumps NO
+5743 Alberik Fludder Azerbaijan 64 Mumps YES 03-02-1930
+8007 Keene Payley Azerbaijan 50 Rabies NO
+3519 Cathrine Douthwaite Azerbaijan 30 Polio NO 26-03-2006
+6734 Yule Sember Azerbaijan 103 Herpes NO
+8378 Jeff Cains Azerbaijan 44 COVID-19 YES 12-11-2005
+0798 Mellie Brunt Azerbaijan 24 Coxsackie-B NO
+4974 Betti Yegorev Azerbaijan 84 HIV YES 08-08-1995
+8113 Ingamar Brickell Azerbaijan 6 COVID-19 YES 29-01-1920
+5879 Celisse Giacopazzi Azerbaijan 38 HTLV-1 YES 07-09-1938
+6979 Fallon Woolward Azerbaijan 17 COVID-19 YES 24-09-1960
+7840 Amara Gedge Azerbaijan 42 HTLV-1 NO
+6585 Janenna Leavens Azerbaijan 61 Cytomegalovirus YES 21-01-1922
+7033 Job O'Hengerty Azerbaijan 46 Cytomegalovirus NO
+7144 Kimbell Vannucci Azerbaijan 33 Rabies YES 14-09-2009
+6864 Faulkner Bogges Azerbaijan 57 HTLV-1 NO
+5546 Charil Reddell Azerbaijan 108 Influenza YES 11-07-1981
+4685 Casar Goldthorp Azerbaijan 119 Rabies NO
+2734 Cynthea Kampshell Azerbaijan 54 HPV YES 26-01-1939
+5402 Mart Salliss Azerbaijan 41 Rotavirus YES 17-12-1986
+5739 Sheilah Doore Azerbaijan 93 SARS-CoV-1 NO
+9398 Henka Tollady Azerbaijan 93 HTLV-1 NO 08-07-2021
+9672 Estell Cardew Azerbaijan 82 Mumps NO
+9707 Evyn Bolter Azerbaijan 39 Herpes NO
+5287 Rouvin Drysdall Azerbaijan 46 Herpes NO 26-04-2001
+9869 Lowe Hoodlass Azerbaijan 72 Megavirus NO
+9936 Drucie Geelan Azerbaijan 79 Rabies NO
+2087 Daniel Blaskett Azerbaijan 80 Herpes YES 28-01-1967
+4840 Laughton Fishbie Azerbaijan 17 Adenovirus NO
+9587 Myrtie Rodrigo Azerbaijan 89 Epstein-Barr NO 29-10-2011

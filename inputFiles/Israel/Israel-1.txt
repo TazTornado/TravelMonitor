@@ -1,0 +1,35 @@
+5008 Dulcie Revel Israel 34 HIV YES 09-01-1982
+3977 Daphna Haggerty Israel 24 COVID-19 NO
+2801 Davy Marquess Israel 114 Coxsackie-B YES 20-10-1996
+0531 Malissia Lundbech Israel 45 Rotavirus NO
+3872 Diarmid Spaunton Israel 100 Mumps NO
+4386 Langsdon Barras Israel 114 Herpes YES 07-09-2001
+5778 Burg Eatttok Israel 33 Adenovirus NO
+1917 Reggis Brindley Israel 79 COVID-19 YES 03-12-2005
+5138 Lacy Mottinelli Israel 101 Norovirus YES 30-06-2007
+7148 Margalit Gofton Israel 85 HPV YES 21-11-2004
+2242 Murielle Hessel Israel 115 Rotavirus NO
+0023 Giorgio Vasiliev Israel 74 Epstein-Barr NO
+8406 Casar Statersfield Israel 105 Megavirus YES 10-05-2002
+9760 Jarret Plowell Israel 54 Rabies NO
+5489 Malvina Duckham Israel 105 Norovirus YES 25-12-2016
+1189 Naoma Hachard Israel 30 HTLV-1 NO
+6502 Skye Birds Israel 86 Coxsackie-B NO
+2163 Kermie Juschka Israel 16 Norovirus YES 25-11-1900
+1536 Thain Allsebrook Israel 8 Norovirus YES 23-09-1915
+6442 Nicoline Berlin Israel 45 Herpes YES 14-07-1928
+0894 Venita Eakins Israel 57 Adenovirus YES 13-07-1910
+5251 Felipa Jeanesson Israel 12 Rubella NO
+5113 Ann Woolward Israel 72 Megavirus NO
+5510 Antone Barta Israel 32 Polio YES 17-06-1922
+5405 Davy Cheine Israel 42 Adenovirus YES 17-10-1991
+9199 Brunhilda Yarnold Israel 22 Adenovirus YES 19-11-2016
+6549 Rina Union Israel 76 HIV NO
+0882 Carlita Peeter Israel 97 Polio YES 08-09-1992
+0503 Merci Rame Israel 19 Epstein-Barr YES 13-08-2004
+6224 Celisse Rops Israel 117 Hepatitis-B NO
+0490 Rustie Rops Israel 43 Cytomegalovirus NO
+5110 Phoebe Cordier Israel 107 Norovirus YES 26-06-1950
+4624 Rhiamon Menauteau Israel 81 Adenovirus NO
+9985 Ann Barta Israel 120 HPV NO 23-12-1907
+6018 Reinhold Smallpiece Israel 96 Influenza NO

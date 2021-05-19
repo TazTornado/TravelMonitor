@@ -1,0 +1,32 @@
+6256 Leslie Hasling Finland 19 Varicella YES 11-04-1913
+2396 Tanney Menguy Finland 25 Rubella YES 12-09-1948
+6995 Norri Stoltz Finland 20 Adenovirus NO
+0021 Helge Bosward Finland 57 Hepatitis-B YES 26-05-2003
+5064 Eadmund Timpany Finland 37 Adenovirus YES 30-10-1995
+7957 Gus Draayer Finland 30 Mumps NO
+9881 Norbert Muglestone Finland 39 Coxsackie-B YES 21-03-1908
+2455 Xylia Cron Finland 41 HIV YES 26-03-1909
+3024 Hadria Beardwell Finland 120 HTLV-1 YES 14-05-1917
+7265 Teresina Mease Finland 33 Coxsackie-B YES 13-05-1989
+7417 Neille Tollady Finland 65 SARS-CoV-1 NO
+2780 Leonie Navein Finland 76 Influenza YES 02-11-2015
+5925 Maisey Vasilischev Finland 49 Rubella NO
+3891 Skye Galliard Finland 12 Norovirus NO 30-04-2017
+0706 Nelly Greatbach Finland 41 Coxsackie-B YES 24-06-1915
+3909 Caleb McCaster Finland 77 HTLV-1 YES 02-12-1901
+1501 Joleen Ayris Finland 42 Adenovirus NO
+9187 Samantha Allsebrook Finland 93 Rubella YES 17-10-1929
+4093 Woodie MacAdam Finland 77 Megavirus YES 19-12-1931
+6909 Kinny Crumbleholme Finland 43 Epstein-Barr YES 18-08-1911
+9488 Hadria Brightwell Finland 70 Rubella YES 04-01-1934
+7938 Annalee Muzzall Finland 52 Coxsackie-B NO
+8372 Joline Haberfield Finland 104 Herpes YES 25-07-2004
+2658 Gael Bodycombe Finland 52 COVID-19 NO
+8813 Marshall Stanbro Finland 22 Epstein-Barr NO
+1499 Hillery Truesdale Finland 26 HPV YES 27-06-1954
+3992 Yolande Gyer Finland 13 Norovirus YES 15-10-1904
+5012 Rona Alison Finland 45 Influenza YES 25-07-1966
+9480 Joscelin Whittier Finland 31 SARS-CoV-1 YES 13-11-1905
+1717 Karlyn Shilliday Finland 46 COVID-19 YES 12-05-2004
+8342 Myriam Devers Finland 39 Epstein-Barr YES 01-01-1948
+7671 Ham Jirusek Finland 117 Cytomegalovirus YES 21-11-1934

@@ -1,0 +1,31 @@
+3328 Essa MacCarrick Denmark 101 Hepatitis-B YES 01-03-1921
+4117 Fulvia Tollady Denmark 62 Epstein-Barr NO
+1760 Britt Vyse Denmark 104 HIV NO
+6186 Gregorio Veale Denmark 87 Polio YES 21-04-1917
+4016 Phil Feighry Denmark 22 Polio NO
+1233 Marwin Colwill Denmark 26 Polio YES 10-06-1980
+4161 Burke Shilliday Denmark 17 COVID-19 NO
+3677 Charmian Bearn Denmark 37 Cytomegalovirus NO
+4226 Esra Purkess Denmark 4 Hepatitis-B NO
+8424 Catlee Frosch Denmark 89 Adenovirus NO
+3313 Cari Brownsey Denmark 16 Rubella YES 23-04-1963
+1453 Arabela Drysdall Denmark 86 Megavirus NO
+2782 Meg Boni Denmark 71 Herpes NO
+8476 Joline Duckham Denmark 65 Rubella YES 08-12-1953
+2203 Joelie Weare Denmark 117 Cytomegalovirus YES 01-12-2019
+8517 Heindrick McKintosh Denmark 102 SARS-CoV-1 YES 06-08-1922
+2778 Isabeau Normanvill Denmark 75 Rabies NO
+1789 Charil Dumblton Denmark 66 Megavirus YES 03-04-1926
+2964 Samantha Windybank Denmark 98 COVID-19 NO
+1061 Ruggiero Edrich Denmark 118 Mumps YES 08-02-2021
+3180 Nicko Dudley Denmark 21 Rubella NO
+6154 Zackariah Counsell Denmark 75 HPV NO
+6865 Bendix Hackly Denmark 86 COVID-19 NO
+0574 Florette Levins Denmark 22 Megavirus YES 11-08-1905
+3256 Bail Presshaugh Denmark 92 Norovirus NO
+9112 Felipa Stych Denmark 102 Rubella YES 23-12-1908
+4873 Felipa Witsey Denmark 14 Cytomegalovirus YES 25-01-1983
+4641 Maybelle Nolleau Denmark 101 Mumps NO 20-11-1933
+6908 Bailie Birds Denmark 115 Hepatitis-B YES 02-11-1939
+2376 Fidelia Digger Denmark 6 SARS-CoV-1 YES 25-01-2006
+2356 Bail Bussen Denmark 60 Coxsackie-B NO

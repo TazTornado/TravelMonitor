@@ -1,0 +1,29 @@
+0066 Dukie Jeayes Gambia 53 HPV NO
+4178 Daryl Pristnor Gambia 115 Cytomegalovirus NO
+9040 Piggy Payley Gambia 30 Polio NO
+2924 Joleen McKay Gambia 49 Polio YES 16-01-1919
+4787 Tyler Stych Gambia 53 Rotavirus NO
+8728 Lynett Croome Gambia 46 HTLV-1 YES 12-10-1922
+6218 Karisa Pelfer Gambia 30 Rubella NO
+5841 Kimble Kinastan Gambia 90 Mumps NO
+8652 Loren Cavil Gambia 8 Rubella NO
+4963 Vinny Barbie Gambia 97 Adenovirus NO
+1718 Darby Been Gambia 38 Varicella NO
+8438 Kort Josefovic Gambia 77 HTLV-1 NO
+1785 Alexander Weekley Gambia 77 Varicella NO
+9295 Balduin Fenby Gambia 109 COVID-19 NO
+5428 Giorgio Tiery Gambia 91 Hepatitis-B NO
+1511 Mariana Hebdon Gambia 13 Mumps NO
+3220 Thelma McGuiney Gambia 70 Coxsackie-B NO
+8756 Jacquelynn Cotillard Gambia 94 Influenza YES 07-12-1962
+9832 Giustina Drayson Gambia 15 SARS-CoV-1 YES 22-09-1982
+6097 Stavro Demko Gambia 86 Rabies YES 18-04-1959
+2961 Gabriellia Caudle Gambia 67 HPV NO
+0876 Giovanni Platts Gambia 66 Mumps YES 16-11-1914
+6077 Aguie Newborn Gambia 118 Epstein-Barr NO
+6522 Yule Windybank Gambia 80 Adenovirus NO
+8123 Bertrando Revel Gambia 104 Megavirus NO
+4367 Kimmy Cathesyed Gambia 32 SARS-CoV-1 NO 17-01-2000
+9210 Yettie Brownlee Gambia 74 Adenovirus YES 14-08-2017
+0964 Milo Huard Gambia 5 HPV YES 20-08-1906
+3720 Carilyn Scollan Gambia 88 Hepatitis-B YES 16-09-1923

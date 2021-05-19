@@ -1,0 +1,31 @@
+0174 Osborne Nial Canada 22 SARS-CoV-1 NO 29-08-1979
+5555 Mildred Twinbrow Canada 59 HIV YES 17-11-1901
+1726 Fowler Leacy Canada 12 HIV YES 01-03-1957
+7437 Tova Raymont Canada 84 Rubella YES 11-12-1977
+3480 Naoma Hawsby Canada 37 HTLV-1 YES 16-09-1981
+2891 Ashbey Devers Canada 93 SARS-CoV-1 YES 18-12-1930
+1324 Keene Skelding Canada 25 Rotavirus YES 16-09-1979
+9837 Skippie Lincey Canada 27 Herpes NO
+3235 Omar Forkan Canada 49 HTLV-1 NO
+7976 Rooney Matzeitis Canada 13 SARS-CoV-1 NO
+6335 Forster Toby Canada 53 Rabies NO
+3421 Bail Grimmer Canada 5 SARS-CoV-1 NO
+8625 Ham Bearn Canada 105 Megavirus YES 17-02-1923
+6284 Jami Earie Canada 14 Herpes YES 29-07-1932
+7129 Forester Boydle Canada 97 Varicella NO
+7582 Ruth Jamieson Canada 41 Norovirus NO
+3703 Reinhold Barta Canada 15 Coxsackie-B YES 24-12-1941
+1333 Celestina Almack Canada 14 Rabies NO
+4280 Adan Newborn Canada 109 HIV NO
+7466 Adelina Drewry Canada 9 Rubella YES 28-01-1904
+5722 Rudolfo Grangier Canada 16 Adenovirus YES 22-05-1908
+4276 Faina Mutimer Canada 67 Rabies NO 23-01-1942
+4248 Nicolais Gerkens Canada 73 Polio YES 13-05-1983
+3375 Daffie Dicke Canada 18 HPV YES 14-09-1981
+2388 Euell Phizacklea Canada 39 COVID-19 YES 19-11-2005
+1317 Dyna Purchall Canada 52 HPV NO 07-10-1936
+7497 Ulric Buntain Canada 65 HTLV-1 YES 03-04-1908
+6035 Rhiamon Nerval Canada 98 HIV YES 16-09-2010
+8411 Aurie Gunny Canada 71 SARS-CoV-1 NO
+7413 Vale Foyston Canada 96 Cytomegalovirus YES 07-08-1913
+5513 Galvan Tynan Canada 90 Herpes NO

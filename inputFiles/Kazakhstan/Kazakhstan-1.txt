@@ -1,0 +1,37 @@
+3457 Palm Gumn Kazakhstan 93 SARS-CoV-1 NO
+3935 Bunny Kynett Kazakhstan 73 Polio YES 24-04-2003
+1085 Geoffry Ianelli Kazakhstan 16 Herpes YES 14-11-1906
+7603 Othella Bagby Kazakhstan 106 Megavirus NO
+1734 Yoshi Grimsdyke Kazakhstan 43 Cytomegalovirus NO
+5951 Lynett Gyer Kazakhstan 119 SARS-CoV-1 NO
+7719 Bord Haresign Kazakhstan 33 Coxsackie-B YES 22-10-1911
+6370 Galvin Luxford Kazakhstan 9 SARS-CoV-1 YES 23-12-1938
+6113 Burg Gumn Kazakhstan 20 COVID-19 YES 30-05-1984
+8252 Dimitri Veale Kazakhstan 44 Megavirus YES 06-09-1992
+5779 Giustina Tillett Kazakhstan 67 Adenovirus YES 27-01-2001
+2204 Sianna Isley Kazakhstan 67 HPV YES 09-09-1912
+5435 Barbabas Peeter Kazakhstan 9 Varicella YES 17-02-1903
+8316 Duke Horick Kazakhstan 74 Hepatitis-B YES 21-05-1980
+5711 Boony Isley Kazakhstan 41 Rabies NO
+6253 Melli Hartopp Kazakhstan 47 Adenovirus NO
+3185 Nonna Cosely Kazakhstan 113 Hepatitis-B YES 03-02-1938
+6696 Woodie Allsebrook Kazakhstan 82 Polio NO
+5944 Mikol Tack Kazakhstan 96 Hepatitis-B YES 06-06-1968
+9797 Rey Tincknell Kazakhstan 16 Megavirus YES 05-06-1950
+1178 Gus Ruggen Kazakhstan 117 Polio YES 19-03-1995
+5385 Jock Witsey Kazakhstan 67 Rabies NO
+0076 Oriana Sturgis Kazakhstan 2 HPV NO
+1519 Torrance Cadigan Kazakhstan 6 Influenza YES 30-12-1984
+5265 Urson Safell Kazakhstan 45 Herpes YES 07-11-1951
+5996 Julius Janowicz Kazakhstan 91 Epstein-Barr YES 03-08-2013
+6403 Tadd Fredy Kazakhstan 56 Rotavirus NO
+0417 Oralee Jeffrey Kazakhstan 51 Adenovirus NO 13-06-1931
+4401 Marshal Kornacki Kazakhstan 83 Hepatitis-B YES 16-12-2020
+8082 Robbin Zanetti Kazakhstan 6 Epstein-Barr YES 10-01-1940
+2491 Mark Andrzej Kazakhstan 85 COVID-19 NO
+3394 Magda Yashaev Kazakhstan 2 Cytomegalovirus NO 10-11-1971
+9652 Griselda Hartopp Kazakhstan 18 Megavirus NO
+6321 Jory Twidle Kazakhstan 41 Herpes NO
+4243 Dolly Broome Kazakhstan 50 Epstein-Barr YES 05-06-1977
+2105 Graham McKintosh Kazakhstan 77 Rotavirus YES 15-05-1932
+0669 Skippie Overell Kazakhstan 43 Herpes YES 07-01-1906

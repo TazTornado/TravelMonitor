@@ -1,0 +1,27 @@
+1938 Rickey Brimacombe China 11 Adenovirus YES 09-09-1988
+1698 Gracia Dorrity China 48 Megavirus NO
+1431 Marc Constantinou China 16 Rotavirus NO
+3947 Georgeanne Beeching China 9 HTLV-1 NO 10-11-1963
+4050 Gerrard Aingell China 10 Influenza NO
+1343 Jakie Kinforth China 23 Herpes YES 19-08-1998
+2052 Rasla Tynan China 98 Mumps YES 16-10-1990
+8913 Bret Pitkin China 38 Rubella NO
+1859 Ursulina Noorwood China 115 Coxsackie-B YES 24-08-1947
+7238 Lyssa Mackrell China 4 Hepatitis-B NO
+0915 Lindsay Dicty China 1 HIV YES 13-04-1918
+9673 Claudine Alison China 110 Influenza YES 05-10-1936
+5007 Dennet Fredy China 9 SARS-CoV-1 YES 17-02-1914
+7584 Ashleigh Portch China 27 Varicella NO
+5868 Maren Petrina China 12 COVID-19 NO
+4100 Coleman Anlay China 23 Influenza YES 18-12-1963
+2354 Patin Sember China 26 Cytomegalovirus YES 02-04-1937
+7131 Bertina Hammon China 116 SARS-CoV-1 NO
+5666 Marcelia Platts China 114 Epstein-Barr YES 30-07-1924
+8370 Win Todarello China 66 Epstein-Barr YES 08-03-1954
+5940 Robbie Padula China 95 Rubella YES 26-11-1924
+3471 Kimmie Boleyn China 105 HPV NO
+4326 Georg Wellesley China 107 Rabies NO
+7842 Nadine Hedditch China 11 Adenovirus NO
+1721 Melisa Cattlow China 94 Rubella YES 26-04-1982
+9032 Trixie Gateley China 30 Varicella YES 10-11-1945
+0298 Truman Barkworth China 75 Rubella NO

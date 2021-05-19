@@ -1,0 +1,36 @@
+2001 Dieter Spincks Cyprus 105 Epstein-Barr YES 17-05-1948
+8639 Alejandra Scranedge Cyprus 59 Polio YES 20-04-2010
+0459 Myrtie Dicty Cyprus 101 Megavirus YES 19-07-1935
+8686 Valli Sonier Cyprus 23 Rabies YES 13-08-1920
+8386 Drona Saunter Cyprus 120 Herpes NO
+7481 Terrye Wibberley Cyprus 27 HIV NO
+3800 Hadria Giovannilli Cyprus 57 Norovirus NO
+2288 Morena Barras Cyprus 109 Epstein-Barr YES 13-03-1924
+8645 Galvin Habercham Cyprus 18 Megavirus YES 16-01-1914
+8351 Meir Ceschelli Cyprus 60 Norovirus NO 13-10-1996
+2847 Rayner Dewett Cyprus 20 Rubella NO
+7024 Graham Yarnold Cyprus 110 HTLV-1 NO
+4369 Amelia Peeke-Vout Cyprus 81 Polio NO
+8467 Georgeanne Luckwell Cyprus 27 HTLV-1 NO
+4134 Jami Kleinschmidt Cyprus 115 Cytomegalovirus NO
+7310 Charmian Rawdales Cyprus 17 Rotavirus YES 28-08-1968
+4847 Sandra Swainger Cyprus 43 Varicella YES 06-03-1994
+0832 Clea Coffey Cyprus 6 Herpes YES 27-08-1978
+6582 Gregorio Keune Cyprus 116 HIV NO
+0382 Dorian Bussen Cyprus 95 Adenovirus YES 16-07-1901
+5578 Nannie Cains Cyprus 35 Hepatitis-B NO
+1414 Rosella Keune Cyprus 74 Mumps YES 24-07-1935
+8060 Annissa Giovannilli Cyprus 108 Cytomegalovirus YES 25-12-2008
+4451 Allie Drought Cyprus 116 COVID-19 YES 24-12-1980
+8133 Duncan Cadigan Cyprus 34 Influenza NO
+5854 Ferne Headley Cyprus 11 Influenza YES 25-01-1946
+7214 Sheilah Been Cyprus 89 Herpes NO 04-10-1934
+6628 Joleen Critchley Cyprus 113 Rubella YES 13-03-1999
+6829 Kyla Ruoss Cyprus 87 Rubella YES 14-06-1997
+5325 Tomaso Harmson Cyprus 32 Rotavirus NO
+2622 Curr Quainton Cyprus 116 Rotavirus NO
+6586 Kyla Raymont Cyprus 61 Norovirus YES 25-07-1975
+1153 Christian Croome Cyprus 36 Herpes NO 07-08-1977
+3390 Giulia Breckon Cyprus 103 Rotavirus NO
+8675 Queenie Hoodlass Cyprus 57 HIV NO
+7510 Henka Brownlee Cyprus 76 Polio NO

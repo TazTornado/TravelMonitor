@@ -1,0 +1,31 @@
+4094 Nellie Greenly Myanmar 34 SARS-CoV-1 NO
+5045 Reinhold Dicke Myanmar 52 Rabies NO 01-05-1989
+8690 Theodor O'Dowgaine Myanmar 18 Norovirus NO
+6804 Robbi Nolleau Myanmar 50 Herpes NO
+8212 Mellie Guppey Myanmar 5 COVID-19 NO
+1525 Che Megarrell Myanmar 10 Mumps YES 12-03-1968
+3482 Christie Dicke Myanmar 42 SARS-CoV-1 YES 29-08-1940
+0050 Nels Barta Myanmar 54 Adenovirus NO
+0318 Stavro Nattrass Myanmar 116 SARS-CoV-1 NO
+2009 Sandra Clipston Myanmar 15 Rubella YES 26-04-1968
+8896 Rina Mogenot Myanmar 77 Polio NO
+5978 Samuele Nelmes Myanmar 9 Rabies NO
+9132 Corena Blaszczak Myanmar 101 Megavirus NO 22-04-1917
+6323 Debora McQueen Myanmar 8 Cytomegalovirus NO
+1210 Liam Fletham Myanmar 44 Coxsackie-B YES 04-06-2004
+5767 Nicolais MacKellar Myanmar 23 Rabies NO
+7050 Pooh Kinchley Myanmar 71 HPV YES 18-01-1903
+7713 Elladine MacCarrick Myanmar 29 Herpes NO
+6120 Clyde Meneux Myanmar 7 HTLV-1 YES 05-10-1910
+8778 Maje Chatelain Myanmar 54 SARS-CoV-1 YES 26-11-1914
+7513 Trixie Thick Myanmar 13 Varicella NO
+8997 Saraann Jirka Myanmar 98 Herpes YES 06-06-1907
+4137 Galvin Adamo Myanmar 74 Rabies YES 24-10-1914
+0261 Reinold Wimp Myanmar 37 HIV NO
+9603 Cherry Chiplin Myanmar 60 Epstein-Barr NO
+4678 Brenna Goroni Myanmar 106 Rabies NO
+9650 Egon Dumbrall Myanmar 54 Polio YES 18-01-1970
+3032 Cissiee Uttley Myanmar 99 Coxsackie-B YES 27-06-1968
+7065 Christian Oldred Myanmar 26 HTLV-1 YES 27-07-1968
+3257 Job Fideler Myanmar 23 Epstein-Barr NO
+4075 Marwin Juanico Myanmar 43 COVID-19 NO 29-09-2009

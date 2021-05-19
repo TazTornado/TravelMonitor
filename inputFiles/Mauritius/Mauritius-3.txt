@@ -1,0 +1,32 @@
+1352 Reggie Plowell Mauritius 32 Adenovirus YES 07-11-1978
+5101 Rene Cordier Mauritius 112 Rotavirus NO
+2630 Appolonia Dicke Mauritius 5 Polio YES 21-11-2004
+3633 Rustie Cheine Mauritius 104 Polio NO
+2306 Edi Vowden Mauritius 63 HIV YES 01-12-1966
+7312 Clementina Cardew Mauritius 55 Rubella NO
+5030 Jaymie Mogenot Mauritius 47 Coxsackie-B YES 04-02-1974
+9066 Galven Fritter Mauritius 112 HIV NO
+9850 Martyn Eatttok Mauritius 1 Rabies NO
+8948 Dyane Leirmonth Mauritius 45 Rabies YES 17-03-1961
+8079 Gradeigh Hedditch Mauritius 71 Norovirus YES 15-10-1933
+3408 Carilyn Toten Mauritius 17 HTLV-1 NO
+8414 Reggie Drysdall Mauritius 38 Hepatitis-B YES 30-07-1977
+6690 Teddie McAuley Mauritius 117 Cytomegalovirus YES 24-01-1996
+6771 Kyla Stockford Mauritius 11 Rubella NO
+3513 Maybelle Digger Mauritius 84 Varicella NO
+8179 Fitz Stather Mauritius 40 COVID-19 YES 17-09-1951
+2497 Jaclyn Swainger Mauritius 89 Cytomegalovirus YES 05-02-2017
+8046 Guendolen McKeating Mauritius 59 Polio YES 30-07-1922
+5352 Quinton Grassin Mauritius 100 Adenovirus YES 16-07-1907
+8791 Danita Whaites Mauritius 86 Rubella YES 22-09-1943
+3647 Kipp Boni Mauritius 45 HIV NO
+6238 Eba Reichelt Mauritius 16 Hepatitis-B YES 03-03-1922
+6302 Audre Pringley Mauritius 40 Coxsackie-B YES 30-11-2017
+5404 Truman Bagby Mauritius 94 Megavirus NO
+2542 Helge Tarbatt Mauritius 105 Rubella YES 23-08-1948
+0808 Thorndike Avory Mauritius 27 Polio YES 25-03-1980
+0524 Jacky Nattrass Mauritius 84 Adenovirus NO
+4459 Torrance Blaskett Mauritius 21 Rotavirus YES 12-05-1966
+6262 Piggy Capes Mauritius 73 COVID-19 YES 16-01-2003
+6879 Thorndike Gittens Mauritius 62 Rotavirus YES 24-07-1935
+1249 Evangeline Tipper Mauritius 90 HIV NO

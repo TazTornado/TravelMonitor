@@ -1,0 +1,30 @@
+4343 Celisse Leavens Switzerland 38 Hepatitis-B YES 07-04-1900
+9393 Madeline Posnett Switzerland 12 Herpes YES 05-07-1928
+5663 Win Armstead Switzerland 40 Varicella NO 29-11-1953
+6080 Fallon Spick Switzerland 90 Rotavirus NO 30-09-1997
+1890 Valera Hebard Switzerland 88 Coxsackie-B NO
+3983 Eadmund Chafney Switzerland 8 Epstein-Barr YES 24-02-1963
+6697 Vickie Aronovitz Switzerland 107 Norovirus YES 19-03-1937
+1048 Nariko Brimilcombe Switzerland 99 Cytomegalovirus NO 14-01-1916
+3870 Roderigo Scadden Switzerland 90 HIV NO
+3498 Patin Meth Switzerland 54 Herpes YES 04-12-1930
+2460 Palmer Crebo Switzerland 80 Adenovirus NO
+1767 Evie O'Nion Switzerland 117 HPV NO
+5589 Erin Brendish Switzerland 62 Varicella NO
+7536 Shay Isley Switzerland 48 Mumps YES 03-10-1941
+0425 Bertrando Inde Switzerland 11 HIV YES 01-01-1961
+9219 Lorena Jaycock Switzerland 22 Influenza YES 30-03-1911
+6116 Reinhold Meneux Switzerland 62 Polio YES 12-05-1932
+3034 Mollie Stather Switzerland 83 Epstein-Barr NO
+1063 Carter Loughton Switzerland 73 Cytomegalovirus YES 07-10-1934
+5563 Thaddus Colwill Switzerland 16 Hepatitis-B YES 06-12-1982
+1268 Lovell Duffy Switzerland 79 Norovirus YES 11-04-2004
+9699 Janos Keynes Switzerland 73 Adenovirus NO
+8912 Cissiee Ondrus Switzerland 7 HPV YES 14-11-2006
+6168 Lebbie Hillitt Switzerland 61 Hepatitis-B YES 27-10-1928
+9351 Ced Ruane Switzerland 33 Coxsackie-B NO
+7618 Gard Scollan Switzerland 65 Herpes NO
+6653 Charlene Vile Switzerland 84 Varicella YES 25-10-1960
+5323 Daphna Purchall Switzerland 22 HIV NO
+3661 Katleen O'Dowgaine Switzerland 117 Herpes YES 05-04-1971
+4397 Vinnie Housden Switzerland 58 Cytomegalovirus NO

@@ -1,0 +1,28 @@
+1365 Othilie Juanico Netherlands 103 Rabies NO
+0542 Wakefield Pedrick Netherlands 115 HTLV-1 NO
+3365 Reggie Flott Netherlands 38 SARS-CoV-1 YES 01-09-1989
+3749 Oriana Seeler Netherlands 60 Epstein-Barr NO
+1756 Bogart Gasking Netherlands 81 Cytomegalovirus NO
+8245 Gard Robard Netherlands 59 Norovirus YES 22-11-1942
+7648 Adelina Lumley Netherlands 114 HPV NO
+8833 Giustina Spincks Netherlands 94 Rubella NO
+4695 Kermie Gosker Netherlands 11 Coxsackie-B NO
+5426 Kriste Blanko Netherlands 50 Norovirus NO
+6872 Karol Veall Netherlands 7 Rubella NO
+9355 Daisey Pedri Netherlands 62 Varicella YES 16-10-1935
+2271 Ichabod Jennens Netherlands 75 Influenza YES 29-03-1926
+0883 Egon Rhyme Netherlands 62 Varicella YES 07-11-1970
+6733 Piggy Almack Netherlands 39 Adenovirus YES 13-07-2002
+3698 Maurits Upchurch Netherlands 76 Herpes NO
+2585 Shepherd Raisher Netherlands 103 Herpes NO
+0836 Morgana Inde Netherlands 8 HTLV-1 YES 08-08-1988
+8199 Gerhard Fellgatt Netherlands 74 Varicella NO
+3566 Natividad Leng Netherlands 32 Rabies YES 21-02-1902
+4483 Palmer Brockie Netherlands 37 Epstein-Barr NO
+8819 Hetty Flori Netherlands 101 COVID-19 YES 29-05-2009
+8960 Guglielmo Martinovic Netherlands 5 Coxsackie-B NO
+1157 Hart Brokenbrow Netherlands 60 Mumps YES 19-05-1935
+9734 Fan Oldred Netherlands 4 HIV YES 09-07-1949
+2560 Latashia Hartopp Netherlands 26 COVID-19 NO
+6988 Marthe Sinton Netherlands 12 Varicella NO
+1197 Chariot Grisewood Netherlands 117 HIV NO

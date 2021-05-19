@@ -1,0 +1,40 @@
+4424 Arabela Alton Sudan 10 Adenovirus NO
+8955 Rouvin Martell Sudan 116 Adenovirus YES 17-01-2011
+2939 Con Robyns Sudan 52 Polio YES 15-05-1920
+0354 Reube Delaney Sudan 22 Coxsackie-B YES 09-02-1985
+4452 Ibby Allsepp Sudan 73 SARS-CoV-1 NO
+5354 Nappie Whinray Sudan 28 Cytomegalovirus YES 17-04-1953
+3735 Robbie Morl Sudan 45 Varicella YES 21-05-1956
+7304 Doti Drinnan Sudan 18 Coxsackie-B YES 23-09-1938
+4360 Jeannie Jaycock Sudan 39 Cytomegalovirus NO
+7769 Jaclyn Farnaby Sudan 36 Cytomegalovirus NO
+8640 Ephrem Giocannoni Sudan 72 Adenovirus YES 15-01-1974
+5302 Hagen Juschka Sudan 14 Influenza YES 29-11-2002
+1982 Garrett Lincey Sudan 76 HIV NO 12-02-1976
+1485 Valaria Spincks Sudan 36 HIV YES 01-10-1986
+1879 Fitz Wrightson Sudan 11 SARS-CoV-1 YES 06-03-1927
+0592 Torrance Frosch Sudan 22 Polio YES 05-11-1976
+5291 Sauveur Vasiliev Sudan 103 Norovirus YES 09-04-1956
+9272 Kessia Youthed Sudan 54 Rotavirus NO 16-05-1920
+1211 Nanny Abbs Sudan 92 Adenovirus NO
+4112 Mack Brownsey Sudan 50 Megavirus YES 11-12-1938
+1056 Juliet LeBlanc Sudan 86 HTLV-1 YES 05-10-1953
+5149 Ken Curran Sudan 61 Epstein-Barr YES 08-11-1962
+1776 Pattie Stodit Sudan 62 Rubella YES 11-05-2012
+1971 Ursola Loughton Sudan 61 SARS-CoV-1 YES 27-11-1946
+6124 Henrietta Skiplorne Sudan 51 Herpes NO
+0717 Lanie Yoseloff Sudan 110 Varicella YES 04-04-1912
+2223 Nadine Breckon Sudan 99 SARS-CoV-1 YES 18-08-1925
+5776 Catlee Posnett Sudan 56 Varicella NO
+8556 Jasmin Ville Sudan 20 Megavirus NO
+7198 Clovis Salthouse Sudan 68 Megavirus NO
+0372 Christie Brigge Sudan 12 COVID-19 YES 24-06-1910
+5416 Coleen Nerval Sudan 89 Megavirus NO
+2030 Alysa Bedboro Sudan 112 Coxsackie-B YES 16-07-1965
+1529 Martita Drinnan Sudan 3 Rabies YES 29-07-2006
+2948 Golda Statersfield Sudan 47 Herpes YES 29-05-1947
+8160 Malina Allsebrook Sudan 10 Rubella NO 16-11-1999
+1807 Yule Drayson Sudan 8 Varicella YES 28-05-1925
+8656 Diarmid Austing Sudan 82 Megavirus YES 25-10-1968
+7400 Lucia Mease Sudan 55 Epstein-Barr NO
+4167 Mordy Giggs Sudan 80 HTLV-1 NO

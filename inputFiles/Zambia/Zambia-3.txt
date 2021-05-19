@@ -1,0 +1,25 @@
+2259 Bryna Huard Zambia 64 Rotavirus NO
+3046 Evie Tiery Zambia 8 Mumps YES 29-02-1956
+1824 Daria McCotter Zambia 56 Varicella YES 03-08-1970
+8811 Dollie Suter Zambia 17 Influenza NO
+0560 Halsey Brittan Zambia 38 Coxsackie-B NO
+1627 Valentijn Jenoure Zambia 112 Norovirus YES 01-09-1942
+0961 Ham Gartan Zambia 92 SARS-CoV-1 YES 23-02-1990
+9938 Anni Leban Zambia 89 Hepatitis-B YES 15-03-1935
+7565 Judy Baudone Zambia 8 COVID-19 YES 03-03-2011
+0495 Galven Coulthart Zambia 4 Rubella NO
+5988 Gard Iddins Zambia 120 Varicella NO
+1474 Jacky Portch Zambia 99 Influenza YES 11-01-1916
+3292 Vevay Sutty Zambia 82 Rotavirus YES 10-12-1964
+6431 Barbi Cockren Zambia 74 Rubella YES 14-03-2012
+5181 Derk Spaunton Zambia 50 HIV YES 26-10-2021
+5269 Leela Williamson Zambia 76 Cytomegalovirus YES 10-11-1957
+7617 Packston Navein Zambia 60 Rotavirus YES 13-03-1961
+7327 Lorettalorna Gyer Zambia 45 Epstein-Barr YES 09-11-1911
+0868 Nicoline Presshaugh Zambia 81 Mumps NO
+5401 Jerrine Bosward Zambia 99 Mumps YES 17-03-1978
+0986 Georg Newborn Zambia 97 COVID-19 NO
+1385 Kissie Gumn Zambia 56 Varicella NO
+5142 Maryellen Robardet Zambia 106 COVID-19 NO
+2680 Clyde Chattelaine Zambia 27 Rabies YES 08-03-1951
+4909 Amara Avory Zambia 76 SARS-CoV-1 YES 05-04-1901

@@ -1,0 +1,32 @@
+4263 Urban McCorkindale Panama 72 Mumps NO
+8023 Reagan Vasilischev Panama 38 Coxsackie-B YES 20-07-1966
+0140 Nicoline Heady Panama 21 Cytomegalovirus NO
+7137 Sheffy Lanigan Panama 119 Influenza YES 15-05-1975
+9994 Cinda Marrable Panama 4 HPV YES 20-09-2018
+3506 Reider Coulthart Panama 83 COVID-19 YES 10-05-2000
+4651 Jerrine Biasioni Panama 78 Mumps YES 26-10-1909
+7940 Fara Breckon Panama 36 SARS-CoV-1 NO
+9670 Tadio Kern Panama 30 HPV YES 18-08-1959
+1318 Francisco Crumby Panama 102 Megavirus YES 25-11-1903
+6789 Huntley Snowsill Panama 27 COVID-19 YES 11-01-2014
+1476 Randie Snowsill Panama 52 Rotavirus NO 21-03-2002
+1892 Cosette Margach Panama 24 HIV YES 18-05-1905
+4425 Kleon Coltart Panama 109 Polio NO
+3771 Madeline Casterton Panama 6 Coxsackie-B YES 04-11-1980
+5476 Alecia Bogges Panama 26 Coxsackie-B YES 06-07-1953
+0108 Marlin Manske Panama 82 Adenovirus NO
+3830 Rubina Lanfranchi Panama 86 Polio YES 05-01-1932
+5146 Kort Girodias Panama 100 Adenovirus YES 05-07-1951
+9312 Oralie Drewry Panama 118 HPV NO
+5430 Fax Bischof Panama 46 Mumps NO
+8078 Dmitri Gowenlock Panama 91 Varicella NO
+8928 Mellie Matzeitis Panama 80 Coxsackie-B NO
+9909 Nadine Look Panama 72 HIV NO
+8674 Lorrayne Dallosso Panama 38 Polio YES 08-08-1917
+0856 Morena Narducci Panama 120 Epstein-Barr YES 08-02-1969
+5105 Bret Cossons Panama 91 Epstein-Barr YES 19-07-1931
+3859 Cassondra Rodrigo Panama 88 Cytomegalovirus YES 09-08-1916
+8967 Fara Rawlins Panama 75 Rotavirus NO
+5598 Duke Marquess Panama 4 Mumps YES 18-08-1914
+5733 Tadd Morgon Panama 70 HPV NO
+3901 Moshe Timpany Panama 101 Rubella YES 21-12-2003

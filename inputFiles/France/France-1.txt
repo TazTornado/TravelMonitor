@@ -1,0 +1,34 @@
+6071 Kissie Birds France 37 Rotavirus YES 11-10-1957
+1152 Paulita Scranedge France 118 Cytomegalovirus NO
+1810 Herrick Ayris France 30 Herpes NO
+3716 Lebbie Ethersey France 3 Coxsackie-B NO
+9854 Nancee Lomond France 67 Influenza YES 15-11-2009
+9569 Drona Killford France 1 Polio YES 11-09-1965
+0500 Yule Ducker France 11 Megavirus NO
+0446 Norton Smithen France 33 HTLV-1 YES 29-03-1928
+2573 Bob Binney France 76 Megavirus NO
+8918 Trefor Allan France 57 SARS-CoV-1 NO 19-11-1917
+1571 Ainslee Wraighte France 71 HTLV-1 YES 27-06-1998
+1376 Golda Trayhorn France 1 HPV YES 17-10-1942
+3740 Lotti Veque France 111 COVID-19 YES 18-05-1932
+6366 Felicio Feria France 4 Adenovirus YES 07-03-1914
+9601 Juliet Hasling France 21 Norovirus NO
+6016 Mikael Gedge France 13 HTLV-1 YES 27-01-2003
+1369 Woodie Geldeford France 52 Hepatitis-B NO
+6446 Liva Coytes France 87 HPV NO
+8246 Jenny Arlet France 24 Rotavirus NO
+5537 Dominique O'Dowgaine France 11 HTLV-1 NO 15-07-1969
+3822 Jimmy Podd France 67 Rotavirus NO
+4350 Murielle Eilert France 114 Varicella YES 29-04-1987
+8112 Kenyon Degan France 18 Megavirus YES 11-04-2013
+6051 Culley Fludder France 29 Norovirus YES 29-12-1938
+3103 Florance Plewes France 9 Hepatitis-B YES 27-02-1958
+5994 Rubina Raisher France 68 SARS-CoV-1 NO
+6926 Angelique Riolfo France 106 Coxsackie-B YES 28-03-1927
+6695 Clarke Boni France 117 SARS-CoV-1 YES 05-11-1906
+8881 Norton Heady France 26 HPV NO
+1964 Luise Baudinot France 71 Cytomegalovirus YES 14-07-1974
+1132 Fitz Hill France 34 HPV YES 12-03-1934
+0406 Rina Bedboro France 17 Norovirus NO
+1207 Ugo Nestor France 82 Hepatitis-B NO
+0469 Kipp Offer France 96 Rotavirus NO

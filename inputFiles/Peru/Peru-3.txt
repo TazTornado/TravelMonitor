@@ -1,0 +1,33 @@
+4121 Luce Galliard Peru 119 Rubella YES 11-08-2010
+8041 Abigail Croome Peru 92 Rotavirus YES 18-05-1937
+6340 Rasla Forkan Peru 31 Polio NO
+4910 Aldin Hallgate Peru 80 Adenovirus YES 13-08-1930
+1510 Huntley DeGregario Peru 61 HIV NO
+0283 Jarrett Hembery Peru 8 HTLV-1 NO
+4340 Kerri Jeffrey Peru 42 Rotavirus YES 23-07-1976
+7348 Cosette Monnelly Peru 105 Influenza YES 30-03-2019
+4647 Cesar Chasemore Peru 12 COVID-19 YES 23-02-1957
+8389 Jimmy Ervine Peru 58 Varicella YES 18-12-1920
+2474 Robbie Wabersinke Peru 61 Rotavirus NO
+3972 Honoria Greatbatch Peru 79 Influenza NO 15-11-2007
+6129 Tanney Pedri Peru 74 HTLV-1 YES 11-02-2002
+0686 Sherill Kisbee Peru 52 Mumps YES 21-03-1972
+0801 Lissie Meugens Peru 1 Megavirus NO
+0399 Cynthea Ianelli Peru 89 Varicella NO 04-11-1972
+0338 Shae Innocenti Peru 69 Coxsackie-B YES 13-08-1956
+8530 Garrett Nuzzti Peru 30 Rotavirus YES 04-12-1967
+2051 Vernor Gallegos Peru 79 Cytomegalovirus NO 30-05-1990
+4354 Mikael Hill Peru 62 Influenza YES 24-03-1907
+3568 Idalina Gritten Peru 49 HIV YES 09-05-1974
+6338 Trefor Harbard Peru 90 Rabies NO
+8059 Glenna Berndtssen Peru 24 HTLV-1 YES 30-04-1984
+4918 Palmer Mullaly Peru 69 Influenza YES 10-04-1976
+9566 Ethyl Aggus Peru 24 Influenza NO
+1931 Maryellen Grigorian Peru 26 Herpes NO
+0918 Cari Shadfourth Peru 86 Varicella NO
+3223 Marc Chatelain Peru 46 Rotavirus YES 29-08-2017
+3047 Cord Greave Peru 51 Rotavirus YES 19-07-1976
+0977 Casi Icom Peru 77 Norovirus YES 28-01-1966
+3113 Eadmund Bolam Peru 21 HPV NO
+5450 Rudy Cinavas Peru 114 Cytomegalovirus NO 16-12-1966
+3301 Sutherlan Demageard Peru 86 Cytomegalovirus NO

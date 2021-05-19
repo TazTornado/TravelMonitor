@@ -1,0 +1,32 @@
+9490 Neils McAuley Panama 73 HIV YES 12-04-1941
+6112 Theodor Aggus Panama 63 Varicella NO
+8013 Julius Meugens Panama 106 Adenovirus YES 12-02-2005
+0192 Laughton Gallegos Panama 24 HIV NO
+2198 Dorey Whatmough Panama 68 SARS-CoV-1 NO
+7643 Galvin Lesper Panama 99 Adenovirus YES 07-05-1959
+5507 Alice Chasemore Panama 2 HIV YES 20-05-1979
+1331 Job Sambells Panama 97 Mumps YES 03-01-1903
+0756 Moreen Cinavas Panama 107 Norovirus YES 29-08-1984
+9388 Michal Mathiasen Panama 53 HPV YES 06-12-1934
+2366 Danita Deam Panama 110 HTLV-1 NO
+6040 Sigfried Icom Panama 61 Rotavirus YES 13-01-1955
+6999 Gordan Wabersinke Panama 42 HPV YES 15-01-1925
+0232 Kenyon Jirusek Panama 101 Rotavirus NO
+6231 Skye Crowcombe Panama 75 Norovirus YES 28-05-1960
+2156 Reagan Upchurch Panama 2 Cytomegalovirus NO
+4903 Sonja Rounce Panama 84 Hepatitis-B NO
+1583 Curr Bussen Panama 83 Polio YES 08-07-1928
+4778 Shay Boldra Panama 96 Rabies NO
+6225 Samantha Crebo Panama 31 Herpes YES 08-01-1918
+8904 Ced Tilbey Panama 73 COVID-19 NO
+7859 Christoffer Dumbrall Panama 38 Adenovirus YES 24-05-1954
+5731 Julee Brigge Panama 5 Polio NO
+5919 Shae Newborn Panama 87 HPV YES 09-04-2004
+8057 Perla Whittier Panama 59 HTLV-1 NO
+5689 Yard Shelborne Panama 30 Epstein-Barr NO
+5999 Joscelin Petkov Panama 35 Coxsackie-B NO
+4628 Violante Hachard Panama 103 Norovirus NO
+7591 Queenie Willcott Panama 93 SARS-CoV-1 YES 13-10-1927
+7858 Tyler McCague Panama 22 Epstein-Barr YES 09-06-2002
+3575 Murielle Zanetti Panama 63 SARS-CoV-1 NO
+4139 Chelsie Howlin Panama 4 Norovirus YES 11-07-2014

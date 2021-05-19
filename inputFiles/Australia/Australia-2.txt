@@ -1,0 +1,33 @@
+6287 Thorndike Manifold Australia 74 Herpes YES 12-10-2012
+2365 Malissia Hallgate Australia 110 Adenovirus YES 20-10-1932
+8429 Diarmid Bosward Australia 64 Herpes NO
+5292 Georgeanne Willcott Australia 31 Varicella NO
+7219 Delilah Clowsley Australia 54 Hepatitis-B YES 30-10-1999
+9722 Hailee Martell Australia 25 Norovirus NO
+1418 Florance Eborall Australia 56 Coxsackie-B YES 08-10-1916
+2800 Skippie Benion Australia 71 Polio YES 08-07-2004
+2633 Valentijn Sybe Australia 24 HTLV-1 YES 11-05-2015
+8194 Bobine Gowenlock Australia 104 Varicella NO
+8105 Culley Espadas Australia 15 Herpes YES 27-11-1971
+3998 Kermie Whewell Australia 87 Coxsackie-B NO
+2577 Klarrisa Tarbatt Australia 68 Norovirus NO
+1906 Alanah Bulgen Australia 97 Herpes NO
+4831 Elladine Giocannoni Australia 12 HTLV-1 YES 25-12-1916
+4631 Leodora Peeter Australia 103 Coxsackie-B NO
+4626 Bobine Ballantine Australia 37 Polio YES 30-11-1980
+9401 Rustie Boldra Australia 65 SARS-CoV-1 NO
+2477 Shelden Matantsev Australia 16 Rotavirus YES 13-07-1925
+9705 Guenna Manske Australia 104 Norovirus YES 12-02-1921
+6249 Hunt Trowle Australia 11 Hepatitis-B YES 02-10-1909
+5330 Bret DeFrancesco Australia 90 Mumps NO
+7545 Patsy Pilsworth Australia 36 Herpes NO
+4605 Viole Cowey Australia 109 HIV YES 12-07-1955
+9739 Skippie Critchley Australia 61 Norovirus YES 05-01-2004
+4692 Cyrill Dunley Australia 22 Megavirus YES 10-06-1975
+5611 Britt Pealing Australia 49 Polio NO
+7072 Margaret Courtier Australia 87 Herpes YES 25-02-1980
+5176 Shay Kettley Australia 59 Hepatitis-B YES 18-04-1976
+5724 Gael Devers Australia 103 Influenza YES 12-06-2000
+3369 Garrett Fache Australia 115 Adenovirus YES 15-02-1990
+1341 Molli Cathesyed Australia 116 Norovirus NO 18-08-2001
+8867 Juliet Holtom Australia 49 HIV NO 26-05-1907

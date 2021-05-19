@@ -1,0 +1,35 @@
+8699 Marchall Juanico Egypt 17 Herpes YES 18-07-1952
+7253 Marcelle Lope Egypt 21 Cytomegalovirus NO
+3665 Malissia Bedboro Egypt 62 Coxsackie-B NO
+7399 Ulrick Rodrigo Egypt 96 HTLV-1 NO
+9408 Miller Mizen Egypt 34 Norovirus NO
+7778 Dukie Caudle Egypt 28 Varicella NO
+3835 Shepherd Tipper Egypt 106 Epstein-Barr YES 04-12-1904
+5707 Drucie Upchurch Egypt 105 HIV YES 04-09-1992
+5108 Kyle Clout Egypt 45 Coxsackie-B NO
+1783 Lemar Douthwaite Egypt 11 Varicella YES 06-10-1928
+8320 Stillman Rops Egypt 70 Polio YES 24-12-1958
+3393 Silvain Gateley Egypt 57 Epstein-Barr NO
+5980 Milton Hallgate Egypt 21 Hepatitis-B NO
+7324 Orly Renehan Egypt 54 SARS-CoV-1 NO 21-06-1916
+0750 Dinnie Pomery Egypt 72 HPV YES 12-04-1975
+0864 Karola McGennis Egypt 89 Rotavirus YES 27-08-1927
+4383 Waiter Aingell Egypt 59 Varicella NO
+8616 Elysee Swainger Egypt 35 Rotavirus NO
+5240 Curr Kettley Egypt 108 Epstein-Barr YES 14-10-1943
+0154 Bink Renehan Egypt 84 Varicella NO
+0448 Yolanthe Pedrick Egypt 32 Rabies NO
+6756 Tandi MacCague Egypt 107 Rotavirus NO
+8705 Martyn Blaskett Egypt 116 Mumps YES 03-02-2011
+1850 Dorey Petrovykh Egypt 69 Rotavirus YES 09-12-1991
+3632 Josephine Aust Egypt 10 HPV NO
+3593 Roderigo Leirmonth Egypt 109 Mumps NO
+3222 Perla Butterworth Egypt 109 COVID-19 NO
+6232 Ainslee Chasemore Egypt 70 Coxsackie-B YES 23-10-1916
+5255 Brandice Gauche Egypt 49 HPV NO
+4716 Cosette Rapson Egypt 53 Mumps NO 05-02-1953
+4781 Celisse Abramow Egypt 59 HTLV-1 YES 17-05-1949
+1008 Charil Arnet Egypt 52 HIV NO 09-05-1929
+1471 Karisa Olivi Egypt 103 Varicella YES 13-09-1963
+1484 Daffie Benois Egypt 50 HTLV-1 YES 21-01-1918
+2580 Devi Toby Egypt 92 SARS-CoV-1 NO

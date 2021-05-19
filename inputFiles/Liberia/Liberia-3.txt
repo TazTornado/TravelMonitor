@@ -1,0 +1,31 @@
+3839 Daniel Drewry Liberia 47 COVID-19 YES 10-08-1926
+5760 Jaclyn Keune Liberia 5 Mumps YES 03-03-1933
+3508 Kayla Drewry Liberia 6 Herpes NO
+4181 Lacy Mutimer Liberia 105 Cytomegalovirus YES 11-04-2012
+3904 Gus Fannon Liberia 117 HPV YES 04-10-1922
+9927 Melisa Elies Liberia 116 Epstein-Barr NO
+1827 Galvin Veall Liberia 31 Coxsackie-B YES 05-11-1951
+9498 Sigfried Sanders Liberia 16 Rotavirus YES 17-07-1919
+7732 Antone McAuley Liberia 22 SARS-CoV-1 NO 17-04-2019
+9083 Nadine Sturgis Liberia 23 Hepatitis-B YES 29-01-1938
+4053 Kerri Janjic Liberia 17 Rabies YES 10-04-1993
+4750 Madelaine Sinton Liberia 30 Hepatitis-B NO
+9366 Georges Akester Liberia 72 COVID-19 NO
+0062 Felicio Paridge Liberia 97 Influenza YES 20-12-1985
+5519 Jimmy Danihelka Liberia 59 SARS-CoV-1 YES 23-07-1995
+7152 Malissia Wrightson Liberia 26 Cytomegalovirus NO
+7182 Nancee Cosens Liberia 83 Polio NO
+2457 Palmer Moquin Liberia 60 Mumps YES 30-11-1906
+2252 Mar Shilliday Liberia 41 Rotavirus YES 20-03-1993
+4010 Gwenni Wringe Liberia 39 Rubella YES 18-01-1943
+6950 Cher Vasiliev Liberia 120 Influenza NO
+4546 Auria Gallegos Liberia 111 Rotavirus NO
+5715 Valli Fibbitts Liberia 117 Herpes YES 11-08-1921
+4835 Gerhard Baudone Liberia 107 Influenza NO
+7057 Reube Heady Liberia 31 COVID-19 NO
+8409 Odelinda Miall Liberia 12 Influenza NO
+7157 Dulcie Lilleycrop Liberia 63 Megavirus YES 09-05-2001
+6616 Jessey Penberthy Liberia 56 HPV YES 07-07-1996
+8888 Alysa Veale Liberia 18 HIV NO
+1564 Burch Sadd Liberia 108 HPV YES 14-03-2009
+6609 Fidelia Rodrigo Liberia 105 Epstein-Barr NO

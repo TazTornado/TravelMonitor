@@ -1,0 +1,32 @@
+4853 Balduin Gantzman Ghana 112 Mumps NO
+8045 Leonid Nys Ghana 113 Mumps YES 08-08-1923
+3725 Dallis Ternault Ghana 3 Coxsackie-B YES 18-08-2021
+4441 Vilhelmina Pigram Ghana 101 Influenza YES 13-06-1902
+2880 Nicolais Cosens Ghana 70 Rotavirus YES 05-09-2002
+9119 Cinda Willcott Ghana 35 Rabies NO
+5337 Antone Haberfield Ghana 13 Polio NO
+2759 Jule Heinzel Ghana 105 Megavirus YES 24-09-1902
+8139 Rouvin MacKellar Ghana 39 COVID-19 NO
+4514 Augie Grimmer Ghana 70 Polio NO
+7010 Viki Renehan Ghana 99 Polio NO
+8488 Charmian Boydle Ghana 85 Rotavirus YES 07-08-2009
+6384 Philomena Revel Ghana 16 Norovirus YES 10-10-1954
+4428 Herb Avory Ghana 29 Coxsackie-B YES 18-06-1938
+4478 Julee Hulburd Ghana 29 Norovirus YES 03-06-1966
+9693 Rich Twinbrow Ghana 90 Influenza NO
+3996 Palmer Stoffers Ghana 3 Megavirus YES 06-03-1940
+7784 Harlie Miall Ghana 113 Hepatitis-B YES 27-07-1967
+0329 Zita Morcomb Ghana 78 Mumps NO
+3273 Leann Ewell Ghana 98 SARS-CoV-1 NO
+7192 Clea Gunny Ghana 4 Rabies YES 28-08-1962
+6050 Moshe Mantione Ghana 53 Megavirus NO
+9687 Zechariah Brookes Ghana 39 SARS-CoV-1 YES 28-11-1993
+3818 Martyn Rounce Ghana 47 Rabies NO
+6853 Lotti Mathiasen Ghana 3 Megavirus NO
+2154 Sutherlan Navein Ghana 89 Rabies YES 23-01-1949
+7397 Gretta Spick Ghana 49 Rubella YES 03-04-1999
+0400 Job Littlefield Ghana 61 SARS-CoV-1 NO
+9992 Bertrand Diack Ghana 48 Rabies YES 18-06-1901
+0944 Lise Barnson Ghana 96 Mumps NO
+6271 Trstram Sybe Ghana 74 Rabies NO
+2833 Cordie Mebius Ghana 32 Epstein-Barr YES 25-03-2018

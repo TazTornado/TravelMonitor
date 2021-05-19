@@ -1,0 +1,32 @@
+5738 Siobhan Hillitt Chad 81 Norovirus YES 17-02-1934
+3574 Cherlyn Keirl Chad 30 Rabies NO 18-10-1921
+5983 Reinhold Crummay Chad 39 Cytomegalovirus NO
+9163 Gracia Drought Chad 10 Hepatitis-B NO
+1679 Gradeigh Bourne Chad 40 HPV NO
+3249 Leodora DeRuggero Chad 87 Influenza NO
+1949 Shaylynn Whittier Chad 97 HIV NO
+2136 Harlene Moquin Chad 67 Hepatitis-B NO
+4894 Christie Kettley Chad 117 Epstein-Barr NO
+5527 Che Barkworth Chad 99 Hepatitis-B NO
+3018 Eldon Renehan Chad 91 Cytomegalovirus YES 01-04-2019
+4811 Jeff Jirka Chad 14 Epstein-Barr NO
+8086 Grier Symons Chad 61 Cytomegalovirus YES 18-09-1927
+2582 Malinda Walls Chad 88 Rubella YES 23-01-1965
+9823 Elie Deam Chad 53 Hepatitis-B YES 28-12-2014
+4730 Gregorio Robens Chad 52 Herpes NO
+0224 Kayla Hammon Chad 99 SARS-CoV-1 NO
+4965 Thain McQueen Chad 83 Hepatitis-B YES 12-12-2010
+5238 Mordy Benois Chad 18 Coxsackie-B YES 12-06-1975
+3857 Timoteo Gillian Chad 75 Megavirus NO
+9642 Dew Gauch Chad 30 Megavirus YES 06-07-1924
+8903 Ingamar Tilbey Chad 32 Coxsackie-B YES 24-10-1953
+3289 Edi Grierson Chad 83 Epstein-Barr YES 30-06-1922
+6150 Tye Lyddiatt Chad 86 Epstein-Barr YES 14-02-1905
+7909 Nellie Fleischmann Chad 113 Adenovirus NO
+6332 Culver Brindley Chad 114 Megavirus NO
+0660 Charlene Gaitone Chad 98 Herpes YES 24-09-1956
+9179 Gabriellia Madgin Chad 42 Megavirus NO
+4105 Cord Gilbart Chad 115 COVID-19 YES 04-04-1911
+6640 Rosella Drayson Chad 15 Coxsackie-B NO
+8017 Vernor Barkworth Chad 67 COVID-19 NO
+1591 Myrtie Mease Chad 93 Rabies NO

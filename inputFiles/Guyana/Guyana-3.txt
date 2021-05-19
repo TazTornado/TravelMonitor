@@ -1,0 +1,32 @@
+6763 Gabriellia Allsepp Guyana 73 HPV NO
+4959 Debora Aingell Guyana 5 Polio YES 17-10-1950
+4832 Lynett Wrightson Guyana 30 HPV YES 27-02-1942
+6989 Angel Brittan Guyana 119 Herpes NO
+2781 Gertrude Balbeck Guyana 37 Rotavirus NO 09-08-1900
+2037 Elvin Elintune Guyana 84 Norovirus NO
+9143 Jeremiah Martell Guyana 70 Mumps NO
+3277 Darice Whytock Guyana 77 Norovirus YES 09-03-1900
+5821 Talya Muglestone Guyana 61 COVID-19 NO
+7929 Reinhold Herity Guyana 1 Coxsackie-B YES 05-10-1956
+9012 Duncan Luckwell Guyana 54 Norovirus YES 03-11-1939
+2984 Cassondra Ellsbury Guyana 111 Adenovirus NO
+3880 Georgie Curran Guyana 49 HTLV-1 NO
+7319 Ruben Koeppe Guyana 106 Varicella NO
+5837 Kimbell Sinton Guyana 110 Cytomegalovirus YES 17-05-1929
+3156 Waylon Pilsworth Guyana 35 Herpes YES 02-05-1985
+6852 Vickie Bram Guyana 38 SARS-CoV-1 YES 01-04-1989
+9669 Violante Bartolijn Guyana 34 Rotavirus NO
+1101 Clementina Mance Guyana 37 HIV NO
+1364 Cacilie Cavie Guyana 89 SARS-CoV-1 YES 09-02-1931
+5648 Coleman Swigger Guyana 106 Rubella YES 04-06-1917
+0614 Daisey Paddon Guyana 23 HTLV-1 NO
+1274 Dinah Merricks Guyana 55 HIV NO
+3433 Renate Mathiasen Guyana 73 Rotavirus YES 07-08-1950
+3274 Rorie Garrelts Guyana 38 HIV NO
+9193 Thaxter Alton Guyana 119 Mumps YES 23-09-1936
+5658 Sauveur Garrelts Guyana 66 HTLV-1 YES 25-07-1976
+1995 Grier Nolleau Guyana 17 Rotavirus YES 19-09-1919
+7956 Evie Whatmough Guyana 44 HPV NO 21-09-1905
+6997 Omar Rosencrantz Guyana 71 Rubella YES 26-07-1907
+8190 Jimmy O'Rowane Guyana 36 HIV YES 18-07-1913
+2359 Phil Meugens Guyana 7 Hepatitis-B YES 21-02-1909

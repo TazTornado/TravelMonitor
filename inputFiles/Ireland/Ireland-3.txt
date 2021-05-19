@@ -1,0 +1,31 @@
+1667 Patsy Gye Ireland 111 HIV NO
+4098 Shermy Lumsdale Ireland 36 Mumps YES 04-07-1944
+5382 Mikael Stoltz Ireland 23 Cytomegalovirus YES 13-02-1980
+6645 Waylon Woolward Ireland 68 Cytomegalovirus NO
+9822 Katlin Gyer Ireland 43 Epstein-Barr YES 22-07-1908
+0307 Vevay Cassar Ireland 12 Rabies NO
+4256 Loren Avory Ireland 66 Megavirus YES 14-12-1952
+5807 Nicolais MacAdam Ireland 53 SARS-CoV-1 YES 21-10-1922
+3359 Didi Sebrook Ireland 40 Coxsackie-B NO
+6416 Jenny Wibberley Ireland 100 Coxsackie-B NO
+3607 Holden Vyse Ireland 96 Mumps YES 23-11-1942
+2449 Lacy Spincks Ireland 115 Varicella YES 03-07-1952
+5284 Meyer Beneyto Ireland 110 Polio YES 29-10-1946
+0268 Juliane Ghioni Ireland 21 Hepatitis-B YES 13-01-1976
+5772 Isabeau Morsley Ireland 92 Norovirus NO
+3769 Finley Toten Ireland 92 Influenza YES 19-10-1968
+3075 Evangelina Morgon Ireland 83 Coxsackie-B YES 24-01-2002
+7142 Martyn Barthrop Ireland 54 Rotavirus NO
+0623 Leann Challinor Ireland 108 SARS-CoV-1 YES 19-10-2010
+6669 Jackie Prium Ireland 2 Herpes NO
+9497 Xylia Cron Ireland 38 Cytomegalovirus YES 05-11-1949
+5000 Valera Peeter Ireland 62 COVID-19 YES 20-04-1952
+1133 Elysee Arlet Ireland 63 Epstein-Barr NO
+5150 Courtney Mance Ireland 32 Rotavirus NO
+5420 Morena Daubney Ireland 100 Norovirus YES 19-12-1967
+8182 Diarmid Jaycock Ireland 84 Adenovirus NO
+4245 Robin Petkov Ireland 97 Mumps YES 30-08-2016
+8874 Pattie Fochs Ireland 9 Hepatitis-B NO
+5438 Calvin Weekley Ireland 26 Epstein-Barr NO
+5518 Marchall O'Dowgaine Ireland 56 Cytomegalovirus NO
+3918 Maybelle Dumbrall Ireland 38 Influenza NO

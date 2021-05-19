@@ -1,0 +1,36 @@
+5604 Romonda Arnet Libya 116 Rotavirus NO
+6273 Stoddard Dicty Libya 113 HPV NO
+5766 Ricki Bussen Libya 13 Adenovirus YES 06-07-1919
+7537 Valera Spoward Libya 95 Influenza YES 05-09-1915
+5122 Carce Whaites Libya 18 Rubella YES 29-04-1999
+6924 Dukie Nolin Libya 24 Rabies YES 19-08-1982
+6923 Palmer Sheaber Libya 10 Megavirus NO
+9441 Brandice Housin Libya 56 Cytomegalovirus NO
+7670 Dallis Birkby Libya 45 Rabies YES 17-02-2002
+0676 Jimmy Wife Libya 114 Herpes NO
+7783 Stormi Oldred Libya 74 HPV NO
+9799 Sherman Argyle Libya 82 HIV YES 30-10-1988
+3067 Anni Gritten Libya 97 Mumps NO
+4825 Augie Krauss Libya 55 Adenovirus NO
+6091 Daryl Farnaby Libya 1 HTLV-1 NO
+7330 Davy Drysdall Libya 106 Rabies YES 08-03-1925
+7470 Harry Whatmough Libya 9 Coxsackie-B NO 12-08-1920
+0546 Ruben McKeating Libya 11 HTLV-1 YES 11-10-1970
+0782 Lyssa Jennens Libya 36 SARS-CoV-1 YES 03-03-1953
+2266 Beverly Stanbra Libya 86 Coxsackie-B NO
+9937 Guglielmo Vasilischev Libya 46 Influenza YES 17-07-1902
+1800 Clayton Tew Libya 3 Rabies NO
+8511 Leodora Rops Libya 14 Coxsackie-B YES 12-03-1946
+2294 Roger Butterworth Libya 21 Varicella NO
+0608 Appolonia Ruppel Libya 38 Varicella NO
+8609 Curran Allsebrook Libya 118 Adenovirus NO
+0754 Myriam Gillian Libya 6 Adenovirus NO
+4482 Darice Brimacombe Libya 118 Norovirus YES 24-05-1969
+1962 Tallulah Raymont Libya 115 Mumps NO
+3861 Blythe Cowey Libya 73 HTLV-1 YES 03-03-1938
+8159 Alejandra Wellbeloved Libya 53 Cytomegalovirus NO 01-07-2012
+4941 Abbye Kinastan Libya 34 SARS-CoV-1 NO
+1860 Eba Matzeitis Libya 57 Cytomegalovirus NO
+4762 Holden Tipper Libya 9 Epstein-Barr NO
+0478 Jessey Wolfinger Libya 26 HPV NO
+4461 Nathan Stodit Libya 47 Epstein-Barr YES 25-12-1940

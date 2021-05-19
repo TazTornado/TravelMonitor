@@ -1,0 +1,33 @@
+4509 Randie Quainton Lithuania 97 HTLV-1 YES 02-01-2011
+3913 Skippie Janjic Lithuania 72 Norovirus YES 20-04-1920
+1568 Tildi Rushe Lithuania 76 Rotavirus YES 05-05-1975
+1848 Ingamar Harmson Lithuania 107 Adenovirus NO
+4667 Sutherlan Fearnsides Lithuania 101 Cytomegalovirus YES 21-05-1988
+1796 Maje Goady Lithuania 28 Varicella NO
+0853 Maegan Yoseloff Lithuania 47 Norovirus YES 08-04-1989
+6421 Graham Leacy Lithuania 38 Rubella YES 20-03-2011
+9352 Marissa Kenyam Lithuania 46 Rotavirus NO
+3886 Leodora Burbage Lithuania 90 Herpes NO
+9605 Coleman Saddington Lithuania 46 Coxsackie-B NO 14-08-2006
+1443 Neille Goulthorp Lithuania 17 Cytomegalovirus YES 08-08-1925
+4282 Vladimir Gauche Lithuania 110 COVID-19 YES 03-12-2000
+2187 Raimund Annand Lithuania 119 Polio NO
+1319 Theodor Clipston Lithuania 115 COVID-19 YES 03-06-1978
+3191 Karol Antoniazzi Lithuania 95 Hepatitis-B NO
+4806 Gwenni Renehan Lithuania 29 Megavirus NO
+6837 Rene Petkov Lithuania 111 Coxsackie-B NO
+4317 Lindsay Leban Lithuania 34 SARS-CoV-1 NO
+9139 Shaine Gotfrey Lithuania 50 Megavirus YES 05-11-2008
+1687 Lyle Brookbank Lithuania 11 Cytomegalovirus YES 28-06-2005
+4414 Sherill Rikkard Lithuania 41 HIV NO
+9327 Marlin Hengoed Lithuania 3 HPV YES 22-05-1947
+2546 Margalit Hirjak Lithuania 48 Hepatitis-B YES 11-03-1997
+3005 Josephine Raitie Lithuania 18 Rotavirus NO
+3915 Ermengarde Manifold Lithuania 59 HPV NO
+4744 Perrine McGrill Lithuania 66 Norovirus NO
+7281 Ichabod Trehearn Lithuania 93 SARS-CoV-1 NO
+8421 Lovell Pristnor Lithuania 101 Rotavirus NO
+8394 Con Rodden Lithuania 118 Adenovirus YES 29-09-1924
+7294 Ingamar Jindrich Lithuania 14 Megavirus YES 23-08-1955
+7660 Keene Headley Lithuania 43 Rabies NO
+7677 Job Tillett Lithuania 3 Norovirus YES 08-11-1907

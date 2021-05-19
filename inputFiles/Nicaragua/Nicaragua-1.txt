@@ -1,0 +1,31 @@
+1905 Sandra O'Dowling Nicaragua 92 Influenza YES 13-09-1910
+5453 Gretta Messiter Nicaragua 76 Cytomegalovirus YES 25-06-1992
+8464 Eldon Standen Nicaragua 14 Rotavirus YES 17-08-1901
+4663 Oriana Dispencer Nicaragua 96 Hepatitis-B YES 16-04-2002
+4713 Bertina Canham Nicaragua 95 Herpes YES 17-06-2008
+7954 Galvin Mebius Nicaragua 39 Rubella NO
+3655 Tabby Megarrell Nicaragua 2 Megavirus YES 28-01-1908
+0001 Angelique Heinzel Nicaragua 109 Rabies YES 18-09-1983
+0227 Ainslee Enriques Nicaragua 104 Varicella NO
+5588 Jimmy Dabrowski Nicaragua 34 Coxsackie-B NO
+1327 Sonny Vila Nicaragua 81 COVID-19 NO
+0319 Yettie Challinor Nicaragua 22 Rotavirus YES 17-08-2007
+2818 Sherill Cowey Nicaragua 38 HPV YES 02-01-1999
+8577 Antonietta Dadds Nicaragua 45 Coxsackie-B YES 04-05-1953
+3708 Berti Collum Nicaragua 98 Megavirus YES 12-01-1982
+2339 Teri Cosens Nicaragua 7 Herpes YES 03-01-1912
+1477 Xylia Kays Nicaragua 38 Influenza YES 16-09-1991
+4140 Jessamine DeCourcey Nicaragua 88 HIV YES 25-10-2006
+0098 Aggi Tynan Nicaragua 27 Rotavirus YES 13-11-1992
+8588 Rochette Geering Nicaragua 15 Rotavirus NO
+0290 Beryle Gumn Nicaragua 55 Coxsackie-B YES 01-03-1917
+7467 Siegfried Alves Nicaragua 2 Hepatitis-B NO
+8333 Danyette Wellesley Nicaragua 62 Rabies NO
+9304 Ellary Olivi Nicaragua 16 HPV YES 05-07-2019
+0963 Lenette Kubacki Nicaragua 59 Epstein-Barr NO
+0810 Gus Fishbie Nicaragua 15 Influenza NO
+5688 Lion Dewett Nicaragua 4 Rotavirus YES 06-02-1922
+6960 Gerhard Look Nicaragua 37 Hepatitis-B NO
+3190 Ester Brownsey Nicaragua 80 Cytomegalovirus YES 09-01-1916
+9968 Holden Ewell Nicaragua 16 COVID-19 YES 21-10-1951
+6630 Orsola Gye Nicaragua 98 Rotavirus YES 22-04-1935

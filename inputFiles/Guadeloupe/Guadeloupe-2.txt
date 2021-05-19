@@ -1,0 +1,35 @@
+4040 Robbie Krauss Guadeloupe 97 Herpes NO
+7085 Milton Earie Guadeloupe 45 Coxsackie-B YES 11-06-1971
+5313 Sophey Cluelow Guadeloupe 34 Megavirus YES 05-06-1936
+1592 Nicolais Diack Guadeloupe 26 Megavirus YES 29-07-1960
+4905 Nicoline Walls Guadeloupe 119 Varicella YES 02-08-2003
+1235 Marcelia Salthouse Guadeloupe 64 Rabies YES 14-03-1977
+6850 Dorey Eilert Guadeloupe 37 Epstein-Barr YES 28-04-1965
+6252 Jacky Megarrell Guadeloupe 55 Varicella NO
+0842 Leslie Windybank Guadeloupe 105 Mumps YES 19-08-1910
+9445 Nona Tuxell Guadeloupe 96 Adenovirus YES 24-12-1903
+7364 Paulie Cowlishaw Guadeloupe 82 Mumps NO
+3062 Yolande Rounce Guadeloupe 82 HTLV-1 YES 28-03-2000
+1076 Juliane Keerl Guadeloupe 115 Hepatitis-B YES 11-07-1953
+8032 Jacky Ducker Guadeloupe 9 Varicella YES 09-09-2008
+6825 Reynold Prium Guadeloupe 3 Varicella NO
+9654 Dennet Rigg Guadeloupe 32 HTLV-1 YES 15-03-1941
+1473 Farra Tibbotts Guadeloupe 2 Adenovirus YES 17-11-1904
+9838 Trixie Menguy Guadeloupe 22 HIV NO
+2379 Lenna Kirsch Guadeloupe 45 Megavirus NO
+3505 Geoffry Ingledew Guadeloupe 27 Mumps NO
+8971 Margaret Ruggen Guadeloupe 66 Varicella NO
+1374 Galvin Brunt Guadeloupe 47 Norovirus YES 15-03-1905
+5534 Livvie Deam Guadeloupe 106 HTLV-1 YES 29-11-1955
+1277 Giulia Risebarer Guadeloupe 80 Mumps YES 13-02-2016
+5319 Shae Robardet Guadeloupe 97 Cytomegalovirus NO
+9196 Drucie Larose Guadeloupe 7 Cytomegalovirus NO
+3473 Mikael Matantsev Guadeloupe 75 Rubella NO
+2990 Cecil Jennens Guadeloupe 47 Rabies YES 01-09-2020
+8666 Antone Herrieven Guadeloupe 67 HTLV-1 NO
+4471 Florette Brownsey Guadeloupe 78 COVID-19 YES 01-04-1945
+2977 Blythe Fache Guadeloupe 107 Megavirus NO 01-02-1905
+5039 Leonie Persence Guadeloupe 88 Epstein-Barr NO
+6721 Ruben Weekley Guadeloupe 85 Epstein-Barr NO
+4220 Clea Fronks Guadeloupe 97 Herpes NO
+8525 Joscelin Podd Guadeloupe 34 Herpes YES 09-05-1928

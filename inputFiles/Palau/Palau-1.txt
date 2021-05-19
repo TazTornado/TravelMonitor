@@ -1,0 +1,30 @@
+5139 Henrietta Birkby Palau 8 HPV NO
+4907 Livvie Loram Palau 105 HIV YES 25-12-1955
+1212 Zita Lanfranchi Palau 31 Epstein-Barr NO
+2587 Renelle Searles Palau 66 Norovirus YES 11-08-1971
+7829 Glenna Keirl Palau 59 Norovirus YES 08-01-1956
+4170 Olvan Rosencrantz Palau 108 HTLV-1 YES 24-11-2021
+6802 Derk Amer Palau 92 COVID-19 NO
+4592 Leonid Greatbatch Palau 25 Varicella YES 09-07-1910
+2646 Daniel Starton Palau 36 Rabies YES 01-12-1955
+0779 Douglas Foskett Palau 93 Herpes NO
+3650 Jule Grunnell Palau 13 HIV YES 09-12-1916
+1026 Albina Juschka Palau 7 Varicella NO 07-11-1987
+2510 Elvin Okker Palau 28 Cytomegalovirus YES 08-11-2015
+8803 Alexander Brookes Palau 112 Rubella NO
+9568 Joleen Blanko Palau 62 Megavirus YES 13-10-1942
+2792 Britt Dwelly Palau 15 HTLV-1 NO 10-10-2007
+7365 Dominique Blanko Palau 9 Coxsackie-B YES 24-11-1962
+1213 Noelle Crowcombe Palau 39 Rotavirus YES 02-08-1913
+5367 Berti Swigger Palau 45 Megavirus YES 14-11-1930
+7092 Northrop McGrill Palau 5 Rubella NO
+0521 Mercy Shadfourth Palau 10 Norovirus NO
+1875 Claudine Likely Palau 49 Varicella NO
+6220 Lauryn Cammack Palau 59 COVID-19 NO
+7405 Nelly Shadfourth Palau 8 Rotavirus NO
+7227 Rodrique Birds Palau 78 Adenovirus NO
+6966 Reina Muzzall Palau 31 Norovirus YES 08-07-1914
+7472 Fan Baiyle Palau 12 Polio YES 15-09-1906
+0907 Meyer DeRuggero Palau 95 Megavirus YES 11-01-1915
+7575 Vilhelmina Drayson Palau 17 Polio NO
+7001 Karol Dadds Palau 19 Megavirus NO

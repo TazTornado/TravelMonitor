@@ -1,0 +1,30 @@
+2705 Lorinda Lanfranchi Germany 77 Varicella NO
+5168 Gus Lebourn Germany 15 Rabies NO
+2262 Reggis Boleyn Germany 115 Norovirus YES 17-03-1928
+8976 Barnie Swainger Germany 44 Varicella NO
+4195 Roger Woolward Germany 53 Mumps NO
+3320 Ferne Eakins Germany 44 Hepatitis-B YES 08-12-1931
+5627 Angelico Mollison Germany 39 Norovirus NO
+5219 Zita Stodit Germany 59 Epstein-Barr NO
+4568 Randie Fenlon Germany 46 Cytomegalovirus YES 05-08-2004
+5844 Darice Ciardo Germany 68 COVID-19 NO
+1878 Cyril Toten Germany 114 Norovirus NO
+5936 Thaddus Plewes Germany 29 Coxsackie-B NO
+3196 Ethyl Skelding Germany 16 Megavirus NO
+2283 Pip Bedbrough Germany 103 Polio YES 13-12-1918
+5754 Debra Ruppel Germany 26 Hepatitis-B NO
+9969 Kimble Hinkes Germany 107 Coxsackie-B YES 13-04-1965
+9521 Alejandrina Brose Germany 44 Varicella YES 30-01-1920
+5922 Del Taks Germany 39 HPV NO
+0361 Davidde Hirjak Germany 86 Megavirus YES 19-07-1949
+9695 Vale Verlinde Germany 105 COVID-19 NO 07-03-1952
+3738 Malina Portch Germany 65 Varicella YES 23-06-1931
+4541 Nelly Duddy Germany 87 Epstein-Barr NO
+0799 Packston Navein Germany 103 Coxsackie-B NO
+5389 Nancee Gofton Germany 99 Rabies YES 12-05-1927
+9322 Magda Lebourn Germany 106 Influenza NO
+9750 Curran Statersfield Germany 110 SARS-CoV-1 YES 17-10-2017
+9281 Shaylynn Wrightson Germany 18 Herpes NO
+8309 Kyle Geelan Germany 92 Varicella YES 27-10-2018
+3750 Romonda Codling Germany 42 Coxsackie-B YES 08-03-1972
+7548 Hetty Skelding Germany 69 Mumps YES 20-09-1923

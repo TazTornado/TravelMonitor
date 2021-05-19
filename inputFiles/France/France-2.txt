@@ -1,0 +1,33 @@
+8935 Ali Coffey France 53 Cytomegalovirus NO
+7973 Merci Thebe France 15 Epstein-Barr NO 08-01-1978
+5623 Barbabas Grassin France 49 Epstein-Barr NO
+0615 Marc MacConnal France 43 HTLV-1 YES 25-08-2004
+0203 Gearalt Rushe France 107 COVID-19 YES 14-10-1979
+6066 Desdemona Codling France 53 SARS-CoV-1 YES 10-11-1958
+5900 Burke Vowden France 77 Rabies NO
+3434 Queenie Jeanesson France 82 Polio NO
+5838 Kaitlynn Lanfranchi France 28 Rubella YES 14-09-1916
+7419 Aloisia Beachamp France 51 HPV YES 06-10-1901
+4191 Kipp Benois France 89 Coxsackie-B YES 16-03-1998
+4748 Terry Raisher France 97 Varicella YES 08-10-1961
+1075 Langsdon Herity France 80 HPV YES 22-02-1904
+9228 Aloisia Creek France 77 Mumps YES 17-03-1956
+6958 Berkeley Keirl France 59 HTLV-1 YES 09-07-1941
+7868 Madelaine Keirl France 55 Rabies NO
+1214 Shelden Greave France 21 Rotavirus NO
+9039 Wakefield Wabersinke France 68 HTLV-1 YES 22-01-1967
+6583 Dan Mulhill France 110 Adenovirus YES 09-01-1955
+5169 Che Likely France 113 COVID-19 YES 20-01-1952
+8382 Ichabod Rame France 13 Varicella NO
+3485 Edsel Vasilischev France 115 Rabies YES 23-11-1901
+8735 Gael Dunley France 91 Varicella NO
+0895 Pooh Tiffany France 39 Polio YES 28-09-1968
+0178 Homer Bogges France 105 HIV NO
+4258 Rhiamon Posnett France 44 Mumps NO
+9156 Bailey Methley France 117 Coxsackie-B YES 23-10-1946
+3978 Jessamine Granger France 60 Polio NO
+2126 Terry Jery France 87 Norovirus YES 23-06-1987
+1781 Ulrick Morcomb France 2 Herpes NO 17-11-1943
+6606 Fritz Coronas France 59 HTLV-1 YES 16-11-1939
+1991 Gretta DeFrancesco France 79 Rubella YES 23-05-1945
+0037 Alejandra Paddon France 73 Herpes YES 17-04-1971

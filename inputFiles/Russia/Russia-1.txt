@@ -1,0 +1,30 @@
+3669 Augie Mabson Russia 90 Rabies NO
+4356 Noelle Wickenden Russia 66 Hepatitis-B YES 04-04-2007
+0137 Albina Pavolini Russia 22 Norovirus NO
+0916 Tildi LeBatteur Russia 40 HIV NO
+1302 Efren Biasioni Russia 18 Herpes YES 04-06-1937
+5746 Ulric Cadwell Russia 39 Varicella YES 29-02-2007
+4444 Chilton Lesper Russia 63 Rotavirus YES 11-07-1942
+2876 Morna Twinbrow Russia 53 Influenza YES 16-06-1900
+4805 Bernetta Burbage Russia 10 Rabies YES 26-10-1903
+3479 Gerhard Thebe Russia 10 Rabies YES 05-11-1977
+6541 Eadmund Meugens Russia 100 Rubella NO
+3807 Bret Juanico Russia 14 Rabies NO
+7799 Giovanni Shilliday Russia 84 HPV NO
+2839 Talya Paddon Russia 90 Polio NO
+6106 Grier Daubney Russia 70 Mumps NO
+7512 Perla Hirjak Russia 82 Mumps NO
+2893 Nert Shilliday Russia 105 Varicella YES 18-01-1924
+9469 Norton Frosch Russia 8 Mumps YES 21-06-1937
+4122 Tadio Fache Russia 90 Rotavirus YES 25-07-2015
+7801 Milo Wibberley Russia 36 SARS-CoV-1 YES 20-06-1943
+4133 Drona Quainton Russia 39 SARS-CoV-1 NO 19-08-1909
+1160 Nariko Waterhowse Russia 67 Coxsackie-B NO
+4929 Marion Vannucci Russia 95 Herpes YES 07-11-2010
+8234 Evangeline Meth Russia 66 Varicella NO
+3834 Stanwood Ruane Russia 118 HPV YES 12-05-1910
+4855 Harry Brownsey Russia 73 HIV NO
+4382 Casar Bolter Russia 71 COVID-19 YES 23-12-1985
+4450 Blane Bedbrough Russia 39 Hepatitis-B NO
+3337 Mina Saunders Russia 103 Influenza YES 21-07-1962
+2162 Galvin Dumblton Russia 71 Varicella YES 10-10-2010

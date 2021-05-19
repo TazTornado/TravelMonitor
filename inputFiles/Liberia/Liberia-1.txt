@@ -1,0 +1,31 @@
+2178 Hogan Kirsch Liberia 13 HPV NO
+9417 Ugo Todarello Liberia 61 Rabies YES 18-08-1968
+5396 Bryna Fillon Liberia 4 Rotavirus NO
+0893 Palmer Creek Liberia 44 Epstein-Barr NO
+8864 Orly Coltart Liberia 2 Influenza NO
+9190 Debora Hallgate Liberia 106 Rotavirus YES 12-08-1925
+8755 Bobine Rigg Liberia 11 Epstein-Barr NO
+4484 Vinny Kenrack Liberia 30 Mumps NO
+1609 Woodie Katzmann Liberia 14 Polio NO
+3076 Carey Salthouse Liberia 75 Polio YES 18-09-1929
+1772 Boony Greatbatch Liberia 79 Coxsackie-B NO
+1025 Ruth Yarnold Liberia 73 COVID-19 YES 21-07-2009
+4056 Daffie Brownsey Liberia 118 Megavirus YES 14-07-2008
+2657 Daryl Bachelor Liberia 3 Varicella NO
+7407 Mikol Gumn Liberia 107 Rabies YES 16-05-1916
+6240 Waverley Sadlier Liberia 65 HPV NO
+4083 Cammy Narducci Liberia 28 Varicella YES 22-12-2005
+4409 Georgeanne Gritten Liberia 61 Rubella NO
+7058 Madeline Stanbro Liberia 70 Norovirus YES 09-11-1953
+0811 Brandtr Revel Liberia 74 Rubella NO
+1513 Mack Tew Liberia 102 Rotavirus YES 26-04-1943
+2434 Joscelin Delaney Liberia 22 HTLV-1 YES 22-10-1923
+2045 Esra Harbard Liberia 117 HIV YES 28-04-2002
+7412 Hagen Saunter Liberia 68 Coxsackie-B YES 11-05-2021
+0470 Kort Deal Liberia 80 Adenovirus NO 23-01-2019
+0396 Ajay Gaunson Liberia 10 Varicella YES 14-10-1901
+0972 Ginger Selwyne Liberia 19 Megavirus NO
+2311 Rosella Reichelt Liberia 21 COVID-19 YES 10-02-1952
+5599 Reube Gosz Liberia 33 Polio NO
+1685 Tiffy Acey Liberia 35 HIV YES 05-02-1990
+4315 Heinrick Gowenlock Liberia 62 Norovirus NO

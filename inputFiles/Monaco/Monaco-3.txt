@@ -1,0 +1,36 @@
+9848 Theodor Manske Monaco 29 Rubella NO
+8630 Vina Greave Monaco 37 HTLV-1 NO
+1828 Ramona Quinsee Monaco 12 Norovirus YES 16-06-2015
+5334 Brunhilda Krauss Monaco 44 HTLV-1 NO
+4403 Stoddard Holtom Monaco 42 Rabies NO
+5096 Janos Mebius Monaco 40 Herpes NO
+6728 Margalit Hasling Monaco 56 HTLV-1 NO
+9932 Derward Hasling Monaco 92 HIV NO 25-10-1983
+5756 Ethyl Larose Monaco 64 Varicella YES 30-07-1993
+7185 Willdon Whittier Monaco 36 Mumps YES 01-06-2006
+2637 Amara Holdey Monaco 57 SARS-CoV-1 YES 10-04-2015
+2104 Candy Duckham Monaco 78 Cytomegalovirus NO
+4867 Valera Padula Monaco 16 Influenza NO 02-12-1911
+2525 Nanon Leban Monaco 40 HIV YES 23-01-1923
+5035 Charil McGennis Monaco 67 Influenza YES 03-11-2009
+7792 Tadd Demko Monaco 87 HTLV-1 NO
+0280 Debra Gilbart Monaco 3 Mumps NO
+6610 Harlie Earthfield Monaco 93 Mumps YES 02-12-1918
+3348 Dorelle Harbard Monaco 7 HIV NO
+1567 Meg Vasilov Monaco 68 Megavirus NO
+5315 Rene Ewbanke Monaco 7 HPV YES 26-07-1953
+8349 Nicoline Callam Monaco 77 Polio NO
+2501 Loydie Althorp Monaco 112 Influenza NO
+7874 Marwin Barras Monaco 88 Rabies NO
+9762 Keenan Such Monaco 36 Rubella NO
+4740 Daniel Tuxell Monaco 65 Influenza NO
+3527 Catlee Muglestone Monaco 93 SARS-CoV-1 YES 27-12-1957
+6141 Gwenni Ruane Monaco 100 Megavirus NO
+8355 Katleen Seavers Monaco 36 SARS-CoV-1 NO
+2722 Harlie Pealing Monaco 96 Norovirus NO
+8569 Carr Spick Monaco 40 COVID-19 YES 13-08-1902
+7626 Kimmy Foskett Monaco 65 Hepatitis-B YES 21-12-1961
+5883 Urban Leachman Monaco 7 HTLV-1 YES 23-02-1961
+9048 Aguie Lesper Monaco 61 HPV YES 24-07-1919
+1959 Hogan Ducker Monaco 9 HTLV-1 YES 29-04-1953
+4542 Logan Nelmes Monaco 72 Coxsackie-B NO

@@ -1,0 +1,30 @@
+5333 Debora Dicty Namibia 88 Varicella YES 11-01-1939
+2819 Jasmin Haire Namibia 105 Varicella NO
+4533 Bendix Brocks Namibia 43 COVID-19 NO
+6698 Jeannie Flori Namibia 61 Herpes NO
+8101 Gwenni Coogan Namibia 50 Cytomegalovirus YES 05-03-1995
+3224 Quinton Hachard Namibia 50 Influenza NO 30-01-1995
+7907 Nert Jamieson Namibia 106 COVID-19 YES 19-01-1966
+7043 Sandra Gallegos Namibia 86 Norovirus NO
+8156 Horatio Kincla Namibia 8 Epstein-Barr NO
+9759 Herrick Smithen Namibia 117 Influenza NO
+5973 Stoddard Bogace Namibia 103 Epstein-Barr NO
+8393 Janenna Murkus Namibia 36 Rotavirus NO
+8440 Rich Carress Namibia 91 SARS-CoV-1 NO
+9343 Bendix Leere Namibia 90 COVID-19 YES 19-10-1998
+0569 Morgana LeBatteur Namibia 77 Rubella NO
+1373 Sianna Reichelt Namibia 70 HIV NO
+2696 Raquela Anker Namibia 118 Epstein-Barr YES 29-09-2020
+1694 Harmon Marrable Namibia 110 HPV NO
+9634 Chelsie Janowicz Namibia 47 HIV YES 14-04-1954
+4852 Sammy Spilling Namibia 2 Rotavirus NO
+6703 Nona Fenemore Namibia 31 Norovirus NO
+8559 Niki Plewes Namibia 115 Mumps YES 20-05-1908
+3804 Ursola Kubacki Namibia 18 Megavirus NO
+8672 Trixie Courtier Namibia 51 Mumps NO
+9409 Willdon Veall Namibia 53 Rubella NO
+0554 Christoffer Murkus Namibia 74 Hepatitis-B YES 22-11-1977
+0857 Randie Arnet Namibia 98 COVID-19 NO
+1661 Hadria Burrus Namibia 35 Influenza NO
+4904 Harlie Witsey Namibia 49 Norovirus YES 04-02-1904
+5174 Leyla Follet Namibia 63 Herpes YES 17-11-1969

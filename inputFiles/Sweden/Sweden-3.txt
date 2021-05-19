@@ -1,0 +1,31 @@
+3424 Eba Ephgrave Sweden 88 Adenovirus NO
+5916 Sidonnie Dunley Sweden 68 Influenza NO
+3163 Tallulah Lomond Sweden 102 Hepatitis-B NO
+8507 Sean Haggerty Sweden 60 Rabies NO
+3324 Emmalyn Krause Sweden 66 HIV YES 30-08-1975
+6912 Chilton Barkworth Sweden 58 Norovirus NO
+2325 Milton Leban Sweden 4 Polio YES 03-11-2003
+0266 Kermie Yegorev Sweden 31 Rotavirus YES 18-07-2021
+0407 Quinton Sherer Sweden 78 Hepatitis-B YES 27-11-1909
+2103 Reynold Foyston Sweden 66 Polio NO
+0375 Rorie Been Sweden 75 HTLV-1 YES 26-11-1917
+4944 Michal Gumn Sweden 27 Megavirus NO
+1877 Ninette Cotillard Sweden 6 Epstein-Barr NO
+2220 Melisa Degan Sweden 95 Adenovirus YES 08-07-1943
+2837 Vladimir Gauche Sweden 49 Rabies NO
+6516 Raquela Harbard Sweden 90 Rabies YES 10-12-2000
+5810 Rhiamon Allsepp Sweden 110 Norovirus NO
+6391 Georgie Abrams Sweden 39 Rotavirus NO
+2157 Neall Giacopazzi Sweden 79 Epstein-Barr YES 24-01-1925
+8599 Oralie Foyston Sweden 75 Mumps YES 02-04-2000
+7518 Deva Stayt Sweden 50 Epstein-Barr NO
+1493 Elsi Spollen Sweden 30 Mumps NO
+9386 Olvan Girdlestone Sweden 111 Rabies YES 21-02-1998
+5461 Norbert Endecott Sweden 17 Polio NO
+5201 Kleon Mizen Sweden 74 Rotavirus YES 26-04-1946
+8051 Ursola Constantinou Sweden 63 HTLV-1 YES 19-12-1900
+0628 Ashbey Jewess Sweden 118 Rabies NO
+4998 Vale Robardet Sweden 96 Adenovirus NO
+9643 Mikael Gauch Sweden 106 SARS-CoV-1 NO
+2553 Holden Tiffany Sweden 12 HPV YES 11-08-1975
+4565 Sophie Courtier Sweden 55 Influenza YES 26-03-1909

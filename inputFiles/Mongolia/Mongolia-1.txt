@@ -1,0 +1,36 @@
+1144 Calvin Brecknall Mongolia 70 Hepatitis-B NO
+4790 Cinda Keerl Mongolia 107 HPV NO
+9378 Carter Ville Mongolia 37 Rabies NO 01-02-2010
+6017 Joleen Audus Mongolia 29 Epstein-Barr NO
+9400 Trstram Loram Mongolia 82 HTLV-1 YES 28-10-1953
+8521 Fulvia Chattelaine Mongolia 86 Herpes YES 05-02-2002
+1836 Gretta Stoffers Mongolia 86 SARS-CoV-1 YES 08-08-1961
+9074 Ibby Gyer Mongolia 80 SARS-CoV-1 YES 15-01-2017
+3399 Lawrence Abrahmson Mongolia 46 COVID-19 YES 01-09-1926
+4604 Arne Hillam Mongolia 107 Epstein-Barr NO
+8158 Brunhilda Krause Mongolia 82 Influenza NO
+7444 Fritz Stayt Mongolia 40 Rotavirus YES 18-02-1914
+7424 Nannie Windybank Mongolia 13 HTLV-1 NO
+5133 Gradeigh Manske Mongolia 100 Norovirus NO
+8741 Ardys Reubens Mongolia 94 Rotavirus YES 25-01-2009
+5419 Paulita Hartopp Mongolia 109 Mumps YES 25-03-1987
+0589 Gretta Lanfranchi Mongolia 9 Rotavirus NO
+9598 Lorettalorna Phizacklea Mongolia 61 Rotavirus YES 16-10-1989
+7433 Sandra Whaites Mongolia 35 Epstein-Barr YES 23-04-1991
+2555 Fritz Tarbatt Mongolia 57 Varicella NO
+3797 Robbie Menauteau Mongolia 77 Varicella NO
+0291 Angel Curran Mongolia 29 Rubella NO
+4839 Aggi Hutt Mongolia 100 Rotavirus NO
+1012 Ashleigh Quince Mongolia 112 COVID-19 NO
+5859 Valentine Abley Mongolia 22 HIV YES 08-04-1909
+7264 Meredeth Dallosso Mongolia 32 Varicella NO
+7724 Joscelin Dicke Mongolia 37 HPV NO
+9560 Bryna Leban Mongolia 43 Coxsackie-B NO
+9382 Lissie Potteril Mongolia 61 Adenovirus YES 20-11-1910
+2598 Berti Cowle Mongolia 99 Varicella NO 18-05-1916
+8359 Piggy Matantsev Mongolia 99 Hepatitis-B YES 30-11-1979
+9319 Cari Weare Mongolia 77 Rabies NO
+1483 Norri Hembery Mongolia 20 Hepatitis-B YES 27-11-1944
+2268 Nathan Tilbey Mongolia 118 Norovirus YES 14-06-1929
+1165 Tyler McCaster Mongolia 35 Rabies NO
+1179 Dew Jewess Mongolia 44 Norovirus NO

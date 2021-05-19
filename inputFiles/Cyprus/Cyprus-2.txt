@@ -1,0 +1,36 @@
+5915 Melli Georgins Cyprus 101 Norovirus NO
+2928 Guenna Flott Cyprus 7 Polio YES 08-06-1967
+5713 Eadith Ewell Cyprus 12 Adenovirus YES 17-09-2015
+6508 Ashely Cowtherd Cyprus 44 Coxsackie-B YES 05-07-1962
+1825 Jeannie Seavers Cyprus 34 HTLV-1 YES 28-06-2002
+7923 Starr Capes Cyprus 55 Varicella YES 02-05-1975
+2367 Ajay Heinzel Cyprus 22 Rubella NO
+3283 Lyle Dadds Cyprus 96 Hepatitis-B NO
+3090 Keene Heady Cyprus 96 Polio YES 13-10-1913
+1504 Aguie Vyse Cyprus 55 Varicella NO
+5497 Woodman Hedditch Cyprus 65 Epstein-Barr YES 30-05-1928
+9044 Aggi Ternault Cyprus 2 Megavirus NO
+7174 Nellie Lawden Cyprus 11 COVID-19 NO
+3303 Emmalyn Herity Cyprus 64 Herpes YES 29-07-1990
+2093 Faulkner Benion Cyprus 24 Varicella YES 20-04-1983
+3172 Bobine Gritten Cyprus 113 COVID-19 NO
+0525 Weylin Eppson Cyprus 4 Herpes NO
+8238 Ulric Clout Cyprus 106 COVID-19 NO
+5241 Nert Almack Cyprus 52 Norovirus YES 30-02-2011
+0965 Neils Uttley Cyprus 58 Megavirus NO
+3894 Ramona Sumsion Cyprus 28 Rubella NO
+5371 Jarret Gunny Cyprus 59 Adenovirus NO
+2462 Sophey Oakwell Cyprus 88 Hepatitis-B YES 03-01-1953
+8268 Ker Grassin Cyprus 98 HIV YES 20-09-1935
+1032 Sean Cosely Cyprus 69 Cytomegalovirus YES 27-08-1972
+4677 Gael Cosely Cyprus 56 Adenovirus YES 07-04-1919
+4022 Elvin McFee Cyprus 10 Megavirus NO
+0578 Honoria Wraighte Cyprus 97 Influenza NO
+3671 Rayner McKintosh Cyprus 77 Epstein-Barr NO
+3765 Maisey Sybe Cyprus 83 Rotavirus YES 21-11-1935
+3555 Jakie Langham Cyprus 82 HIV YES 24-06-2002
+0031 Sonny Bearn Cyprus 28 Herpes NO
+2936 Job Grangier Cyprus 12 Epstein-Barr NO
+6390 Gearalt LeBlanc Cyprus 70 SARS-CoV-1 NO
+4550 Kennie Coopey Cyprus 74 Coxsackie-B NO
+9959 Dorey Brownsey Cyprus 53 Coxsackie-B YES 07-09-2011

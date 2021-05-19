@@ -1,0 +1,31 @@
+6353 Homer Toten Paraguay 75 Adenovirus YES 25-04-2021
+1742 Paulie Forkan Paraguay 20 Varicella YES 06-08-1910
+3710 Rayner Gofton Paraguay 87 Norovirus YES 10-11-1991
+2007 Sigfried Mobbs Paraguay 57 SARS-CoV-1 YES 25-11-1998
+2481 Kriste Flott Paraguay 113 Adenovirus NO 29-11-1967
+8058 Sean Horick Paraguay 106 HPV NO
+7919 Fern Tures Paraguay 53 Norovirus NO
+0214 Karisa Allsebrook Paraguay 61 Polio YES 17-06-1945
+2478 Lotty Quince Paraguay 76 Mumps YES 14-08-1925
+2558 Fawnia Earthfield Paraguay 110 Cytomegalovirus NO
+1150 Robbi Gilbart Paraguay 53 Rabies NO
+9785 Geoffry Godthaab Paraguay 30 Rotavirus YES 25-04-1935
+8043 Nona Fearnsides Paraguay 104 Influenza YES 15-03-1919
+9320 Daphna Deware Paraguay 37 SARS-CoV-1 NO
+3212 Kinny Boys Paraguay 45 SARS-CoV-1 NO
+6237 Amity Cron Paraguay 64 Cytomegalovirus NO
+0573 Teresina Nys Paraguay 65 Epstein-Barr NO
+2982 Mordy Craigie Paraguay 44 Rubella NO 12-05-1908
+1682 Heindrick Comazzo Paraguay 8 Megavirus YES 02-01-1910
+5536 Carver Armstead Paraguay 47 Rabies YES 14-01-1958
+1028 Betti Greenly Paraguay 18 HIV YES 19-05-1968
+4116 Karlan Addionisio Paraguay 98 Norovirus NO
+7782 Neils Stanbra Paraguay 92 Rotavirus NO
+3856 Kristoffer Hethron Paraguay 82 HIV NO
+2963 Chelsie Doodson Paraguay 61 SARS-CoV-1 NO
+4442 Ursulina Crowcombe Paraguay 55 Coxsackie-B YES 05-01-1914
+3176 Kenyon Mizen Paraguay 7 Coxsackie-B YES 25-03-1924
+4690 Godfree Chiplin Paraguay 102 Norovirus YES 05-04-1986
+9271 Malinda Rushe Paraguay 8 Adenovirus YES 18-05-1967
+7000 Barbabas Demageard Paraguay 106 Polio YES 26-10-1911
+8924 Del Schroeder Paraguay 56 Varicella NO 12-11-2000

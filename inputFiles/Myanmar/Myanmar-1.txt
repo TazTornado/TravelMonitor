@@ -1,0 +1,32 @@
+3813 Myriam Slowey Myanmar 98 Coxsackie-B YES 11-10-1977
+6901 Lyle Ducker Myanmar 114 Influenza YES 25-06-1912
+1054 Lind Meugens Myanmar 19 Megavirus NO
+5362 Trstram Gumn Myanmar 23 Adenovirus NO
+3680 Noelle Parnby Myanmar 38 HIV NO
+4877 Sheilah Gosz Myanmar 118 Epstein-Barr NO
+1561 Evie Veale Myanmar 119 Rabies YES 17-12-1972
+7011 Daniel Albrecht Myanmar 22 Influenza YES 30-06-2016
+1643 Leodora Geering Myanmar 15 COVID-19 NO
+8790 Charmian Guppey Myanmar 23 Coxsackie-B YES 12-03-2009
+6329 Margalit Bedboro Myanmar 28 Mumps NO
+3964 Carce Spick Myanmar 21 Herpes NO
+9270 Dallis Scranedge Myanmar 59 Influenza YES 15-07-1909
+8243 Davy Likely Myanmar 15 Hepatitis-B YES 13-11-2007
+1652 Giovanni Josefovic Myanmar 81 COVID-19 NO
+0209 Archibold Pedrick Myanmar 28 Rabies NO
+2968 Valli Tack Myanmar 85 COVID-19 YES 06-03-2019
+2556 Kimmie Pickford Myanmar 6 Herpes YES 16-01-2013
+9254 Jodie Sendley Myanmar 21 Influenza NO
+9864 Lenette Swainger Myanmar 107 Norovirus YES 28-07-2003
+9981 Lyssa Abbs Myanmar 3 Varicella YES 17-11-1921
+6922 Gill Sumsion Myanmar 68 Megavirus YES 02-03-1925
+8471 Alice McCorkindale Myanmar 113 HPV YES 23-02-1940
+9537 Leeann Jirka Myanmar 44 Rubella NO 19-05-2019
+2997 Davide Syncke Myanmar 59 Herpes NO
+5797 Barbette D'Oyly Myanmar 103 Megavirus YES 26-07-1915
+6994 Samuele Whewell Myanmar 117 Norovirus NO
+8622 Benton Waterhowse Myanmar 30 Cytomegalovirus NO
+7132 Dorelia Whytock Myanmar 75 Rotavirus NO
+8754 Adelina Edrich Myanmar 30 Hepatitis-B YES 27-05-1915
+1671 Loni Gumn Myanmar 72 SARS-CoV-1 NO
+7039 Doti McQueen Myanmar 48 COVID-19 NO

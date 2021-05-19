@@ -1,0 +1,30 @@
+7323 Grant Wrightson Spain 76 COVID-19 NO
+4657 Cher Lattimore Spain 42 Mumps YES 25-10-1964
+7933 Oralie Barta Spain 20 Cytomegalovirus NO
+4572 Liva Cosely Spain 70 Hepatitis-B YES 24-03-1907
+5673 Marshall Saddington Spain 114 COVID-19 NO
+7375 Patsy Merricks Spain 77 Polio YES 22-05-1939
+3577 Chantalle Elies Spain 103 HTLV-1 NO
+3460 Lucia Manifold Spain 111 Megavirus YES 08-01-2016
+9951 Leann Fibbitts Spain 69 Coxsackie-B YES 19-02-1919
+6676 Celisse Ruoss Spain 26 Adenovirus NO
+4833 Pam Binney Spain 5 Rubella YES 07-08-1979
+2797 Milo Rummings Spain 67 Rotavirus NO
+7384 Eadmund Chipman Spain 96 SARS-CoV-1 NO
+9859 Lotty Morl Spain 86 Rabies NO 18-06-1994
+8673 Logan Kleeman Spain 61 Cytomegalovirus YES 08-11-1943
+1986 Malinda Bodycombe Spain 79 Rotavirus YES 06-02-2013
+4518 Thain Look Spain 21 SARS-CoV-1 NO
+8281 Melisa Wibberley Spain 2 Norovirus NO
+7688 Evangelina Demko Spain 52 Epstein-Barr NO
+6192 Karlee Baudone Spain 80 Rotavirus YES 14-08-1908
+5596 Julius Dominichetti Spain 102 Epstein-Barr YES 14-01-1973
+4686 Reggie Cotillard Spain 34 Rubella NO
+8845 Ulric Alison Spain 43 HPV NO
+7871 Marwin Rikkard Spain 54 HIV YES 03-03-1934
+8612 Duncan Chiplin Spain 59 Influenza NO
+1427 Starr Palombi Spain 110 Rotavirus NO
+8788 Jaymie Anlay Spain 1 Influenza NO
+1407 Daria Bram Spain 86 Polio YES 13-02-2021
+3614 Ann Rame Spain 97 HTLV-1 NO
+9201 Forster Pol Spain 47 HPV YES 13-09-1926

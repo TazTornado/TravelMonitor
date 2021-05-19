@@ -1,0 +1,29 @@
+5842 Cherry Keune Poland 38 Epstein-Barr NO
+7863 Clea Tarbatt Poland 14 Hepatitis-B NO
+3500 Lind Mallaby Poland 6 HIV YES 27-12-1973
+6821 Mina Ervine Poland 23 Megavirus YES 19-03-2011
+7073 Cacilie Carver Poland 100 Coxsackie-B NO
+1304 Fransisco Cossons Poland 63 Coxsackie-B NO
+6430 Ulric Stayt Poland 80 Hepatitis-B YES 13-10-1988
+7168 Jonie Boni Poland 120 Norovirus NO
+1066 Anni Spollen Poland 37 Rubella YES 28-08-1943
+5243 Porter Muzzall Poland 59 Hepatitis-B YES 24-12-1944
+1035 Arch Clipston Poland 48 HTLV-1 NO
+0992 Inger Hazeman Poland 3 Mumps NO
+8502 Burch Orans Poland 28 HPV NO
+4649 Othilie Chatelain Poland 80 Hepatitis-B YES 16-05-1954
+5981 Abba Grimmer Poland 47 Herpes YES 12-12-1954
+0795 Reube Kennewell Poland 29 Mumps NO
+4703 Wilmar Tipper Poland 27 COVID-19 NO
+6993 Bathsheba Murkus Poland 77 Epstein-Barr YES 01-12-1914
+8835 Meyer Nial Poland 39 HTLV-1 YES 19-11-1992
+6180 Robin Rushe Poland 118 Hepatitis-B YES 19-01-1941
+9790 Egon Bodycombe Poland 40 Epstein-Barr YES 24-06-1913
+6604 Lyssa Barta Poland 35 Varicella YES 04-09-2002
+7446 Marlin Sanches Poland 82 HTLV-1 YES 06-08-1979
+2064 Xylia Chafney Poland 30 Norovirus NO
+4212 Bailey Farloe Poland 69 Adenovirus NO
+8213 Ingunna Kinastan Poland 62 Hepatitis-B YES 15-10-1997
+5129 Joline Robens Poland 86 Mumps YES 30-11-1940
+8605 Daria Robens Poland 52 Rabies NO
+5259 Dorelle Grierson Poland 34 Epstein-Barr YES 06-03-1901

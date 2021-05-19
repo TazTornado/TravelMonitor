@@ -1,0 +1,33 @@
+2714 Gerhard Fishbie Uganda 89 Influenza NO
+6584 Alexander Krauss Uganda 33 HPV NO
+4128 Julius Wichard Uganda 119 Norovirus NO
+8318 Reider Allan Uganda 80 Rabies NO
+4049 Danita Presshaugh Uganda 12 Rubella NO
+1325 Giuseppe Anker Uganda 84 Polio YES 15-10-1924
+3940 Cammy Salthouse Uganda 72 Coxsackie-B NO
+0263 Meir Bibbie Uganda 93 Norovirus NO
+2192 Leonid Boleyn Uganda 89 HTLV-1 YES 08-04-1947
+8147 Orly Vasilov Uganda 67 HTLV-1 YES 26-11-1910
+8865 Tore Jeanesson Uganda 45 Herpes YES 26-10-1922
+7918 Oralee Bosward Uganda 10 Adenovirus NO
+4962 Carilyn Codling Uganda 10 Norovirus YES 18-06-1967
+7487 Sonny Killoran Uganda 120 Mumps NO
+6395 Pooh Mogenot Uganda 82 Rotavirus YES 11-04-1956
+7462 Jeanna Goady Uganda 80 COVID-19 NO
+5855 Adan Cordier Uganda 56 SARS-CoV-1 YES 11-03-2016
+9697 Daphna Giggs Uganda 4 Influenza NO
+0534 Owen Nanni Uganda 36 Norovirus YES 16-05-1908
+5062 Claudine Ingledew Uganda 5 Hepatitis-B NO 29-08-1976
+0962 Livvie Callam Uganda 111 Rubella NO
+5213 Phyllida Broome Uganda 116 Norovirus NO
+8328 Magda Thick Uganda 8 Norovirus YES 23-12-1981
+8600 Humfrid Lope Uganda 3 HTLV-1 YES 16-06-2001
+8607 Lise Searles Uganda 100 SARS-CoV-1 YES 27-02-1992
+9108 Robbi Ruggen Uganda 37 HPV YES 29-09-1955
+1833 Britt Ondrus Uganda 118 Rabies YES 02-12-1917
+0251 Shannah Dwelly Uganda 92 Adenovirus YES 02-08-1910
+6537 Drona Fleischmann Uganda 23 Hepatitis-B NO
+5020 Kyle Okker Uganda 37 Epstein-Barr YES 28-12-1937
+3376 Corly Persence Uganda 98 SARS-CoV-1 YES 21-04-1944
+0610 Britni Kleeman Uganda 99 COVID-19 YES 21-09-1971
+2672 Kayla Swainger Uganda 42 Cytomegalovirus NO

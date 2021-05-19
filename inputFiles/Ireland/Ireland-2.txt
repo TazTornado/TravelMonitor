@@ -1,0 +1,31 @@
+3674 Theodore Eppson Ireland 8 Varicella YES 25-04-1983
+4043 Terrye Tourle Ireland 70 Adenovirus YES 24-11-1900
+0950 Elston O'Hengerty Ireland 78 HIV YES 17-08-2013
+8310 Coleen Nolleau Ireland 45 Influenza NO
+9995 Osborne Cosens Ireland 24 Hepatitis-B NO
+2249 Miller McGowing Ireland 63 Mumps NO
+4462 Tildi Woolward Ireland 15 HPV NO
+8166 Katlin Webster Ireland 110 Rubella YES 27-03-1982
+0474 Theodora Roake Ireland 92 Rotavirus NO
+8174 Devi Cowle Ireland 62 Herpes NO
+1569 Che Allnatt Ireland 19 HPV YES 03-02-2004
+5548 Jakie Fittes Ireland 98 Rubella YES 12-04-1916
+4930 Torrance Megarrell Ireland 36 Polio NO
+3372 Helge Josefovic Ireland 85 Rubella NO
+2539 Marwin Fibbitts Ireland 62 HPV YES 28-02-1955
+7928 Palm Carress Ireland 50 Polio NO
+4448 Carver Annott Ireland 48 Rotavirus NO
+0545 Lenna Counsell Ireland 107 HTLV-1 YES 16-04-1952
+9307 Audre Fleetham Ireland 65 Rotavirus YES 03-06-1950
+2727 Bernie Bagnal Ireland 118 Influenza YES 14-03-1950
+6816 Lainey Look Ireland 41 COVID-19 NO
+3721 Del Quinsee Ireland 94 Norovirus NO
+6827 Evangeline Esby Ireland 84 SARS-CoV-1 YES 25-10-1983
+4650 Cyrill Tincknell Ireland 64 Hepatitis-B NO
+8150 Phoebe Cavie Ireland 45 Cytomegalovirus YES 15-11-1985
+7708 Cherlyn McKeating Ireland 94 Rotavirus YES 07-03-1920
+7742 Betti Tipper Ireland 24 Influenza NO
+1932 Robbie DeRuggero Ireland 4 Hepatitis-B NO
+0239 Perrine Prestie Ireland 50 Mumps YES 25-07-1944
+6290 Joline Bulgen Ireland 54 Cytomegalovirus NO
+9761 Lion Wife Ireland 94 HPV YES 16-04-2011

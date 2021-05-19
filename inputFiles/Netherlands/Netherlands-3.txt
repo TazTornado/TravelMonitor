@@ -1,0 +1,28 @@
+3969 Nariko Giggs Netherlands 31 Rotavirus YES 08-04-2009
+9701 Wyn Auchterlonie Netherlands 8 Adenovirus NO
+1114 Logan Swinerd Netherlands 93 Influenza YES 19-11-1993
+3346 Keene Rushe Netherlands 113 Rubella NO
+7476 Ashbey Brickell Netherlands 107 Mumps YES 02-05-1937
+5895 Daria Keerl Netherlands 9 HPV YES 17-07-1950
+9359 Norton Vila Netherlands 71 SARS-CoV-1 YES 11-10-1999
+9477 Nicolai Crumbleholme Netherlands 48 Epstein-Barr NO 07-03-1936
+4804 Theodosia Lilleycrop Netherlands 26 HIV NO
+0340 Ashleigh Errigo Netherlands 32 Varicella YES 16-12-1911
+2484 Malvina Constantinou Netherlands 81 Rotavirus NO
+0946 Florette Petrovykh Netherlands 58 Epstein-Barr NO
+3252 Davy Sheaber Netherlands 114 Varicella YES 09-09-1988
+8481 Northrop Roja Netherlands 14 Rotavirus NO
+6117 Norri Auchterlonie Netherlands 111 Polio NO
+9091 Tonie Tiffany Netherlands 55 Polio YES 02-12-1983
+3351 Ester Posnett Netherlands 64 HPV NO
+5499 Sianna Phizacklea Netherlands 112 Varicella NO
+7884 Ben Roake Netherlands 30 Rabies NO
+3213 Jerrie Goldthorp Netherlands 45 HTLV-1 YES 03-08-2001
+4359 Lovell Coronas Netherlands 26 Mumps NO
+0272 Damian Fillon Netherlands 92 Polio YES 28-02-1954
+3943 Valentine Mackrell Netherlands 66 HPV NO
+0153 Ker Crebo Netherlands 65 HIV YES 27-08-1994
+6453 Tyler Curran Netherlands 100 Adenovirus NO 12-06-2002
+2639 Shae Miall Netherlands 111 Adenovirus NO
+4991 Oriana Grinter Netherlands 35 Norovirus YES 20-12-1930
+1451 Kinny Mutimer Netherlands 116 Polio NO

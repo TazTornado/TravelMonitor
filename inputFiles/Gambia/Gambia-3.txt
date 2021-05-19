@@ -1,0 +1,28 @@
+2917 Daryl Petrillo Gambia 106 COVID-19 NO
+8959 Jasmin Tilbey Gambia 17 Coxsackie-B YES 15-03-1993
+1720 Malinda Chattelaine Gambia 38 HTLV-1 NO
+5515 Corny Fronsek Gambia 52 COVID-19 NO
+0410 Gerrard Simionescu Gambia 40 Adenovirus NO
+1773 Penrod Wellbeloved Gambia 67 Adenovirus NO
+0875 Teodor Vila Gambia 35 Coxsackie-B YES 26-04-1957
+6572 Gertrude Corish Gambia 38 Herpes YES 06-07-1912
+0850 Gregorio Ivanishchev Gambia 84 Adenovirus YES 02-06-1902
+0746 Odelinda Haberfield Gambia 102 HIV YES 19-04-2014
+5167 Theodora Meneux Gambia 24 Hepatitis-B YES 30-01-1983
+2452 Gerhard Breckon Gambia 22 HIV NO
+6068 Nonna Beeching Gambia 19 Mumps YES 16-02-1975
+0511 Ann Barkworth Gambia 71 Herpes NO
+1314 Tonie Lomond Gambia 50 Rotavirus NO
+9940 Gus Dakhov Gambia 99 Rabies YES 27-10-1942
+4277 Jacky Leirmonth Gambia 106 HPV NO
+2919 Neall Bodycombe Gambia 58 HTLV-1 NO 24-02-1976
+1542 JoAnn Hill Gambia 94 Rabies NO
+4521 Venita Statersfield Gambia 11 Polio YES 11-12-1970
+5871 Gerhard Life Gambia 116 HPV NO
+8777 Luise VonSalzberg Gambia 20 COVID-19 NO
+1648 Kenyon Ayris Gambia 88 SARS-CoV-1 YES 15-07-1937
+3043 Roderigo Bandt Gambia 103 SARS-CoV-1 YES 13-08-1992
+9997 Daffie Crombleholme Gambia 98 Coxsackie-B NO
+2079 Desdemona Anlay Gambia 107 Coxsackie-B NO 26-07-1923
+5511 Rickey Standen Gambia 68 Hepatitis-B YES 13-09-1988
+1838 Bathsheba Elsmore Gambia 19 COVID-19 NO

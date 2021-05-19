@@ -1,0 +1,32 @@
+2208 Perla Kubacki Ukraine 53 Cytomegalovirus YES 19-07-1954
+9727 Zechariah Seedhouse Ukraine 26 HIV YES 24-08-1925
+3544 Cecil Weekley Ukraine 7 HIV NO
+4325 Maisey Alton Ukraine 118 Cytomegalovirus NO
+5380 Georgeanne Shelborne Ukraine 18 Hepatitis-B YES 17-06-1925
+0420 Rey Sadd Ukraine 101 Adenovirus YES 01-08-2000
+3117 Joleen Cinavas Ukraine 112 Rotavirus NO
+4561 Valli Kellog Ukraine 57 HPV NO
+3545 Quinton Seavers Ukraine 44 Adenovirus YES 25-02-1914
+4755 Jacky Mollison Ukraine 55 Megavirus NO
+6205 Gregorio Whittier Ukraine 40 Coxsackie-B NO
+8739 Mordy McQueen Ukraine 50 Mumps NO
+4623 Ingunna Saunter Ukraine 14 Influenza YES 03-09-1995
+9035 Bertina Ephgrave Ukraine 14 Hepatitis-B YES 27-02-1931
+8943 Celestina Beachamp Ukraine 3 Rotavirus NO
+5725 Graham Kincla Ukraine 40 Rotavirus YES 01-07-1945
+3307 Fallon Gaitone Ukraine 97 Mumps NO
+4736 Rasla Latham Ukraine 3 HIV YES 06-05-2006
+7726 Ethyl Overell Ukraine 100 HIV NO
+1809 Dan Mantione Ukraine 19 Influenza NO
+6363 Nona Dunsmuir Ukraine 24 Influenza NO
+2123 Siobhan Webster Ukraine 15 Adenovirus YES 11-05-1993
+0667 Eadith Dakhov Ukraine 42 Norovirus NO
+2608 Maje Manifold Ukraine 111 COVID-19 YES 14-06-1935
+4318 Lowe Mullaly Ukraine 41 Rabies NO
+2221 Christie Crowcombe Ukraine 60 Rotavirus NO
+0104 Jorrie Shadfourth Ukraine 35 Rubella NO 01-12-1901
+6159 Cord Snowsill Ukraine 24 Polio YES 10-09-2017
+0935 Melli Morcomb Ukraine 35 HPV YES 29-06-1993
+5720 Alvy Dakhov Ukraine 9 Rubella NO
+4990 Corny Rummings Ukraine 5 Coxsackie-B YES 17-06-1956
+9239 Dollie Foyston Ukraine 113 Cytomegalovirus YES 24-05-2013

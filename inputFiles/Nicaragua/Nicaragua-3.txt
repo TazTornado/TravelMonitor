@@ -1,0 +1,31 @@
+5188 Eba Slowey Nicaragua 89 Megavirus YES 09-12-1925
+8932 Daniel DeFrancesco Nicaragua 105 Cytomegalovirus YES 23-03-1911
+4749 Idalia McQueen Nicaragua 102 Epstein-Barr NO
+0473 Madeline Brose Nicaragua 70 Adenovirus NO
+0468 Fern Sumsion Nicaragua 20 Adenovirus YES 03-05-1972
+1193 Gerhard McGrill Nicaragua 117 Varicella YES 18-03-1984
+9103 Midge Fillon Nicaragua 61 COVID-19 YES 22-06-1948
+2213 Audre Goldthorp Nicaragua 2 Herpes YES 02-08-2009
+6011 Nannie Eatttok Nicaragua 4 Rotavirus YES 18-10-1933
+5407 Chantalle Sendley Nicaragua 46 Rabies NO
+8198 Thorndike Vasilischev Nicaragua 90 Adenovirus NO
+9245 Jule O'Dowgaine Nicaragua 52 HTLV-1 NO
+0034 Alecia Marrable Nicaragua 100 Rabies NO
+7155 Lovell VonWelldun Nicaragua 104 Mumps YES 01-11-1935
+5456 Jerrie Sybe Nicaragua 80 Adenovirus NO
+8999 Jonie McFee Nicaragua 67 HIV YES 03-08-1949
+4581 Sonja Gotfrey Nicaragua 88 Megavirus YES 29-08-1937
+6986 Isidora Thebe Nicaragua 109 Mumps NO
+3131 Graham Cattlow Nicaragua 118 HTLV-1 YES 18-10-1953
+8711 Ulrick Kennewell Nicaragua 29 Rotavirus YES 05-03-1917
+0513 Niki Shadfourth Nicaragua 13 Rabies NO
+5089 Augie Antrum Nicaragua 108 HPV YES 18-11-1976
+6476 Audre Morsley Nicaragua 43 Adenovirus NO
+9176 Cordie Godthaab Nicaragua 99 Cytomegalovirus NO
+3514 Reube Walls Nicaragua 105 Coxsackie-B YES 26-05-1908
+6808 Fern Lawlance Nicaragua 37 Mumps NO
+2863 Giacobo Seedhouse Nicaragua 44 HPV YES 08-06-1998
+9483 Culley Dunsmuir Nicaragua 100 Polio NO 11-03-1997
+5568 Isadora Trowle Nicaragua 61 SARS-CoV-1 YES 04-04-1941
+1390 Danita Crowcombe Nicaragua 38 Influenza NO
+3450 Milzie Meneux Nicaragua 47 HPV NO

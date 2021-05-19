@@ -1,0 +1,32 @@
+6028 Fallon Enriques Malta 23 HPV YES 02-04-1920
+9321 Bob Jaycock Malta 39 Herpes NO
+6978 Melva Lawden Malta 93 Epstein-Barr YES 19-05-1993
+3501 Harlene Langham Malta 62 Rotavirus NO 09-12-1991
+7027 Dan Iskow Malta 22 HIV NO
+4463 Milo Hutt Malta 42 Coxsackie-B NO
+7125 Eden Lode Malta 38 Polio NO
+8994 Orsola Dewett Malta 71 Herpes NO
+5370 Theodor Ewell Malta 54 Herpes NO
+0136 Faith Gasking Malta 6 Rotavirus YES 12-10-1958
+3884 Johnny Cowey Malta 101 Influenza YES 07-07-1959
+1599 Phil Jaslem Malta 81 HIV YES 18-11-1996
+1410 Nathan Grinter Malta 24 Rubella NO 08-07-1909
+8882 Marion Newborn Malta 42 Cytomegalovirus NO
+9022 Trstram Milmore Malta 72 Cytomegalovirus NO
+8365 Marcelia Coopey Malta 88 Megavirus NO
+7610 Bear Leere Malta 110 Polio NO
+7963 Leann Veall Malta 49 HPV NO
+4659 Brit Milmore Malta 26 SARS-CoV-1 YES 11-03-1967
+1705 Ingamar Deware Malta 35 Epstein-Barr NO
+1711 Vernor Brownsey Malta 49 HPV YES 27-10-2004
+3358 Keelby Potteril Malta 119 Adenovirus YES 04-07-1979
+5618 Abbye Stoltz Malta 19 Norovirus YES 29-01-1923
+4174 Marchall Ferrillio Malta 88 Mumps YES 06-05-1954
+6242 Morna Creek Malta 85 HTLV-1 NO
+2523 Valaria Dominichetti Malta 41 SARS-CoV-1 NO
+7916 Reina McCague Malta 63 Cytomegalovirus YES 09-03-1905
+2171 Christoffer Godthaab Malta 24 HIV NO 28-09-1975
+3319 Galvin Quince Malta 42 Cytomegalovirus YES 29-02-1932
+1585 Carlita Milmore Malta 60 Norovirus NO
+9519 Herrick Fenby Malta 64 SARS-CoV-1 NO
+0807 Dorelia Payley Malta 41 Rabies YES 21-11-1936

@@ -1,0 +1,31 @@
+1286 Ham Mease Japan 119 Norovirus NO
+0433 Waylon Tourle Japan 80 Rabies YES 10-05-1935
+0458 Gerrard Lesper Japan 89 Cytomegalovirus YES 14-03-1934
+1744 Kimble Whittier Japan 64 Mumps NO
+3683 Gill Thebe Japan 51 HPV NO
+5565 Averill Lanigan Japan 23 Epstein-Barr NO
+6365 Sophie Veale Japan 88 Epstein-Barr NO
+8727 Fan Truesdale Japan 73 Polio YES 24-07-1988
+9213 Marissa Creek Japan 28 Hepatitis-B NO
+1778 Essa Abramow Japan 10 Cytomegalovirus NO 16-03-1955
+4160 Lise Allnatt Japan 44 Mumps YES 28-05-1962
+0932 Mar Edrich Japan 111 Rabies YES 13-08-2019
+5345 Chariot Kirsch Japan 78 Herpes NO 06-02-1995
+2092 Archibold Allnatt Japan 84 Mumps NO
+9363 Morgana Spoward Japan 17 HTLV-1 NO
+0710 Jaymie Aust Japan 4 Influenza YES 23-06-2007
+0018 Ursulina Balbeck Japan 29 HIV YES 15-04-1924
+4472 Gus Pristnor Japan 49 Hepatitis-B NO
+6746 Angelico Portch Japan 75 Varicella NO
+7943 Ruth Eborall Japan 12 HIV NO 04-10-1923
+2378 Finley Tiery Japan 6 Coxsackie-B NO
+7910 Alejandrina Bampfield Japan 18 Coxsackie-B NO
+9357 Lamont Reubens Japan 83 Herpes YES 03-11-1968
+4002 Rasla Levins Japan 51 SARS-CoV-1 YES 24-04-1970
+6914 Nicolais Farloe Japan 85 COVID-19 NO
+4971 Aldin Cattlow Japan 75 Adenovirus NO 11-03-1906
+5796 Ingamar Goroni Japan 84 SARS-CoV-1 NO
+0709 Irma Muzzall Japan 58 Norovirus NO
+2085 Myrtie Chiechio Japan 73 Mumps NO
+2056 Julius Cowle Japan 59 SARS-CoV-1 NO
+0550 Amara Yashaev Japan 81 HTLV-1 NO

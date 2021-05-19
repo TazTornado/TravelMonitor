@@ -1,0 +1,32 @@
+5449 Gregorio Mathiasen Denmark 41 Mumps NO
+9827 Renate LeBatteur Denmark 83 Megavirus YES 28-02-1923
+6580 Isidro Nolleau Denmark 39 Rotavirus NO
+4511 Pamelina Aust Denmark 28 Herpes NO 04-09-1971
+6023 Carline Whinray Denmark 63 Megavirus NO
+0346 Allie Earthfield Denmark 42 Influenza NO
+7269 Ben Sambells Denmark 83 COVID-19 YES 25-06-2009
+8444 Leeann Austing Denmark 27 Herpes YES 23-01-1978
+0865 Lucia Douthwaite Denmark 110 SARS-CoV-1 NO 04-08-2012
+8497 Olvan Drysdall Denmark 88 Epstein-Barr NO
+9930 Melli Girke Denmark 36 Mumps NO
+7482 Leonie Menauteau Denmark 105 Influenza YES 16-06-1912
+0348 Grant Habercham Denmark 74 Norovirus NO
+0502 Kipp Truesdale Denmark 49 Mumps YES 27-10-1980
+8304 Sheilah Avory Denmark 2 Megavirus NO
+8660 Lacie Mackrell Denmark 45 Megavirus YES 11-10-1961
+0167 Shae Cogin Denmark 29 Hepatitis-B NO
+7506 Homer Ciardo Denmark 13 COVID-19 NO
+6368 Helge Garrett Denmark 75 HTLV-1 NO
+6314 Delilah DeFrancesco Denmark 88 Norovirus YES 27-12-1902
+0069 Drona Lanigan Denmark 57 Mumps NO
+8576 Eydie Loughton Denmark 15 Varicella YES 01-04-1903
+0933 Mariana Giacopazzi Denmark 59 Influenza YES 02-03-1932
+7860 Lotti Grigorian Denmark 66 HPV YES 29-02-1982
+8601 Rochette Vile Denmark 9 Coxsackie-B NO
+2793 Allie VonWelldun Denmark 96 Hepatitis-B YES 20-06-1969
+8743 Fax Drayson Denmark 43 Herpes NO
+9872 Margaret Rawdales Denmark 39 Rabies NO
+6092 Odelinda Quainton Denmark 49 Coxsackie-B YES 23-10-1930
+8539 Guenna Harbard Denmark 7 Megavirus YES 02-03-1943
+4856 Jessamine Paddon Denmark 116 Polio YES 16-07-1954
+1231 Carver Trowle Denmark 73 Megavirus YES 25-10-1980

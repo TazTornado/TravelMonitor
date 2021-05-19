@@ -1,0 +1,28 @@
+2345 Bethina Spollen China 107 Hepatitis-B YES 08-01-2012
+7250 Stanford Tillett China 41 Rotavirus YES 05-10-1907
+5864 Culley Collum China 7 Epstein-Barr NO
+8290 Hart Burbage China 98 Varicella YES 27-10-2000
+3048 Chanda Lebourn China 34 Cytomegalovirus YES 15-06-1909
+1445 Bink Keynes China 5 Megavirus NO
+0465 Kimble Romera China 82 HTLV-1 YES 02-09-1985
+1158 Maura Chiplin China 24 Influenza NO
+7750 Gabbi Brecknall China 46 COVID-19 NO
+2463 Morgana Meth China 109 HTLV-1 NO
+7262 Guglielmo Redwood China 59 Polio YES 19-08-1936
+0312 Dalis Stockford China 28 COVID-19 YES 29-03-1993
+9326 Bunny Sumsion China 10 Rabies YES 04-04-1934
+1999 Lauryn Peeter China 20 Epstein-Barr NO
+9195 Sherill Reddell China 74 Polio YES 08-08-2004
+9146 Riki Messiter China 94 Hepatitis-B NO
+0074 Elie Hirjak China 66 Varicella NO
+0708 Othelia Aingell China 65 Norovirus NO
+3202 Gannon Almack China 60 Rubella NO
+3865 Kenyon Rawlins China 20 Epstein-Barr NO
+2236 Inger Dominichetti China 85 COVID-19 NO
+0092 Brnaby Jeayes China 43 Epstein-Barr YES 19-07-1950
+6783 Bail McKay China 107 Mumps NO
+6441 Pooh Spinola China 54 Coxsackie-B YES 02-06-2014
+8950 Kurt Brownsey China 34 HIV NO
+2495 Balduin Holtom China 8 COVID-19 NO
+9293 Pattie Bogges China 10 Varicella NO
+8937 Bendix Juanico China 112 Rubella NO

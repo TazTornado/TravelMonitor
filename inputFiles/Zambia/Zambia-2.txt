@@ -1,0 +1,25 @@
+3900 Jeanna Gomby Zambia 69 Polio YES 25-06-2014
+2834 Nicko Josefovic Zambia 36 HTLV-1 YES 06-03-2016
+9844 Davidde Uttley Zambia 115 Adenovirus NO
+5964 Reube Abramow Zambia 81 SARS-CoV-1 YES 12-03-1949
+4357 Dur Holdey Zambia 115 Herpes YES 08-11-1913
+7162 Philly Mullaly Zambia 61 Coxsackie-B YES 20-07-1932
+2677 Daryl Cathesyed Zambia 69 Megavirus YES 22-04-2015
+9330 Gretta Gilbart Zambia 42 Megavirus NO
+6557 Rudy Gumn Zambia 100 HPV NO
+7589 Bent Timpany Zambia 41 Herpes NO
+9117 Marissa Shadfourth Zambia 96 SARS-CoV-1 NO
+0509 Theodora Mogenot Zambia 40 SARS-CoV-1 YES 30-11-1941
+3660 Gibby Barensen Zambia 45 Coxsackie-B YES 17-06-1943
+0739 Jakie Proudley Zambia 34 Norovirus YES 21-05-1916
+2062 Othilie Vasilov Zambia 25 Influenza NO
+0014 Nicoline Aust Zambia 42 Hepatitis-B NO
+8683 Perla Robard Zambia 78 Influenza NO
+0025 Karol Sanches Zambia 69 Varicella NO
+1867 Ginnifer Renehan Zambia 98 Polio YES 22-03-1913
+8541 Debora Winwood Zambia 92 Mumps YES 04-12-1970
+1168 Tildie Ruoss Zambia 82 COVID-19 NO
+0777 Gabriellia Colly Zambia 66 Hepatitis-B YES 10-09-2011
+5021 Boot Balbeck Zambia 7 HIV YES 21-03-1948
+0423 Shannah Kenrack Zambia 109 Rabies NO
+5785 Annalee Murkus Zambia 3 COVID-19 YES 15-11-1909

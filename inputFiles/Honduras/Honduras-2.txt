@@ -1,0 +1,27 @@
+6871 Carce Nys Honduras 12 HIV NO
+0763 Loren Brittan Honduras 17 Rabies YES 15-11-1914
+3866 Kermie Swinerd Honduras 88 HPV YES 20-05-1950
+3670 Fax Lawlance Honduras 87 Rubella YES 05-11-2021
+1034 Darice Swainger Honduras 26 Norovirus YES 09-11-1903
+9342 Nellie Robens Honduras 26 Adenovirus NO
+5028 Guendolen Portch Honduras 62 Rubella NO
+9325 Deva Ventum Honduras 103 HIV YES 27-02-1972
+1258 Rochette Baine Honduras 106 HPV NO
+8571 Jackie Vyse Honduras 110 Cytomegalovirus NO 24-06-1980
+7077 Ellary Scargle Honduras 113 Adenovirus NO
+4068 Dory Winwood Honduras 70 HIV NO
+0477 Dukie Scranedge Honduras 111 Megavirus YES 17-09-2007
+2596 Kimble Upchurch Honduras 88 Megavirus NO
+4249 Gregorio Spadelli Honduras 69 Megavirus YES 30-08-1991
+5525 Tammi Leacy Honduras 54 Cytomegalovirus YES 30-10-1985
+4329 Marcelle Coronas Honduras 13 Epstein-Barr NO
+1913 Duncan Todarello Honduras 99 Mumps YES 04-06-1939
+9278 Beverly Boleyn Honduras 12 Megavirus NO
+4664 Mikol Toten Honduras 12 Influenza YES 07-03-1935
+7429 Diarmid Brownlee Honduras 34 Cytomegalovirus YES 21-10-2010
+7156 Stavro Burrage Honduras 60 Adenovirus YES 22-10-1976
+9685 Blane Lenham Honduras 41 SARS-CoV-1 YES 25-03-1935
+5216 Giuseppe Isley Honduras 15 Rubella YES 05-05-1976
+7147 Dew Colliford Honduras 46 Epstein-Barr YES 07-08-1934
+1118 Robbi Gosz Honduras 12 SARS-CoV-1 NO
+5103 Orsola Trehearn Honduras 7 Hepatitis-B YES 15-04-1989

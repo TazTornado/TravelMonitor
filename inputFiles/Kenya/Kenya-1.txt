@@ -1,0 +1,32 @@
+5403 Ugo Hirjak Kenya 41 Varicella YES 16-07-1941
+4057 Ugo Murkus Kenya 120 Rabies NO
+1732 Pattie Noorwood Kenya 114 Adenovirus YES 22-06-1945
+5222 Rudolfo Cadigan Kenya 55 COVID-19 YES 27-06-1970
+0170 Ursulina Lambricht Kenya 90 SARS-CoV-1 NO
+8838 Mordy Fletham Kenya 4 HIV NO
+4073 Robbin Fritter Kenya 52 Cytomegalovirus YES 05-10-1971
+8923 Bertina Phillis Kenya 104 Cytomegalovirus NO
+6484 Vevay Tynan Kenya 20 Mumps NO
+1725 Carline Muzzall Kenya 102 Hepatitis-B YES 12-11-2019
+1988 Reube Beardall Kenya 16 Norovirus YES 09-07-1952
+2979 Tye Geelan Kenya 100 HPV YES 06-06-1921
+0035 Mack Nial Kenya 89 Varicella YES 21-05-1908
+9025 Barbette Lawlance Kenya 68 Epstein-Barr YES 20-02-1944
+8473 Myrvyn Look Kenya 35 HTLV-1 NO
+7539 Becka Purchall Kenya 60 Herpes NO
+8408 Palm Hembery Kenya 98 Varicella YES 17-04-1923
+0489 Richy Draayer Kenya 69 Rotavirus NO 18-10-2005
+4796 Meris LeBrum Kenya 93 Polio YES 02-11-1974
+2775 Emmalyn Saunter Kenya 93 Cytomegalovirus YES 01-02-1923
+4503 Georges Scranedge Kenya 102 Rubella NO
+9377 Theodor Swainger Kenya 103 Rubella NO
+3845 Hadria Douthwaite Kenya 94 Norovirus NO
+9004 Farra Smithen Kenya 73 Hepatitis-B NO
+9775 Nancee Forkan Kenya 16 Rotavirus NO
+9151 Myriam Howlin Kenya 15 HPV YES 02-06-1929
+4027 Teodor Chipman Kenya 25 Rabies NO
+2109 Lynna Grierson Kenya 69 SARS-CoV-1 YES 06-05-1911
+2848 Appolonia Simionescu Kenya 72 COVID-19 NO
+8776 Talya Broome Kenya 22 Polio YES 03-08-1921
+2471 Honoria Colly Kenya 77 Polio NO
+4807 Sammy Bourne Kenya 76 Mumps YES 19-08-2003

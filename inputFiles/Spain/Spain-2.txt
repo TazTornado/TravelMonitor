@@ -1,0 +1,30 @@
+4301 Claudia Stych Spain 56 Norovirus NO 20-09-1938
+4950 Ramsay Habercham Spain 9 Rabies NO
+2393 Patin Weippert Spain 30 Influenza NO
+5843 Samantha Nerval Spain 37 Adenovirus NO
+1071 Anna-diana Vile Spain 32 Coxsackie-B YES 07-10-2004
+2089 Corny Housden Spain 27 HIV YES 01-09-1994
+6115 Hyman Duddy Spain 99 Coxsackie-B YES 04-01-1955
+6145 Rochette Searles Spain 73 Rabies NO
+8157 Mercy Chipman Spain 90 Mumps YES 02-09-1915
+1195 Francisco Trenbay Spain 89 SARS-CoV-1 YES 09-01-1925
+9362 Ange Barta Spain 111 Rotavirus NO
+4937 Rosy Arnet Spain 19 Rabies NO
+7885 Ginnifer Pilsworth Spain 94 Megavirus NO
+5594 Margaret Pomery Spain 49 Rubella YES 15-08-1989
+6739 Felipa Geelan Spain 96 HTLV-1 NO
+6457 Rooney Hawson Spain 100 Hepatitis-B YES 26-04-1988
+0643 Barbey Fredy Spain 18 Hepatitis-B YES 03-11-1939
+9826 Emmalyn Ianelli Spain 10 Adenovirus YES 23-07-2008
+7864 Forster Tiery Spain 54 HTLV-1 YES 13-11-1994
+9482 Keene Robens Spain 85 Rubella YES 22-03-1912
+6799 Willie Bampfield Spain 61 Mumps NO
+2076 Jacquelynn Blackey Spain 111 Herpes YES 01-03-1970
+8979 Latashia Creek Spain 83 Cytomegalovirus YES 13-12-1919
+1030 Luise Claffey Spain 28 Adenovirus NO
+1222 Myriam Proudley Spain 72 HIV YES 11-04-1978
+5685 Golda Regan Spain 20 Megavirus YES 26-07-1913
+9478 Nanon Symons Spain 28 Epstein-Barr NO
+6419 Nicoline Codling Spain 20 Rubella YES 13-09-1935
+2222 Reube Brownlee Spain 28 Coxsackie-B NO
+5286 Eydie Venturoli Spain 36 Cytomegalovirus YES 01-02-1914

@@ -1,0 +1,33 @@
+0898 Sherm Mulhill Australia 1 Coxsackie-B YES 23-03-1939
+4684 Blythe Eilert Australia 18 Polio NO
+4573 Debra Rawdales Australia 72 Coxsackie-B YES 11-12-1967
+8111 Sean Kellog Australia 88 Rotavirus NO
+8891 Evelyn Gerkens Australia 5 SARS-CoV-1 NO
+3945 Halsey Louys Australia 68 Rubella NO
+3044 Udell LeBatteur Australia 35 Herpes NO
+3889 Stillman Petrovykh Australia 48 Mumps NO
+6598 Garald Plewes Australia 106 Polio YES 12-11-1902
+6305 Farra Barbie Australia 97 SARS-CoV-1 NO
+6078 Urban Paridge Australia 24 Rubella YES 07-08-1919
+6212 Luce Plewes Australia 78 SARS-CoV-1 YES 21-06-1913
+4081 Rona Vasiliev Australia 98 Varicella YES 18-04-1994
+9720 Kermie Marcussen Australia 43 Epstein-Barr NO
+7145 Gabriellia LeBlanc Australia 29 Adenovirus YES 11-04-1904
+6544 Evie Grevile Australia 38 Polio YES 25-03-1902
+7862 Clea Sember Australia 27 Epstein-Barr YES 09-01-1963
+3768 Yettie Inde Australia 15 Influenza YES 03-01-1972
+8542 Rouvin Alforde Australia 114 Varicella YES 09-05-1934
+8651 Blythe Fannon Australia 88 Adenovirus YES 10-11-1954
+0970 Skippie Galliard Australia 60 Influenza NO
+3687 Maryellen Tincknell Australia 46 HIV YES 26-11-1964
+0480 Zechariah Cathesyed Australia 72 Adenovirus NO
+6088 Ursulina Huard Australia 101 Rabies NO 07-04-1940
+2071 Karol Cassar Australia 54 Megavirus NO 26-01-1994
+2476 Valentijn Spollen Australia 115 HTLV-1 NO 10-08-1956
+9242 Waiter Almack Australia 14 HPV YES 01-07-1954
+3071 Doti Bandt Australia 35 Cytomegalovirus NO
+3809 Leyla Colwill Australia 66 Norovirus YES 19-12-1970
+7569 Zackariah Leacy Australia 75 Cytomegalovirus YES 09-03-1932
+5187 Lucie Brindley Australia 111 Norovirus YES 29-05-1903
+4355 Elysee Spilling Australia 30 COVID-19 YES 20-09-1955
+2310 Valera Audus Australia 33 Hepatitis-B YES 15-05-1901

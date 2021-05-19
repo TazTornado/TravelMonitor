@@ -1,0 +1,30 @@
+9746 Barbey Capes Colombia 18 SARS-CoV-1 NO
+0813 JoAnn Payley Colombia 44 COVID-19 YES 23-10-1912
+5541 Milo Claffey Colombia 18 Varicella NO
+7526 Jordanna Kornacki Colombia 60 HIV YES 28-10-1975
+6664 Briny Halliday Colombia 3 Epstein-Barr YES 18-06-1983
+2504 Marshall Hammell Colombia 13 Hepatitis-B NO
+9893 Riki Nestor Colombia 93 Adenovirus NO
+1888 Georgeta Brockie Colombia 92 HPV YES 01-07-1992
+1368 Brnaby Sadd Colombia 28 Coxsackie-B NO
+7949 Othelia Gerkens Colombia 103 Megavirus YES 27-05-1987
+3326 Stormi Icom Colombia 69 Herpes YES 20-04-1903
+6399 Ulrick Granger Colombia 26 Adenovirus YES 19-11-1965
+7208 Dell Yashaev Colombia 7 HIV NO
+4504 Noelle Tillett Colombia 83 Epstein-Barr NO
+7441 Charil Hasling Colombia 24 Epstein-Barr YES 02-07-1977
+4673 Wakefield Bosward Colombia 78 Polio YES 07-05-1967
+5165 Reube Wife Colombia 101 COVID-19 YES 11-07-1982
+3287 Jessey Gosz Colombia 23 SARS-CoV-1 NO
+8114 Alejandrina MacConnal Colombia 63 Varicella NO
+5959 Lise Cogin Colombia 69 Polio NO
+6636 Vickie Baudinot Colombia 20 Herpes NO
+6742 Tomaso Hirjak Colombia 20 Cytomegalovirus YES 16-01-1983
+5986 Thaddus Curran Colombia 56 COVID-19 NO
+2348 Kimble Marquess Colombia 37 Rabies YES 18-06-1904
+7029 Anna-diana Quinsee Colombia 49 Cytomegalovirus NO
+9094 Rayner Leng Colombia 53 Rotavirus NO
+8088 Shanon Crombleholme Colombia 5 COVID-19 NO 19-08-1901
+7217 Talya Rodrigo Colombia 9 HIV NO
+0604 Thaddus Morsley Colombia 23 Cytomegalovirus YES 06-12-2014
+1121 Lotty Scollan Colombia 96 SARS-CoV-1 YES 01-05-1938

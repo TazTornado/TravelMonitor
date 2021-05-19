@@ -1,0 +1,31 @@
+8580 Aloisia Forkan Canada 18 Epstein-Barr NO
+6375 Cyrill Lyddiatt Canada 103 Epstein-Barr NO
+0107 Dallis Fideler Canada 37 Coxsackie-B NO
+6198 Blythe Thaller Canada 30 Rotavirus NO
+5067 Meg Reichelt Canada 67 COVID-19 NO
+0910 Tonie Kubacki Canada 11 Cytomegalovirus YES 01-08-1941
+0731 Nadya Ervine Canada 28 SARS-CoV-1 NO
+4539 Reinold Guppey Canada 110 Norovirus YES 18-06-1950
+4152 Helga Foskett Canada 90 COVID-19 YES 04-06-2010
+9068 Lian Ianelli Canada 19 Polio NO
+2588 Jeff Wimp Canada 92 Hepatitis-B NO
+6372 Ainslee Isley Canada 9 SARS-CoV-1 YES 25-12-1982
+5751 Isidro Sember Canada 19 Adenovirus YES 04-12-1930
+7699 Marcel Greiser Canada 14 Hepatitis-B YES 15-05-1944
+8136 Efren Renehan Canada 54 Rotavirus YES 09-10-1904
+1494 Nancee Yoseloff Canada 116 Herpes NO
+3364 Karol Kirsch Canada 37 HIV YES 13-10-1930
+7805 Elvin Kleinschmidt Canada 79 Megavirus NO
+6342 Riki Howlin Canada 114 Epstein-Barr YES 16-03-1943
+7081 Kyle Piatkow Canada 44 HIV NO
+1891 Elmer Paddon Canada 94 Rabies NO
+5136 Briney Ellsbury Canada 111 SARS-CoV-1 NO
+6095 Moreen Kettley Canada 58 Rubella YES 15-05-1933
+9535 Kimble Scadden Canada 28 Varicella YES 20-12-2009
+9435 Kipp MacCague Canada 33 Adenovirus YES 12-04-1998
+9576 Michal Jeanesson Canada 76 Rubella NO
+8288 Fara Bubear Canada 35 HPV NO
+8895 Giuseppe Coogan Canada 101 Megavirus NO
+3847 Gibby Sendley Canada 46 Adenovirus NO
+8566 Fawne McGowing Canada 115 SARS-CoV-1 YES 17-07-1907
+2635 Dolly Audus Canada 67 Rabies YES 28-01-2005

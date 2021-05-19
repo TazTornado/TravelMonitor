@@ -1,0 +1,37 @@
+9824 Elysee Austing Philippines 13 Influenza NO
+3175 Mercy Antrum Philippines 88 HTLV-1 NO
+7040 Cord Avory Philippines 70 Hepatitis-B YES 18-01-1985
+4640 Norton Cossons Philippines 101 HPV YES 03-12-2016
+7925 Nathan Daubney Philippines 99 HPV NO
+9607 Sutherlan Tourle Philippines 96 Rubella NO
+9540 Fransisco Benion Philippines 67 Polio YES 29-04-1910
+4887 Rina Dowdell Philippines 9 Adenovirus YES 21-12-2015
+1074 Ginger Deignan Philippines 107 SARS-CoV-1 NO
+8417 Baron Degan Philippines 50 Influenza YES 10-06-1922
+2550 Valentijn Housden Philippines 88 HTLV-1 YES 07-05-1948
+6428 Skye Brockie Philippines 67 HPV NO 20-06-1992
+9225 Brit Cosens Philippines 102 Megavirus NO
+4374 Dorothea Brocks Philippines 107 HPV YES 01-05-1943
+0324 Giulia Craigie Philippines 82 Rotavirus NO
+1027 Timoteo Bubear Philippines 93 Mumps YES 15-03-1918
+9834 Nadine Hasling Philippines 49 Norovirus NO 19-01-1985
+7177 Siobhan Pavolini Philippines 110 SARS-CoV-1 NO
+9818 Isidora Butterworth Philippines 12 Norovirus NO
+6954 Rhiamon Tiffany Philippines 102 Varicella NO 23-08-1969
+0867 Nancee Weippert Philippines 60 Influenza NO
+2112 Carr Leere Philippines 84 Hepatitis-B NO
+2411 Irma Bolter Philippines 85 Mumps NO
+9079 Eba Nestor Philippines 81 HIV YES 20-06-1964
+5931 Jarrett Harbard Philippines 55 Norovirus NO
+8872 Lissie Perschke Philippines 117 HTLV-1 YES 24-01-1955
+1830 Vladimir Burbage Philippines 88 HPV YES 26-11-1919
+6027 Maje Toby Philippines 78 Cytomegalovirus YES 26-12-1958
+1623 Myriam Drayson Philippines 48 Adenovirus YES 28-09-1913
+1425 Malina Coopey Philippines 52 Megavirus YES 20-07-1920
+4717 Alexander Krause Philippines 92 HIV NO 06-04-1993
+1973 Nadya Pickford Philippines 14 Cytomegalovirus YES 11-12-1954
+3984 Wyn Ghioni Philippines 53 HTLV-1 NO
+0980 Lenette Constantinou Philippines 104 Cytomegalovirus YES 20-05-1956
+5260 Huntley DeFrancesco Philippines 93 Epstein-Barr YES 03-04-1917
+3279 Joscelin Foyston Philippines 62 SARS-CoV-1 NO
+0009 Wrennie Bedbrough Philippines 73 Cytomegalovirus NO

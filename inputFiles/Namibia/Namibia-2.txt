@@ -1,0 +1,29 @@
+2615 Doti Kensington Namibia 10 SARS-CoV-1 NO
+5572 Jaymie Mottinelli Namibia 1 Hepatitis-B YES 02-09-1960
+0177 Cynthea Hutt Namibia 82 HIV YES 19-02-1968
+2362 Thain Skelding Namibia 88 Cytomegalovirus YES 05-10-1925
+4193 Ann Sherer Namibia 76 Norovirus NO
+8736 Alexander Dumbrall Namibia 54 SARS-CoV-1 YES 26-03-1962
+5318 Malvina Life Namibia 39 Cytomegalovirus YES 15-10-1974
+7248 Celisse Wibberley Namibia 42 HIV YES 17-02-1937
+7352 Melva Youthed Namibia 86 Rotavirus NO
+9526 Jeff Mullaly Namibia 86 Adenovirus NO
+4653 Naoma Leere Namibia 87 HTLV-1 YES 07-05-1999
+1862 Carey Weekley Namibia 34 HTLV-1 YES 24-07-1960
+7188 Margaret Wife Namibia 45 SARS-CoV-1 YES 24-10-1960
+9411 Sherman Gasking Namibia 76 Influenza NO
+5990 Mollie Hillam Namibia 102 Rabies NO
+8164 Elmer Girke Namibia 62 SARS-CoV-1 YES 25-11-2013
+6244 Juliet Thaller Namibia 77 HIV NO
+9991 Trstram Hallgate Namibia 26 SARS-CoV-1 YES 14-05-1958
+9294 Gael Mathiasen Namibia 58 Megavirus YES 03-05-1988
+2161 Maryellen Bedboro Namibia 22 SARS-CoV-1 YES 13-09-1953
+5392 Dollie Matzeitis Namibia 50 Rubella YES 13-05-1935
+9655 Cinda Cattlow Namibia 18 Mumps NO
+9636 Leeann Gauch Namibia 10 Polio YES 07-10-2017
+0027 Johnny Tomlins Namibia 91 HTLV-1 NO
+8851 Norri Burrus Namibia 104 HPV YES 24-01-1916
+3960 Robbin Habercham Namibia 50 Epstein-Barr YES 18-11-2009
+5119 Chelsie Brittan Namibia 10 Megavirus NO
+4266 Devi Dabrowski Namibia 97 Norovirus YES 13-07-1980
+4669 Shelby Tippetts Namibia 34 Herpes NO

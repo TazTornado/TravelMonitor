@@ -1,0 +1,33 @@
+2098 Cecil Jeayes Peru 71 Adenovirus NO
+3148 Gregorio Ostrich Peru 44 Cytomegalovirus NO
+5801 Sianna Abbs Peru 6 HTLV-1 NO
+4857 Angelico Smallpiece Peru 40 Norovirus NO
+1899 Beverly Williamson Peru 64 Influenza YES 16-11-1949
+8222 Sigfried Murkus Peru 115 Rubella YES 07-06-2006
+3939 Damian Purkess Peru 104 Rotavirus NO
+8775 Jordanna Windsor Peru 34 Rubella NO
+2840 Betti Orum Peru 98 Mumps NO
+5569 Darby Acey Peru 27 Adenovirus YES 11-01-1996
+4616 Roger Hawson Peru 76 Influenza NO 26-02-1945
+8573 Nannie Dumbrall Peru 39 HPV NO
+1497 Guglielmo Truesdale Peru 57 Varicella YES 13-02-1901
+3379 Nona Benois Peru 66 HPV YES 14-02-1981
+3036 Keelby Naire Peru 1 Mumps NO
+3234 Pip Coffey Peru 24 Coxsackie-B YES 12-07-1936
+1969 Yolande Mance Peru 65 Mumps YES 14-05-2021
+4062 Rudy Vila Peru 64 Megavirus NO
+9689 Vickie Meugens Peru 44 Rubella NO
+5677 Ginger Sybe Peru 97 Mumps YES 09-11-2021
+5502 Dimitri Jery Peru 103 HTLV-1 YES 25-11-1953
+7839 Mellie Craigie Peru 6 Coxsackie-B NO 17-07-2008
+1512 Carter Mizen Peru 25 Polio NO 28-06-2000
+5441 Beverly Mabson Peru 8 HIV YES 29-10-1913
+4348 Eadmund Trayhorn Peru 21 COVID-19 YES 10-02-1997
+6637 Essa Cardew Peru 115 Epstein-Barr YES 05-12-1962
+4162 Maurits Neilson Peru 30 Rotavirus YES 21-10-2017
+2224 Kenyon Regan Peru 116 HTLV-1 NO
+4874 Euell Iacovo Peru 71 Rabies NO
+9536 Clayton Bunstone Peru 79 HPV YES 18-05-1925
+7615 Aloisia Lenham Peru 35 Cytomegalovirus YES 13-01-1934
+6480 Debora Reichelt Peru 70 Cytomegalovirus YES 11-06-1961
+1380 Reinold Kenrack Peru 105 HTLV-1 NO

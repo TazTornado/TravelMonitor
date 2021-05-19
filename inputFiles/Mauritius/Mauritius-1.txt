@@ -1,0 +1,32 @@
+0728 Ali Sumsion Mauritius 60 SARS-CoV-1 NO
+6045 Culley Bagby Mauritius 27 Rotavirus YES 18-04-1974
+8986 Romonda Ewell Mauritius 105 COVID-19 NO
+3272 Bertina Foyston Mauritius 7 SARS-CoV-1 YES 17-03-1955
+2763 Nataline Gosker Mauritius 97 Rotavirus YES 23-04-1900
+1156 Patin Leggon Mauritius 85 Polio YES 11-09-2012
+7284 Davide Garrelts Mauritius 61 Rotavirus NO
+0016 Reggie Oldred Mauritius 77 Rotavirus YES 28-04-1970
+8853 Nataline Brownsey Mauritius 9 Mumps YES 16-12-1954
+1749 Desdemona Slade Mauritius 26 HTLV-1 NO
+1714 Ashbey Harmson Mauritius 72 HIV NO
+8922 Henrietta Jaycock Mauritius 69 Rotavirus NO
+2212 Aeriel Blaskett Mauritius 111 Mumps NO
+7099 Meir Fenby Mauritius 12 Varicella YES 21-07-1989
+1669 Reagan Holdey Mauritius 106 Adenovirus YES 24-02-2006
+0958 Abba Peeter Mauritius 100 Adenovirus YES 28-04-1965
+4393 Bendix Robardet Mauritius 118 Hepatitis-B NO
+5215 Marwin Hawson Mauritius 6 Cytomegalovirus YES 23-07-2007
+7823 Anni Ethersey Mauritius 19 HTLV-1 NO
+7020 Vernor Grierson Mauritius 55 Hepatitis-B NO
+7649 Ramsay Stanbro Mauritius 104 Adenovirus YES 07-03-1956
+9231 Queenie Constantinou Mauritius 83 COVID-19 YES 08-11-1922
+0665 Lamont Bussen Mauritius 72 Megavirus YES 10-02-1928
+7139 Archibold Gauche Mauritius 93 Varicella NO
+9385 Melisa D'Oyly Mauritius 57 Polio NO
+5373 Germaine Knoton Mauritius 90 Mumps NO
+8623 Mick Lebourn Mauritius 65 Polio NO
+5522 Ginger Housden Mauritius 102 Rubella YES 28-10-1921
+7175 Shepherd Josefovic Mauritius 3 Coxsackie-B YES 21-11-1962
+3133 Bunny Lumley Mauritius 51 HPV YES 21-12-1933
+3952 Udell Zorn Mauritius 98 Hepatitis-B YES 02-05-1976
+1413 Bobine Pitkin Mauritius 35 HPV YES 16-08-2011

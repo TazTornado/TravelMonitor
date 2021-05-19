@@ -1,0 +1,26 @@
+0656 Tawsha Burbage Malaysia 34 Norovirus YES 10-09-1961
+0760 Marthe Dadds Malaysia 96 COVID-19 YES 27-08-1919
+2041 Heidie Monnelly Malaysia 102 Varicella YES 09-10-1996
+8163 Cammy Waterhowse Malaysia 13 Epstein-Barr NO
+8235 Mart Lilleycrop Malaysia 38 COVID-19 NO
+0138 Florance Juanico Malaysia 108 COVID-19 YES 29-01-1960
+6689 Queenie Baudone Malaysia 39 Rotavirus YES 03-03-2015
+8927 Nels Moquin Malaysia 28 Coxsackie-B NO
+2465 Marcelia Ballantine Malaysia 64 Mumps YES 13-11-1940
+4948 Judy Lincey Malaysia 102 Rubella YES 05-04-1932
+3236 Culley Benion Malaysia 57 Cytomegalovirus YES 19-07-1900
+2751 Stanford Kornacki Malaysia 32 Influenza YES 06-12-1938
+9361 Doralia Lomond Malaysia 66 Epstein-Barr NO
+3799 Ibby Hourican Malaysia 119 Cytomegalovirus YES 21-07-1906
+2806 Hailee Paddon Malaysia 59 SARS-CoV-1 YES 09-11-2009
+7644 Evyn Vasilov Malaysia 104 SARS-CoV-1 YES 26-03-1947
+8805 Nanny Posnett Malaysia 52 Mumps NO
+5211 Clayton Giovannilli Malaysia 113 Epstein-Barr YES 16-10-1906
+5408 Shepherd Sadlier Malaysia 28 Norovirus NO 19-07-1938
+3599 Lotty Tillett Malaysia 7 Cytomegalovirus NO
+4757 Curr Golthorpp Malaysia 54 Varicella YES 24-12-1988
+8205 Brunhilda McKeating Malaysia 100 Epstein-Barr YES 28-08-1936
+5192 Magda Colwill Malaysia 110 Hepatitis-B NO
+4234 Debora Edrich Malaysia 83 HPV NO
+5667 Carline Hebborn Malaysia 55 Adenovirus NO
+5952 Tadd Bedboro Malaysia 39 Rotavirus NO

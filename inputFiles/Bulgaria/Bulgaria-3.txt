@@ -1,0 +1,31 @@
+9963 Marshal Drayson Bulgaria 83 Norovirus YES 08-10-2005
+2858 Forester Haggerty Bulgaria 41 HIV YES 17-01-1969
+7236 Hart Cheine Bulgaria 86 Rotavirus NO
+6281 Essa Rawlins Bulgaria 56 COVID-19 YES 19-06-1991
+1060 Lindsey Webster Bulgaria 110 Megavirus YES 10-10-1942
+1509 Rudy Whinray Bulgaria 94 Megavirus NO
+5032 Coleen Prujean Bulgaria 49 Epstein-Barr YES 07-07-2009
+7414 Lemar Robyns Bulgaria 22 SARS-CoV-1 YES 03-06-1942
+9638 Rickey Lawden Bulgaria 115 Rubella YES 06-08-1904
+7171 Jody Iacovo Bulgaria 94 Epstein-Barr YES 06-01-1906
+2940 Pip Kenyam Bulgaria 108 Herpes YES 14-07-2018
+5057 Lauryn Draayer Bulgaria 115 Influenza YES 11-05-1908
+9710 Yevette Sturgis Bulgaria 26 Norovirus YES 15-09-1967
+1572 Marya Morsley Bulgaria 11 Influenza NO
+2799 Cher Weippert Bulgaria 119 Cytomegalovirus NO
+8149 Felicio Orum Bulgaria 13 Influenza NO
+1003 Dominique Brecknall Bulgaria 100 Rabies YES 30-11-2017
+7798 Ingunna Cockren Bulgaria 3 HTLV-1 NO
+9950 Grant Counsell Bulgaria 50 HIV YES 20-01-1959
+6412 Norton Beachamp Bulgaria 109 HTLV-1 YES 15-07-1992
+9182 Wrennie Harle Bulgaria 94 Rotavirus YES 30-06-2001
+4758 Eden Crunkhurn Bulgaria 106 Epstein-Barr NO
+3370 Stavro Wichard Bulgaria 73 Coxsackie-B YES 07-04-1911
+3987 Adan Gallegos Bulgaria 35 Herpes YES 22-03-1972
+7320 Ermengarde Biasioni Bulgaria 101 Epstein-Barr YES 20-03-1998
+6939 Briney Magnar Bulgaria 107 Varicella YES 02-04-2014
+8103 Maegan Wimp Bulgaria 1 Mumps NO
+8598 Theodora Amer Bulgaria 19 SARS-CoV-1 YES 15-04-1921
+0927 Darby Knoton Bulgaria 100 HTLV-1 NO
+5162 Cammy Skiplorne Bulgaria 28 Hepatitis-B NO
+4092 Josephine Petrovykh Bulgaria 73 Hepatitis-B NO

@@ -1,0 +1,30 @@
+6949 Boyd Allsebrook Spain 109 HPV NO
+9755 Maren Vowden Spain 50 Influenza NO
+4838 Violante Fishbie Spain 108 Herpes YES 10-06-1943
+2423 Humfrid Mullaly Spain 2 Mumps NO
+9847 Felipa Berlin Spain 71 HIV YES 25-03-1908
+2654 Gabbi Tew Spain 88 SARS-CoV-1 NO
+6803 Rollo Nanni Spain 50 COVID-19 YES 17-12-1964
+0208 Briny Grevile Spain 30 Norovirus NO 07-03-1924
+7076 Helena Salthouse Spain 38 Norovirus NO
+8689 Gordan Aust Spain 88 HTLV-1 NO
+5172 Sherman Gaunson Spain 1 Megavirus YES 28-05-1940
+5872 Siobhan Janjic Spain 119 Megavirus YES 04-11-1989
+2151 Celisse Elies Spain 93 Influenza YES 07-11-1997
+0197 Alfredo Gaunson Spain 61 HIV YES 14-05-1917
+9136 Keenan Beneyto Spain 112 HPV NO
+1624 Katlin Boys Spain 47 Coxsackie-B YES 11-05-1982
+8453 Samuele Brecknall Spain 39 Rubella YES 22-04-1940
+6826 Sabrina Spinola Spain 99 Megavirus YES 29-05-1940
+4591 Inger Dwelly Spain 26 COVID-19 NO
+2885 Nona O'Nion Spain 1 Hepatitis-B NO
+1361 Katleen Cavie Spain 89 Adenovirus YES 28-01-1990
+1578 Elie Headley Spain 78 SARS-CoV-1 YES 09-02-2018
+9591 Harmon Veall Spain 90 HPV NO
+8470 Riki Ciardo Spain 110 Norovirus YES 21-08-1951
+9807 Lynna Tourle Spain 89 Coxsackie-B NO
+4955 Katlin Normanvill Spain 17 Varicella NO
+5971 Bailey Georgins Spain 84 Rubella NO
+0243 Daryl Iskow Spain 104 Epstein-Barr NO
+7856 Amity Girodias Spain 114 Rotavirus NO
+0928 Rudolfo Robardet Spain 111 Megavirus YES 30-11-1911

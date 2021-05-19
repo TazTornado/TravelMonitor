@@ -1,0 +1,29 @@
+5307 Eydie Colliford Guatemala 119 Rabies NO
+4633 Lind Giottini Guatemala 96 Varicella YES 28-10-1921
+3089 Siegfried Ellsbury Guatemala 31 Adenovirus NO
+6047 Clemmy Abrahmson Guatemala 61 Rabies NO
+0046 Huntley DeRuggero Guatemala 99 HIV NO
+5270 Fan Cowtherd Guatemala 68 Cytomegalovirus NO
+5027 Ingunna Ciardo Guatemala 104 SARS-CoV-1 YES 08-03-1959
+5077 Maje Hutt Guatemala 35 Rabies NO
+9763 Cynthea Spadelli Guatemala 116 SARS-CoV-1 YES 01-12-2019
+2364 Marcel Kirsch Guatemala 84 Rotavirus NO
+3367 Helge Jery Guatemala 33 Adenovirus NO
+3719 Florette Mance Guatemala 30 HPV NO
+4791 Renelle Stoffers Guatemala 88 Epstein-Barr NO
+0190 Evelyn Argyle Guatemala 101 Epstein-Barr YES 26-06-1904
+1205 Nicolais Hachard Guatemala 35 Rabies NO
+4127 Irma Ary Guatemala 100 HTLV-1 NO
+9221 Sigfried Bagnal Guatemala 100 Polio NO
+4206 Othella D'Oyly Guatemala 65 Mumps NO
+1253 Jimmy Nelmes Guatemala 11 Varicella NO
+0267 Moshe Ghioni Guatemala 42 HPV YES 08-02-1949
+5669 Mack Masey Guatemala 85 Herpes NO
+0854 Elvin Cadigan Guatemala 42 Herpes NO
+4026 Jarrett Bony Guatemala 17 Coxsackie-B YES 16-06-1977
+3752 Brandice Quainton Guatemala 97 Mumps YES 20-01-1931
+0303 Hervey MacCarrick Guatemala 74 Norovirus YES 16-10-1936
+2934 Gradeigh Scargle Guatemala 44 Polio NO
+9758 Lotty Hammell Guatemala 24 Polio NO
+8315 Fara Brecknall Guatemala 8 HIV NO
+0619 Ash Union Guatemala 88 Rubella YES 01-09-1961

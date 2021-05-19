@@ -1,0 +1,29 @@
+6223 Logan Matantsev Palau 67 COVID-19 YES 24-05-2003
+0677 Faith Windybank Palau 90 COVID-19 NO
+2108 Saraann Chipman Palau 79 Megavirus YES 11-02-2004
+5678 Georgeta Grevile Palau 19 Adenovirus YES 01-03-1915
+3102 Farra Keynes Palau 91 Adenovirus YES 23-08-1974
+7117 Ham Brimacombe Palau 59 Varicella YES 18-11-1976
+0173 Kimble Baiyle Palau 5 Rabies NO
+6426 Nataline Rosencrantz Palau 71 Hepatitis-B NO
+3385 Keenan Almack Palau 30 HIV YES 16-05-1993
+8633 Cecil Carress Palau 84 SARS-CoV-1 NO
+5386 Maura Moquin Palau 27 SARS-CoV-1 YES 22-01-2013
+6044 Arch Lesper Palau 60 Rotavirus NO
+1546 Tore Lawden Palau 86 COVID-19 NO
+0688 Raimund McGuiney Palau 57 COVID-19 NO
+4522 Raimund Ingledew Palau 28 Rabies YES 06-12-2021
+3456 Lynna Ruoss Palau 110 Norovirus NO
+7777 Stoddard Golthorpp Palau 2 Epstein-Barr NO
+0286 Maisey Pedri Palau 108 COVID-19 NO
+6295 Blane Audus Palau 50 Adenovirus YES 21-08-1990
+8709 Lovell Tuxell Palau 117 Megavirus YES 13-04-1931
+9175 Ker Comazzo Palau 61 Polio YES 25-06-1969
+7371 Merci Heinzel Palau 75 Cytomegalovirus NO
+8815 Truman Meneux Palau 56 Rubella YES 06-07-1910
+6717 Davidde Critchley Palau 67 Norovirus NO
+9147 Gus Brownlee Palau 110 Hepatitis-B YES 22-08-2019
+4865 Willie Rawdales Palau 41 HIV NO
+5679 Tish Court Palau 54 Norovirus YES 23-07-1959
+0492 Kayla Bennett Palau 80 HIV YES 01-01-1978
+1606 Phyllida Mathiasen Palau 57 HTLV-1 YES 16-04-1938

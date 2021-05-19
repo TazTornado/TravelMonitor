@@ -1,0 +1,32 @@
+3418 Blane Bibbie Chad 75 Norovirus YES 05-06-1955
+7153 Lucia Grevile Chad 92 Cytomegalovirus YES 15-10-1920
+4032 Richy Eppson Chad 48 COVID-19 NO
+5849 Britni Standen Chad 117 Mumps YES 29-04-1924
+8856 Lorene Hillitt Chad 42 Varicella NO
+8547 Culver Fishwick Chad 120 Hepatitis-B YES 05-01-1997
+0838 Dory Huard Chad 64 Polio NO
+2565 Archibold Lesper Chad 35 Herpes YES 04-10-2013
+2877 Rolfe Fenby Chad 78 Influenza NO
+7831 Thain Galliard Chad 104 Mumps YES 13-05-1929
+3140 Baron Jaycock Chad 119 HPV YES 02-02-1974
+8286 Sheilah Allan Chad 75 HIV NO 10-07-1954
+6752 Sonja Kettley Chad 66 Cytomegalovirus YES 07-08-1903
+9980 Gregorio Travers Chad 89 Epstein-Barr NO
+8951 Mildred Goudge Chad 22 Rotavirus NO
+2776 Kipp Haines Chad 12 Polio NO
+0820 Milzie Cowle Chad 77 Herpes NO
+1292 Shelden Moquin Chad 49 COVID-19 YES 23-07-1910
+9743 Cassondra Such Chad 54 Mumps NO
+9262 Craggy Ghioni Chad 84 HPV NO
+2461 Garrett Doore Chad 114 Polio YES 29-01-1932
+8466 Violante Lebourn Chad 26 Mumps NO
+4934 Leonid DeGregario Chad 118 COVID-19 YES 30-02-1989
+1383 Griselda Nanni Chad 54 Polio YES 23-12-2000
+0044 Celisse Thaller Chad 60 Coxsackie-B NO
+7164 Ester Keirl Chad 36 Influenza NO
+0788 Cassondra Saunter Chad 13 Megavirus YES 19-01-1970
+4362 Yoshiko Morgon Chad 47 SARS-CoV-1 NO
+2168 Lise Scaife Chad 16 Rabies NO
+4830 Dolly Tiery Chad 62 Cytomegalovirus YES 08-02-1901
+8610 Esra Okker Chad 23 Rubella YES 09-12-1979
+3083 Reube Gofton Chad 64 Rabies NO

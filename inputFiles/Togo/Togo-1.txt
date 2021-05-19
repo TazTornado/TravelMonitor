@@ -1,0 +1,31 @@
+9579 Quinton Ewell Togo 94 Influenza YES 21-03-1950
+6139 Sauveur Kenrack Togo 109 Cytomegalovirus YES 10-07-1959
+9238 Gertrude Posnett Togo 114 Polio NO
+6787 Tonie MacKellar Togo 75 Adenovirus NO
+2436 Neils Saunter Togo 85 Epstein-Barr YES 22-11-1920
+2564 Laughton Alison Togo 17 Adenovirus YES 02-02-1955
+8678 Jacquelynn Vasilischev Togo 15 Rabies NO
+3243 Ginger Ostrich Togo 5 HPV NO
+7997 Barbette Moquin Togo 30 Cytomegalovirus YES 01-05-2008
+6460 Jule Kenrack Togo 17 Adenovirus YES 13-09-2006
+4908 Silvain Hedditch Togo 60 Epstein-Barr NO
+6619 Stavro Defew Togo 85 HIV NO 10-11-1916
+9356 Idalina Boydle Togo 55 Megavirus YES 30-07-1947
+3841 Giuseppe Muzzall Togo 115 Rotavirus NO
+1155 Archibold Hirjak Togo 64 Herpes NO
+7818 Shelby Crowcombe Togo 85 HIV YES 22-10-1966
+9522 Bord Baiss Togo 99 Polio NO
+4188 Eydie Chedgey Togo 56 Herpes NO
+5256 Morena Statersfield Togo 19 Adenovirus NO
+5888 Palmer Gritten Togo 24 Varicella YES 17-07-2021
+5153 Palm Critchley Togo 6 Polio YES 27-02-1985
+4926 Joelie Gasking Togo 35 HIV NO
+1162 Jeanna Capes Togo 16 HTLV-1 YES 29-04-1950
+9104 Hillery Bandt Togo 42 Megavirus NO
+0762 Daryl Romera Togo 86 Influenza NO
+2744 Adan Pringley Togo 21 Varicella NO
+0897 Kriste Sutty Togo 68 Cytomegalovirus YES 03-03-1986
+4662 Garald Baudone Togo 11 HTLV-1 YES 08-01-1904
+8207 Hervey McCague Togo 35 Herpes YES 12-12-1954
+7059 Pip Pealing Togo 32 Rabies NO
+6136 Olvan Webster Togo 95 Coxsackie-B NO

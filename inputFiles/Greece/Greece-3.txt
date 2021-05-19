@@ -1,0 +1,28 @@
+3911 Anna-diana Mutimer Greece 78 Adenovirus NO
+8178 Vladimir Tilbey Greece 45 HPV NO
+8348 Ramona Katzmann Greece 69 Hepatitis-B YES 20-04-2004
+7931 Viki Carver Greece 14 Rotavirus YES 10-11-1936
+2665 Morena Sember Greece 31 SARS-CoV-1 YES 02-08-2016
+0858 Tildie Torrisi Greece 84 Rotavirus YES 29-07-2018
+9204 Bernetta Blanko Greece 111 HPV NO
+8343 Othella Veall Greece 69 Rabies YES 15-01-1994
+0117 Jacinda Leachman Greece 118 Coxsackie-B NO
+1119 Lian Hillen Greece 96 HIV YES 23-01-1980
+0556 Daisey Jenoure Greece 87 Influenza YES 10-12-1972
+7793 Janenna Cordier Greece 67 Herpes NO
+2551 Finlay Palombi Greece 23 Rotavirus YES 22-01-1941
+2488 Tanney Fenlon Greece 27 Coxsackie-B YES 28-11-1922
+1242 Lacy Howlin Greece 92 Herpes NO
+1655 Kristel Senyard Greece 10 Herpes NO
+0487 Forster Crummay Greece 82 Norovirus NO
+3625 Madlen Clapton Greece 70 Epstein-Barr YES 04-10-1993
+0389 Honor MacCarrick Greece 8 Herpes YES 18-01-1925
+2830 Tore Dwelly Greece 16 HIV YES 24-08-1927
+2987 Ingamar Upchurch Greece 26 HTLV-1 YES 17-07-1957
+7380 Ulrick Venturoli Greece 116 HTLV-1 YES 10-02-1918
+0397 Marchelle Benois Greece 49 HPV NO
+7775 Tanney Prujean Greece 114 Norovirus NO
+8793 Galvin Luckwell Greece 70 Polio NO
+3890 Abba Bronot Greece 120 Hepatitis-B NO
+2355 Finley Stoltz Greece 106 Cytomegalovirus YES 11-10-1904
+2205 Nataline Braybrook Greece 111 Rubella NO

@@ -1,0 +1,35 @@
+9870 Egan Beardwell Italy 93 Norovirus NO
+4797 Arabela Noble Italy 78 HPV NO
+0847 Pam Brokenbrow Italy 106 Hepatitis-B YES 19-05-1924
+2230 Heidie Amer Italy 111 Rotavirus NO
+2067 Ali Raitie Italy 86 Epstein-Barr YES 30-11-1955
+3025 Dieter Yegorev Italy 114 Adenovirus NO
+7808 Lawrence Cavil Italy 19 SARS-CoV-1 YES 20-08-1904
+9647 Kipp Diack Italy 79 HTLV-1 NO
+0733 Daisey Toby Italy 62 Polio NO
+5480 Nona Rapson Italy 94 Epstein-Barr NO
+5670 Nelly Grimsdyke Italy 70 Rabies YES 27-09-1908
+2084 Euell Plewes Italy 112 SARS-CoV-1 NO
+6785 Deva Raymont Italy 97 Cytomegalovirus NO
+7528 Reube Harmson Italy 118 Megavirus NO
+9833 Julius Ventum Italy 31 Herpes YES 27-04-1906
+7486 Darby Yashaev Italy 83 SARS-CoV-1 NO
+7996 Ramsay Hammell Italy 27 Rubella NO
+4421 Nessa Sanders Italy 106 COVID-19 YES 07-05-1920
+3145 Constanta Grigorian Italy 54 Polio YES 29-12-1919
+4798 Reinhold Jennens Italy 120 Cytomegalovirus YES 25-01-1990
+2914 Irma Mattiato Italy 109 COVID-19 YES 09-02-1915
+7354 Shermy Bogges Italy 92 Megavirus NO
+0912 Fawne Deam Italy 74 Cytomegalovirus YES 15-03-1929
+6831 Bertrand Fletham Italy 65 Polio YES 26-05-1942
+8492 Alfredo Crummay Italy 70 Influenza NO
+2864 Raimund Duchatel Italy 51 Varicella NO
+3592 Dominique Fleischmann Italy 103 SARS-CoV-1 YES 03-04-2020
+9370 Giulia Doore Italy 57 Epstein-Barr YES 18-06-1975
+2059 Othelia Enriques Italy 21 Herpes NO
+4361 Kalindi Sendley Italy 35 Influenza NO
+2817 Gloriane Jaycock Italy 27 Norovirus YES 20-07-1963
+8692 Angel Gateley Italy 112 Herpes NO
+2088 Augie Nestor Italy 105 Epstein-Barr NO
+7318 Biron Brookes Italy 52 COVID-19 NO
+7736 Niki Cheine Italy 78 Rabies NO

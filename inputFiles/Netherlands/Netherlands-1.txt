@@ -1,0 +1,29 @@
+6591 Elysee Mawd Netherlands 62 Norovirus YES 01-12-1941
+3644 Harmon Bourne Netherlands 25 Rabies YES 12-12-1959
+8259 Ann Hirjak Netherlands 2 Influenza NO
+6796 Malina Diack Netherlands 45 Adenovirus YES 08-01-1995
+8420 Auria Scranedge Netherlands 40 Megavirus YES 30-11-1916
+2811 Egon Auchterlonie Netherlands 95 Rabies YES 05-03-1916
+0320 Meyer Skiplorne Netherlands 77 HTLV-1 YES 15-03-1984
+7731 Gus Pringley Netherlands 46 Cytomegalovirus NO
+9609 Mordy Hebard Netherlands 120 Herpes YES 08-07-1939
+8027 Carey Ianelli Netherlands 52 Hepatitis-B YES 16-02-1905
+1434 Eba Terzi Netherlands 91 Norovirus NO
+6847 Carita Duckham Netherlands 111 Herpes NO
+5991 Mercy Smithen Netherlands 120 Polio NO
+1697 Remus Webster Netherlands 96 COVID-19 YES 06-09-1911
+6942 Kyle Brittan Netherlands 37 Hepatitis-B NO
+7138 Calvin Fishbie Netherlands 70 Cytomegalovirus NO
+8255 Ajay Iacovo Netherlands 22 Varicella YES 19-06-2010
+7469 Nathan Abrahmson Netherlands 26 Hepatitis-B YES 14-07-1914
+8029 Tally Winwood Netherlands 65 HPV NO
+1784 Ajay Diack Netherlands 96 Norovirus YES 12-02-1952
+4620 Thaddus Grassin Netherlands 18 Coxsackie-B YES 05-06-1956
+6577 Harmon Aggus Netherlands 71 Mumps NO
+5547 Ham Sendley Netherlands 38 Varicella NO 19-11-2007
+5763 Malvina Clapton Netherlands 35 Rabies NO
+4059 Janenna Manske Netherlands 12 HIV NO
+3405 Owen McGowing Netherlands 23 HPV YES 28-10-2008
+7158 Leyla Clowsley Netherlands 117 HIV NO
+4084 Margalit Hasted Netherlands 107 HPV YES 02-12-1938
+1351 Del Gowenlock Netherlands 80 Adenovirus NO

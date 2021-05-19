@@ -1,0 +1,29 @@
+5261 Eldon McFee Cuba 67 SARS-CoV-1 NO
+6792 Kennie Steers Cuba 52 Influenza YES 13-09-1987
+7985 Diego Doore Cuba 52 Coxsackie-B YES 14-05-1955
+6172 Jody Demageard Cuba 114 Coxsackie-B NO
+2774 Teodor Wrightson Cuba 88 Adenovirus NO
+3557 Liva Drewry Cuba 83 Herpes YES 18-03-1983
+1832 Tandi Dodle Cuba 19 Mumps YES 28-05-2010
+1455 Aloisia Standen Cuba 89 Rabies YES 02-02-1947
+2134 Terrye Hudghton Cuba 117 COVID-19 NO
+8773 Daphna Constantinou Cuba 105 Varicella YES 03-02-1964
+8399 Boyd Pealing Cuba 7 Epstein-Barr YES 13-05-1967
+8230 Anna-diana Garrett Cuba 37 HIV NO
+2153 Georgeta Grigorian Cuba 76 Hepatitis-B YES 03-04-2015
+6602 Melva Fludder Cuba 21 Hepatitis-B YES 22-11-1928
+2043 Janenna Fittes Cuba 21 HTLV-1 YES 30-02-1908
+8117 Craggy Dwelly Cuba 93 Epstein-Barr NO
+9778 Brit Martynikhin Cuba 42 Hepatitis-B NO
+8942 Lise Gauche Cuba 8 Herpes NO
+6621 Kessia Murkus Cuba 69 Mumps NO
+6503 Jasmin Jeayes Cuba 45 HPV NO
+3147 Dew Fishwick Cuba 14 HPV NO
+2413 Tandi Baiyle Cuba 99 Coxsackie-B NO
+8983 Faulkner Swigger Cuba 18 Coxsackie-B YES 30-07-1964
+6326 Nicoline Douthwaite Cuba 106 Rubella YES 21-05-1945
+9863 Jarret Gasking Cuba 39 Influenza NO 05-01-1912
+5790 Mikol Bogges Cuba 62 Megavirus NO
+6310 Hadria Bram Cuba 82 Rabies YES 15-02-1980
+7915 Nathan DeGregario Cuba 29 HPV NO
+8721 Torrance Drought Cuba 55 Varicella YES 22-08-1961

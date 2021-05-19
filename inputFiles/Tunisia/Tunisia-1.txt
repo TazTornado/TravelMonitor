@@ -1,0 +1,30 @@
+0671 Keenan Monnelly Tunisia 8 Rabies YES 12-12-1990
+9524 Clyde DeFrancesco Tunisia 84 Hepatitis-B NO 23-02-1953
+6758 Maryellen Roake Tunisia 57 HTLV-1 NO
+2195 Esra Been Tunisia 26 SARS-CoV-1 NO
+0640 Christoffer McCague Tunisia 62 HTLV-1 NO
+1629 Arlen Josefovic Tunisia 53 Coxsackie-B NO
+2464 Liva Draayer Tunisia 2 HTLV-1 NO
+6487 Horst Spadelli Tunisia 7 Influenza NO
+7531 Waverley Sturgis Tunisia 94 Influenza NO
+8760 Vladimir Sheaber Tunisia 112 Norovirus YES 30-09-1997
+8786 Corny Swainger Tunisia 104 Influenza NO
+6768 Milo Gotfrey Tunisia 82 Rabies YES 29-05-1918
+9181 Nannie Guppey Tunisia 33 Rubella YES 17-06-1901
+7087 Idalia Tuxell Tunisia 77 HTLV-1 NO
+5317 Claudia Shipp Tunisia 119 Influenza YES 19-01-1902
+1514 Anna-diana MacConnal Tunisia 82 Varicella YES 29-01-1951
+4976 Judy Rikkard Tunisia 50 Varicella NO
+4019 Rosy Follet Tunisia 26 COVID-19 YES 07-11-1916
+2902 Karola Sanches Tunisia 111 Rotavirus NO
+9639 Juliet Geldeford Tunisia 3 Rotavirus YES 22-04-1960
+1447 Allie Deware Tunisia 35 Megavirus YES 11-08-2015
+1315 Charmian Brookbank Tunisia 69 Varicella NO 02-03-1934
+3535 Ken Shipp Tunisia 82 COVID-19 NO
+7089 Aldin Cron Tunisia 94 Rubella YES 19-12-2008
+9619 Phyllida Crumbleholme Tunisia 80 Adenovirus NO
+1050 Karisa Duffy Tunisia 10 SARS-CoV-1 YES 24-10-1963
+2021 Josephine Revel Tunisia 64 Epstein-Barr YES 02-06-2020
+4299 Chantalle Girke Tunisia 61 Rotavirus YES 17-11-1946
+0017 Ashely Gumn Tunisia 47 Varicella NO
+3966 Diarmid Coltart Tunisia 66 HTLV-1 NO

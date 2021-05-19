@@ -1,0 +1,36 @@
+9348 Isabeau Barensen Norway 102 Herpes NO
+8762 Evangeline Revel Norway 54 HTLV-1 NO
+3588 Lacie Quainton Norway 119 Megavirus YES 09-03-1941
+0658 Skippie Sonier Norway 51 Coxsackie-B NO
+7503 Teri Dewett Norway 60 HPV YES 26-01-1923
+2111 Giulia Flori Norway 41 Varicella NO
+7228 Duke Isley Norway 36 Adenovirus NO
+9830 Brandtr Penberthy Norway 31 Herpes YES 03-03-1940
+7574 Udell Ellsbury Norway 110 Cytomegalovirus NO
+6809 Ann Blackey Norway 68 Mumps NO
+2640 Kurt Juschka Norway 28 Megavirus NO
+3580 Mellie Gauche Norway 78 Mumps NO
+2034 Shelby Duchatel Norway 51 Rubella YES 11-09-2008
+3027 Felipa Pike Norway 118 Megavirus NO
+6992 Helge Lawden Norway 119 Adenovirus YES 10-12-1905
+7737 Horatio Truesdale Norway 60 HIV YES 21-08-1922
+8010 Zita Butterworth Norway 46 Herpes NO
+1952 Joline Shadfourth Norway 99 Hepatitis-B NO
+7120 Odelinda Endecott Norway 113 Hepatitis-B NO
+0457 Burch Matzeitis Norway 110 Adenovirus YES 04-05-1982
+7255 Christopher Manske Norway 116 Megavirus YES 18-03-1917
+9252 Noelle Likely Norway 27 Cytomegalovirus YES 24-03-2012
+8506 Lian Chipman Norway 11 HTLV-1 YES 01-07-2013
+3206 Ring Parnby Norway 78 HTLV-1 YES 17-11-1954
+8434 Sonny Gerkens Norway 33 HTLV-1 NO
+6964 Marlin Scargle Norway 42 Norovirus YES 28-08-1923
+6083 Blane Errigo Norway 102 Hepatitis-B NO
+9538 Gordan Rapson Norway 104 Adenovirus NO
+5043 Fidelia O'Nion Norway 55 Coxsackie-B NO
+9732 Nicolai Simionescu Norway 57 HPV NO
+7962 Michelle Tryme Norway 18 Hepatitis-B YES 08-09-2017
+5812 Rina Benion Norway 79 Coxsackie-B NO
+7127 Tawsha Wife Norway 26 COVID-19 NO
+5880 Moreen Noorwood Norway 66 Rabies YES 09-01-1904
+1761 Corly Gye Norway 67 SARS-CoV-1 YES 25-10-1949
+9624 Shay Wellesley Norway 96 HTLV-1 YES 18-10-1917

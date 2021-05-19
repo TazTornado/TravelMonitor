@@ -1,0 +1,34 @@
+5957 Tandi Loram Syria 89 SARS-CoV-1 NO
+8540 Lawrence Guppey Syria 108 SARS-CoV-1 YES 14-10-1905
+0859 Renate Monnelly Syria 54 Influenza YES 10-10-1904
+7639 Karlyn Pelfer Syria 107 SARS-CoV-1 NO
+2821 Kinny Winwood Syria 109 Megavirus YES 07-03-1972
+2241 Lynett Capes Syria 82 Rabies YES 28-03-1963
+8621 Archibold McAuley Syria 10 Rubella YES 19-10-1964
+0670 Dukie Ghioni Syria 24 Mumps YES 21-02-1957
+7844 Latashia Horick Syria 16 Megavirus YES 28-07-1928
+6513 Marissa Wellbeloved Syria 23 Influenza NO
+0607 Riki Ciardo Syria 66 SARS-CoV-1 NO
+5459 Giorgio McCague Syria 74 Mumps NO
+3974 Martyn Allsebrook Syria 74 Polio NO
+3392 Fawnia Baudone Syria 38 Cytomegalovirus NO
+8995 Nancee Arlet Syria 99 HPV NO
+5577 Ramsay Breckon Syria 65 HPV NO
+8785 Vina DeFrancesco Syria 49 HIV YES 06-11-2021
+4194 Patsy Dowrey Syria 60 Norovirus NO
+5850 Sonnie Adamo Syria 119 Rubella YES 16-10-1999
+2253 Eadith Nial Syria 45 HPV YES 09-12-1930
+9451 Wyn Regan Syria 41 Hepatitis-B YES 06-04-1918
+0922 Courtney Plewes Syria 54 Rubella NO
+8546 Valentine Fleischmann Syria 90 Cytomegalovirus NO
+4761 Florance Edrich Syria 22 SARS-CoV-1 YES 08-05-1997
+5753 Hunt Youthed Syria 65 HPV NO
+2053 Devi Ervine Syria 120 Herpes YES 03-02-1997
+2336 Shannan Leavens Syria 108 Coxsackie-B NO
+1096 Ginnifer Huard Syria 70 Rubella YES 17-12-1978
+5121 Sophey Beardwell Syria 9 Cytomegalovirus YES 08-12-1907
+6565 Renate Tiery Syria 67 Epstein-Barr NO
+5564 Tiffy Roake Syria 34 SARS-CoV-1 YES 20-06-1914
+7098 Woodie Wabersinke Syria 15 Rubella YES 15-07-2008
+9694 Noelle Farloe Syria 16 SARS-CoV-1 NO 17-01-1923
+9255 Lock Skelding Syria 48 HIV YES 08-01-1977

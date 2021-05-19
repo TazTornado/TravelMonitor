@@ -1,0 +1,32 @@
+7369 Jory Pringley Guyana 110 Influenza NO
+1502 Georgeta Ivanishchev Guyana 5 Influenza YES 20-01-1909
+3897 Samantha Shelborne Guyana 42 SARS-CoV-1 YES 02-11-1952
+9597 Arabela Stanbra Guyana 46 Influenza YES 14-07-1978
+1265 Brandtr Snowsill Guyana 36 Epstein-Barr YES 23-09-1958
+7994 Fabien Curran Guyana 102 Hepatitis-B YES 16-06-1956
+1226 Sean Ewell Guyana 40 Adenovirus NO
+9933 Oralie Vasiliev Guyana 65 HPV YES 07-06-1971
+4041 Doti Youthed Guyana 65 Epstein-Barr NO
+8193 Rolfe Follet Guyana 40 COVID-19 NO
+6839 Nataline Giottini Guyana 49 Adenovirus YES 23-07-1985
+5943 Loydie Rosendahl Guyana 42 Polio YES 26-10-1907
+0826 Florance Degan Guyana 62 COVID-19 NO 28-04-1972
+6622 Antone Statersfield Guyana 78 Cytomegalovirus YES 19-12-1998
+8648 Ellary Whittier Guyana 18 HTLV-1 YES 13-07-1920
+9974 Grant Petkov Guyana 35 Varicella NO
+1432 Arne Bachelor Guyana 8 Adenovirus YES 07-11-1961
+3825 Fara Sheaber Guyana 107 Herpes YES 30-05-1906
+8726 Zackariah Bulpitt Guyana 50 HTLV-1 NO
+0766 Orly Micallef Guyana 98 Influenza NO
+5249 Rouvin Rummings Guyana 83 Adenovirus NO
+4498 Milton Cowtherd Guyana 33 Rotavirus YES 25-01-1901
+9608 Arne Coltart Guyana 113 Varicella NO
+9577 Lenna Rigg Guyana 9 HTLV-1 YES 17-10-1959
+2398 Daisey Rodden Guyana 1 Cytomegalovirus NO
+0216 Marwin Bolter Guyana 71 Polio NO
+3640 Ermengarde Fleischmann Guyana 84 Rubella NO
+8121 Melva Bibbie Guyana 85 SARS-CoV-1 NO 06-09-2010
+3747 Jasmin Mottinelli Guyana 4 HTLV-1 YES 05-10-1963
+8423 Ingamar Adamo Guyana 95 Rotavirus NO
+0908 Neils Bogace Guyana 27 Epstein-Barr NO
+2770 Briny Flori Guyana 103 HIV YES 01-04-1930
