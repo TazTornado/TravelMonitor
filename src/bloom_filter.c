@@ -125,6 +125,27 @@ void SetBits(BloomFilter *virusNode, const char *ID, int mapsize){
 }
 
 
+int CombineFilters(BloomFilterSet *set, BloomFilter *virusNode, int mapsize){
+	BloomFilter *existing_node = BloomSearch(set, virusNode->virus);
+
+	if(existing_node == NULL){
+		set->last->next = virusNode;
+		virusNode->next = NULL;
+		set->last = virusNode;
+	} else {
+		for(int i = 0; i < mapsize; i++){
+			if((existing_node->bitmap[i] == '0') && (virusNode->bitmap[i] == '1'))
+				existing_node->bitmap[i] = '1';
+
+			free(virusNode->bitmap);
+			free(virusNode->virus);
+			free(virusNode);
+		}
+	}
+}
+
+
+
 
 int BloomAddVirus(BloomFilterSet *set, const char *virus){
 // adds a bloom filter for given virus to the set
