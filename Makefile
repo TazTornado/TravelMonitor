@@ -1,15 +1,12 @@
-#############################################################################
-# Compilation Options:														#
-# 	  Command					Action										#
-# ------------------------------------------------------------------------- #
-# >> make all	  	=> all source files and creates all executables			#
-# >> make myprime 	=> myprime and its dependencies							#
-# >> make Inode		=> Inode and its dependencies							#
-# >> make prime1	=> only prime1											#
-# >> make prime2	=> only prime2											#
-# >> make prime3	=> only prime3											#
-# >> make clean		=> removes all object and all executable files			#
-#############################################################################
+#####################################################################################
+# Compilation Options:																#
+# 	  Command					Action												#
+# ------------------------------------------------------------------------- 		#
+# >> make all	  			=> all source files and creates all executables			#
+# >> make travelMonitor 	=> travelMonitor and its dependencies					#
+# >> make Monitor			=> Monitor and its dependencies							#											#
+# >> make clean				=> removes all object and all executable files			#
+#####################################################################################
 
 IDIR = ../include
 ODIR = ../obj
@@ -18,32 +15,20 @@ CC = gcc
 CFLAGS = -ggdb -Wall -I$(IDIR)
 
 
-_DEPS = subrange.h datatypes.h
+_DEPS = datatypes.h bloom_filter.h skip_list.h travelMon_utilities.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
 
 $(ODIR)/%.o: %.c $(DEPS)
 	@$(CC) -c -o $@ $< $(CFLAGS)
 
-all: Inode prime1 prime2 prime3 myprime
+all: Monitor travelMonitor
 
-Inode: $(ODIR)/Inode.o $(ODIR)/subrange.o 
-	@echo creating Inode..
+Monitor: $(ODIR)/Monitor.o $(ODIR)/bloom_filter.o $(ODIR)/skip_list.o #$(ODIR)/monitor_utilities.o
+	@echo creating Monitor..
 	@$(CC) -o $(BDIR)/$@ $^ $(CFLAGS)
 
-prime1: $(ODIR)/prime1.o
-	@echo creating prime1..
-	@$(CC) -o $(BDIR)/$@ $^ $(CFLAGS)
-
-prime2: $(ODIR)/prime2.o
-	@echo creating prime2..
-	@$(CC) -o $(BDIR)/$@ $^ $(CFLAGS) -lm
-
-prime3: $(ODIR)/prime3.o
-	@echo creating prime3..
-	@$(CC) -o $(BDIR)/$@ $^ $(CFLAGS) -lm
-
-myprime: $(ODIR)/myprime.o $(ODIR)/subrange.o 
-	@echo creating myprime..
+travelMonitor: $(ODIR)/travelMonitor.o $(ODIR)/bloom_filter.o $(ODIR)/skip_list.o $(ODIR)/travelMon_utilities.o
+	@echo creating travelMonitor..
 	@$(CC) -o $(BDIR)/$@ $^ $(CFLAGS)
 
 .PHONY: clean
