@@ -63,7 +63,7 @@ int InputParser(const char *filename, BloomFilterSet *bloomset, SkipListSet *vac
 	}
 
 	char *recordline = NULL;    // variable to hold each line of input file
-	size_t line_size = 0;         // let getline allocate just as much space as necessary  
+	size_t line_size = 0;      	// let getline allocate just as much space as necessary  
 	int return_value = 0;
 	char *temp_date = NULL;
 

@@ -38,8 +38,9 @@ int main(int argc, char **argv){
 	if(num_countries < num_monitors)		// too many monitors => only keep as many as necessary
 		num_monitors = num_countries;
 
-	if(buffer_size < 128){
-		// error
+	if(buffer_size < sizeof(int)){
+		printf("ERROR: buffer size should be >= %ld\n", sizeof(int));
+		exit(EXIT_FAILURE);
 	}
 
 /////////////////////////////*		Create Monitors		*/////////////////////////////

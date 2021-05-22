@@ -20,6 +20,7 @@ typedef struct Citizen{   // A Citizen's info will be stored here
 } Citizen;
 
 
+
 struct MonitorInfo{
 	pid_t monitor_id;
 	char **assigned_countries;
