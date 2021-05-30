@@ -57,3 +57,5 @@ dkms.conf
 /input_dir/*
 /testFiles/*.txt
 testing.sh
+/src/travelMon_utilities.c
+/inc/travelMon_utilities.h

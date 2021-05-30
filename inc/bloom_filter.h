@@ -22,6 +22,7 @@ unsigned long hash_i(unsigned char *,unsigned int);
 BloomFilterSet *BloomInit(int);
 BloomFilter *BloomSearch(BloomFilterSet *, const char *);
 void SetBits(BloomFilter *, const char *, int);
+void CombineFilters(BloomFilterSet *, BloomFilter *, int);
 int BloomAddVirus(BloomFilterSet *, const char *);
 int BloomInsertElement(BloomFilterSet *, int , const char *);
 int BloomTest(BloomFilterSet *, const char *, int );

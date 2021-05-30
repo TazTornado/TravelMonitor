@@ -83,24 +83,24 @@ char **ArgHandler(int argc, char **argv){
 
 
 
-int CountSubdirs(const char *dir_path){
-	int count = 0;
-	DIR *directory;
-	struct dirent *info;
+// int GetSubdirs(const char *dir_path){
+// 	int count = 0;
+// 	DIR *directory;
+// 	struct dirent *info;
 
-	directory = opendir(dir_path);
-	if(directory == NULL){
-		perror("CountDirs failed to open directory");
-		return -1;
-	}
+// 	directory = opendir(dir_path);
+// 	if(directory == NULL){
+// 		perror("CountDirs failed to open directory");
+// 		return -1;
+// 	}
 
-	while ((info = readdir(directory)) != NULL) {
-		if (info->d_type == DT_DIR) 
-			count++;
-	}
-	closedir(directory);
-	return count;
-}
+// 	while ((info = readdir(directory)) != NULL) {
+// 		if (info->d_type == DT_DIR) 
+// 			count++;
+// 	}
+// 	closedir(directory);
+// 	return count;
+// }
 
 
 ///////////////////     Main functions of the application     ///////////////////

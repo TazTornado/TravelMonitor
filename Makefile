@@ -8,26 +8,27 @@
 # >> make clean				=> removes all object and all executable files			#
 #####################################################################################
 
-IDIR = ../include
-ODIR = ../obj
-BDIR = ../bin
+SDIR = ./src
+IDIR = ./inc
+ODIR = ./obj
+BDIR = ./bin
 CC = gcc
 CFLAGS = -ggdb -Wall -I$(IDIR)
 
 
-_DEPS = datatypes.h bloom_filter.h skip_list.h travelMon_utilities.h
+_DEPS = datatypes.h bloom_filter.h skip_list.h utilities.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
 
-$(ODIR)/%.o: %.c $(DEPS)
+$(ODIR)/%.o: $(SDIR)/%.c $(DEPS)
 	@$(CC) -c -o $@ $< $(CFLAGS)
 
 all: Monitor travelMonitor
 
-Monitor: $(ODIR)/Monitor.o $(ODIR)/bloom_filter.o $(ODIR)/skip_list.o #$(ODIR)/monitor_utilities.o
+Monitor: $(ODIR)/monitor.o $(ODIR)/bloom_filter.o $(ODIR)/skip_list.o $(ODIR)/utilities.o
 	@echo creating Monitor..
 	@$(CC) -o $(BDIR)/$@ $^ $(CFLAGS)
 
-travelMonitor: $(ODIR)/travelMonitor.o $(ODIR)/bloom_filter.o $(ODIR)/skip_list.o $(ODIR)/travelMon_utilities.o
+travelMonitor: $(ODIR)/travel_monitor.o $(ODIR)/bloom_filter.o $(ODIR)/skip_list.o $(ODIR)/utilities.o
 	@echo creating travelMonitor..
 	@$(CC) -o $(BDIR)/$@ $^ $(CFLAGS)
 

@@ -4,9 +4,18 @@
 #include "skip_list.h"
 #include "datatypes.h"
 
-char **ArgHandler(int, char **);
-int CountSubdirs(const char *);
+typedef struct SubdirsInfo{
+	int count;					// number of subdirectories
+	char **subdirectories;		// names of subdirectories
+}
 
-// void vaccineStatusBloom(char *, char *, BloomFilterSet *);
-// void VaccineStatus(char *, char *, SkipListSet *, SkipListSet *);
-// void insertCitizenRecord(char *, char *, HashTable *, BloomFilterSet *, SkipListSet *, SkipListSet *);
+
+typedef struct MonitorInfo{
+	pid_t monitor_id;
+	char **fifo_names;
+	FILE **fifo_streams;
+} MonitorInfo;
+
+
+
+char **ArgHandler(int, char **);

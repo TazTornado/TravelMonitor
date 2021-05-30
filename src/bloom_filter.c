@@ -125,7 +125,7 @@ void SetBits(BloomFilter *virusNode, const char *ID, int mapsize){
 }
 
 
-int CombineFilters(BloomFilterSet *set, BloomFilter *virusNode, int mapsize){
+void CombineFilters(BloomFilterSet *set, BloomFilter *virusNode, int mapsize){
 	BloomFilter *existing_node = BloomSearch(set, virusNode->virus);
 
 	if(existing_node == NULL){

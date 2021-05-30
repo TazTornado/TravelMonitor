@@ -18,10 +18,3 @@ typedef struct Citizen{   // A Citizen's info will be stored here
 	char *yes_or_no;		// "YES" if citizen is vaccinated for virus
 	Date *date_vaccinated;	// NULL if citizen is not vaccinated
 } Citizen;
-
-
-
-struct MonitorInfo{
-	pid_t monitor_id;
-	char **assigned_countries;
-} MonitorInfo;

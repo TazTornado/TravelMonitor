@@ -2,10 +2,84 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "monitor_utilities.h"
+#include "utilities.h"
 #include "bloom_filter.h"
 #include "skip_list.h"
 #include "datatypes.h"
+
+
+
+char **ArgHandler(int argc, char **argv){
+/*
+	Does the error checking for inline parameters of the program.
+	Returns a clean vector of the 2 arguments as strings.
+*/
+
+	char **args = malloc(4 * sizeof(char*));	// argument vector to return
+	
+	if(args == NULL){
+		perror("ArgHandler -> malloc error ");
+		return NULL;
+	} 		
+	int mflag = 0, bflag = 0, sflag = 0, iflag = 0;       	// flags to check if all inline parameters were provided
+
+	while(--argc){ 
+		if(strcmp(*argv, "-m") == 0){		// numMonitors
+			if(mflag == 0){
+				args[0] = strdup(*(argv + 1));
+				mflag = 1;
+			} else {
+				printf("Invalid argument.\n./travelMonitor –m numMonitors -b bufferSize -s sizeOfBloom -i input_dir\n\n");
+				free(args);
+				return NULL;
+			}
+		}
+		if(strcmp(*argv, "-b") == 0){		// bufferSize
+			if(bflag == 0){
+				args[1] = strdup(*(argv + 1));
+				bflag = 1;
+			} else {
+				printf("Invalid argument.\n./travelMonitor –m numMonitors -b bufferSize -s sizeOfBloom -i input_dir\n\n");
+				free(args);
+				return NULL;
+			}
+		}
+
+		if(strcmp(*argv, "-s") == 0){		// sizeOfBloom
+			if(sflag == 0){
+				args[2] = strdup(*(argv + 1));
+				sflag = 1;
+			} else {
+				printf("Invalid argument.\n./travelMonitor –m numMonitors -b bufferSize -s sizeOfBloom -i input_dir\n\n");
+				free(args);
+				return NULL;
+			}
+		}
+
+		if(strcmp(*argv, "-i") == 0){		// input_dir
+			if(iflag == 0){
+				args[3] = strdup(*(argv + 1));
+				printf("ok");
+				iflag = 1;
+			} else {
+				printf("Invalid argument.\n./travelMonitor –m numMonitors -b bufferSize -s sizeOfBloom -i input_dir\n\n");
+				free(args);
+				return NULL;
+			}
+		}
+
+		argv++;
+	}
+
+	if((mflag != 1) || (bflag != 1) || (sflag != 1) || (iflag != 1)){		
+		printf("Usage: ./travelMonitor –m numMonitors -b bufferSize -s sizeOfBloom -i input_dir\nAll parameters are mandatory, flexible order.\n");
+		free(args);
+		return NULL;
+	}
+
+	return args;
+}
+
 
 
 
@@ -17,8 +91,8 @@ Date *GetDate(const char *str_date){
 	and NULL if it fails.
 */
 
-	if(strlen(str_date > 11 || str_date[2] != '-' || str_date[5] != '-')){
-		retrun NULL;
+	if(strlen(str_date) > 11 || str_date[2] != '-' || str_date[5] != '-'){
+		return NULL;
 	}
 
 	Date *dt = malloc(sizeof(Date));
@@ -64,7 +138,7 @@ int InputParser(const char *filename, BloomFilterSet *bloomset, SkipListSet *vac
 
 	char *recordline = NULL;    // variable to hold each line of input file
 	size_t line_size = 0;      	// let getline allocate just as much space as necessary  
-	int return_value = 0;
+	// int return_value = 0;
 	char *temp_date = NULL;
 
 	while(getline(&recordline, &line_size, inputfile) > 0){   // read until end of file
@@ -139,9 +213,9 @@ int InputParser(const char *filename, BloomFilterSet *bloomset, SkipListSet *vac
 				}
 
 			} else {	// found list, check if citizen has already registered
-				citizen_entry = ListFindClosest(vaccinated, list, rec->ID);
+				citizen_entry = ListFindClosest(vaccinated, list, rec->citizenID);
 
-				if(citizen_entry->ID == rec->ID){	// already registered for this virus
+				if(citizen_entry->ID == rec->citizenID){	// already registered for this virus
 					printf("ERROR IN RECORD %d %s %s %s %d %s %s %s(ERROR: inconsistent record).\n", rec->citizenID, rec->first_name, rec->last_name, rec->country, rec->age, rec->virus, rec->yes_or_no, temp_date);
 					free(rec->first_name);
 					free(rec->last_name);
@@ -177,9 +251,9 @@ int InputParser(const char *filename, BloomFilterSet *bloomset, SkipListSet *vac
 					printf("Failed to add virus %s in not vaccinated_person set.\n", rec->virus);
 				}
 			} else {	// found list, check if citizen has already registered
-				citizen_entry = ListFindClosest(not_vaccinated, list, rec->ID);
+				citizen_entry = ListFindClosest(not_vaccinated, list, rec->citizenID);
 
-				if(citizen_entry->ID == rec->ID){	// already registered for this virus
+				if(citizen_entry->ID == rec->citizenID){	// already registered for this virus
 					printf("ERROR IN RECORD %d %s %s %s %d %s %s %s(ERROR: inconsistent record).\n", rec->citizenID, rec->first_name, rec->last_name, rec->country, rec->age, rec->virus, rec->yes_or_no, temp_date);
 					free(rec->first_name);
 					free(rec->last_name);
